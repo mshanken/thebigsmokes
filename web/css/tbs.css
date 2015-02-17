@@ -67,16 +67,7 @@
 		margin-left: 10px !important;
     }
 }
-@media all and (max-width: 600px) {
-    .order-ticket{
-		margin-left: 10px !important;
-    }
-}
-@media all and (max-width: 600px) {
-    .order-ticket2{
-		margin-left: 10px !important;
-    }
-}
+
 @media all and (max-width: 600px) {
     .description{
 		margin-left: 10px;
