@@ -4,6 +4,9 @@ body{
 	background-position: center;*/
 	background-color: #000000;
 }
+.border{
+	padding-left: 18px;
+}
 p{
 	font-size: 17px;
 	color:#000;
@@ -17,6 +20,15 @@ img {
 }
 a{
 	color:#000;
+}
+.index_text{
+	margin:10px 15px 20px 15px;
+	font-size: 18px;
+	text-align: center;
+}
+.capital{
+	text-transform: uppercase;
+
 }
 .hotel{
 	margin-top: 20px;
@@ -33,13 +45,14 @@ a{
 	font-size:18px;
 	font-family: Arial;
 	margin-top: 0;
-	margin-left: 10px;
+	margin-left: 18px;
 }
 .second_sidetext{
 	font-size:18px;
 	font-family: Arial;
 	margin-top: 0;
 	margin-left: 0px;
+	margin-left: 15px;
 }
 .click_here{
 	color:#c71f25;
@@ -56,11 +69,12 @@ a{
 	margin-bottom:10px;
 }
 .foot_text{
-	color:#3b607e;
+	color:#01798e;
 	font-family: Georgia;
 	font-weight: bold;
 	font-size: 23px;
 	margin-top: 0;
+	margin-left: 10px;
 }
 .sem_text{
 	font-size: 13px;
@@ -134,6 +148,7 @@ a{
 }
 .cigar_list{
 	margin-top:10px;
+	color:#01798e;
 }
 .ca_name{
 	font-family:Arial;
@@ -141,13 +156,13 @@ a{
 	text-align: center;
 }
 .home-header{
-	color:#3b607e;
+	color:#01798e;
 	font-family:Georgia;
 	font-weight:bold;
 	font-size:24px;
 	text-align: center;
 	margin-bottom: 0px;
-	margin-top: 0;
+	margin-top: 15px;
 }
 .home_head_text{
 	padding-left: 20px;
@@ -173,11 +188,10 @@ a{
     text-align: center;
     font-family: Arial;
     font-size: 19px;
-    border-bottom: 3px solid #a4b4c1;
     margin-top: 0;
 }
 .home_smoke{
-	color:#3b607e;
+	color:#01798e;
 	font-family: Georgia;
 	font-weight: bold;
 	font-size: 23px;
@@ -186,8 +200,9 @@ a{
 }
 .home_foot_text{
 	font-family: Arial;
-	font-size: 12px;
+	font-size: 13px;
 	text-align: center;
+	font-weight: bold;
 }
 .seminar_head_text{
 	padding-left:20px;
@@ -196,7 +211,7 @@ a{
 	text-align:center;
 	font-family:Arial;
 	font-size:19px; 
-	border-bottom: 3px solid #a4b4c1;
+	border-bottom: 3px solid #01798e;
 }
 .sem_header_image{
 	margin-left: 0px;
@@ -213,19 +228,24 @@ a{
     padding-left: 10px;
 }
 .cigar_list{
-	color:#3b607e;
+	color:#01798e;
 	font-family:Arial;
 	font-weight:bold;
 	font-size: 20px;
 	text-transform:uppercase;
 }
+.cigar_list_text{
+	margin-right:15px;
+}
 .new_seminar{
 	text-align: center;
 	font-family:Arial;
+	margin-right: 15px;
+	margin-left: 15px;
 }
 .semi_link{
 	font-weight:bold;
-	color:#3b607e;
+	color:#01798e;
 }
 .order_ticket{
 	margin:0 auto;
@@ -261,34 +281,38 @@ a{
 
 /* AGENDA PAGE */
 .weekend-schedule{
-	color: #3b607e;
+	color: #01798e;
     font-family: Georgia;
     font-weight: bold;
     font-size: 25px;
     margin-top: 0;
     text-decoration:underline;
+    margin-left: 20px;
 }
 .weekend-day{
-	color: #3b607e;
+	color: #01798e;
     font-family: Arial;
     font-weight: bold;
     font-size: 20px;
     margin-top: 0;
     margin-bottom:0px;
+    margin-left: 20px;
 }
 .weekend-time{
 	font-size: 17px;
 	margin-top: 0;
     margin-bottom:0px;
+    margin-left: 20px;
 }
 .weekend-schedule-saturday{
-	color: #3b607e;
+	color: #01798e;
     font-family: Georgia;
     font-weight: bold;
     font-size: 25px;
     margin-top: 15px;
     margin-bottom: 0px;
     text-decoration:underline;
+    margin-left: 20px;
 }
 #day_timeslot{
 	margin-top:0;
@@ -319,6 +343,11 @@ li:before {
 	margin-top:15px;
 	font-weight: bold;
 	margin-left: 45px;
+}
+.wines_list{
+	font-weight: 300;
+	font-family: Arial;
+	font-size: 15px;
 }
 
 @media only screen and (max-width: 991px){
