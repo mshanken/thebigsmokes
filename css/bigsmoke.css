@@ -482,6 +482,9 @@ li:before {
 	#second_row{
 	margin-top: 0px !important;
 	}
+	.border{
+		padding-left: 0px !important;
+	}
 
 }
 
