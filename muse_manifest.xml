@@ -1,0 +1,139 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1500351431120">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_page-master.css" crc="4022288604" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
+    <file name="nomq_preview_master_page-master.css" crc="4085700022" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
+    <file name="master_home-master.css" crc="53039810" ref="index"/>
+    <file name="nomq_preview_master_home-master.css" crc="425789842" ref="index"/>
+    <file name="tickets.css" crc="4082179232" ref="tickets"/>
+    <file name="nomq_tickets.css" crc="178634824" ref="tickets"/>
+    <file name="seminars.css" crc="4127737232" ref="seminars"/>
+    <file name="nomq_seminars.css" crc="3928403283" ref="seminars"/>
+    <file name="cigars.css" crc="3931122575" ref="cigars"/>
+    <file name="nomq_cigars.css" crc="416122249" ref="cigars"/>
+    <file name="agenda.css" crc="4109608685" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="216830930" ref="agenda"/>
+    <file name="faq.css" crc="149458791" ref="faq"/>
+    <file name="nomq_faq.css" crc="4075397456" ref="faq"/>
+    <file name="evenings.css" crc="134022085" ref="evenings"/>
+    <file name="nomq_evenings.css" crc="3796499429" ref="evenings"/>
+    <file name="index.css" crc="514667379" ref="index"/>
+    <file name="nomq_index.css" crc="3830546262" ref="index"/>
+    <file name="hotel.css" crc="127911187" ref="hotel"/>
+    <file name="nomq_hotel.css" crc="391454840" ref="hotel"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="museutils.js" crc="3851988764" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="whatinput.js" crc="86476730" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="museconfig.js" crc="169177150" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="require.js" crc="4108833657" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+  </folder>
+  <folder name="images">
+    <file name="big-smoke-las-vegas.jpg" crc="323363080" seo="true" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="big-smoke-las-vegas1.jpg" crc="3987966181" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas2.jpg" crc="4109972285" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3.jpg" crc="3846269659" seo="true" ref="index"/>
+    <file name="glass.jpg" crc="3889333512" seo="true" ref="index"/>
+    <file name="buy-now.jpg" crc="504202733" seo="true" ref="index:seminars:cigars:hotel:faq:agenda"/>
+    <file name="big-smoke-las-vegas3327x218.jpg" crc="3824083318" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas850x462.jpg" crc="210402824" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas1291x193.jpg" crc="4130263730" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3290x193.jpg" crc="2070991" seo="true" ref="index"/>
+    <file name="glass850x571.jpg" crc="4243483845" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas768x417.jpg" crc="3915644093" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas1263x174.jpg" crc="39296949" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3262x174.jpg" crc="3897714720" seo="true" ref="index"/>
+    <file name="glass768x516.jpg" crc="142049216" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas685x372.jpg" crc="381159899" seo="true" ref="tickets"/>
+    <file name="buy-now-u8541.png" crc="3846378660" ref="index"/>
+    <file name="big-smoke-las-vegas568x309.jpg" crc="261176631" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="glass568x382.jpg" crc="4141025587" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas320x174.jpg" crc="106615043" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas1182x121.jpg" crc="4192552294" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3282x188.jpg" crc="443670844" seo="true" ref="index"/>
+    <file name="glass320x215.jpg" crc="3944931317" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:seminars:evenings:tickets:cigars:hotel:faq:agenda"/>
+    <file name="seminar1-540360x240.jpg" crc="3840124693" seo="true" ref="seminars"/>
+    <file name="seminar2.jpg" crc="72590409" seo="true" ref="seminars"/>
+    <file name="seminar3.jpg" crc="4134261110" seo="true" ref="seminars"/>
+    <file name="seminar1-540308x205.jpg" crc="4119387378" seo="true" ref="seminars"/>
+    <file name="seminar1-540288x192.jpg" crc="237306718" seo="true" ref="seminars"/>
+    <file name="seminar1-540255x170.jpg" crc="3765082104" seo="true" ref="seminars"/>
+    <file name="seminar1-540231x154.jpg" crc="46432706" seo="true" ref="seminars"/>
+    <file name="seminar1-540.jpg" crc="454780138" seo="true" ref="seminars"/>
+    <file name="seminar1-540294x196.jpg" crc="4085527245" seo="true" ref="seminars"/>
+    <file name="evening-bk.jpg" crc="4023522658" seo="true" ref="evenings"/>
+    <file name="buy-vip-now.jpg" crc="322286979" seo="true" ref="evenings"/>
+    <file name="vips.png" crc="130690915" seo="true" ref="evenings"/>
+    <file name="buy-ga-now.jpg" crc="358736693" seo="true" ref="evenings"/>
+    <file name="evening1.jpg" crc="496364268" seo="true" ref="evenings"/>
+    <file name="evening2.jpg" crc="3927619869" seo="true" ref="evenings"/>
+    <file name="evening-bk850x460.jpg" crc="377067175" seo="true" ref="evenings"/>
+    <file name="evening1328x219.jpg" crc="4051532266" seo="true" ref="evenings"/>
+    <file name="evening2328x219.jpg" crc="3796954423" seo="true" ref="evenings"/>
+    <file name="evening-bk768x416.jpg" crc="149727213" seo="true" ref="evenings"/>
+    <file name="evening1296x198.jpg" crc="4204552959" seo="true" ref="evenings"/>
+    <file name="evening2297x198.jpg" crc="139110368" seo="true" ref="evenings"/>
+    <file name="evening-bk568x308.jpg" crc="3854719522" seo="true" ref="evenings"/>
+    <file name="evening-bk320x174.jpg" crc="4146171430" seo="true" ref="evenings"/>
+    <file name="evening1228x153.jpg" crc="4289647915" seo="true" ref="evenings"/>
+    <file name="evening2228x153.jpg" crc="347466039" seo="true" ref="evenings"/>
+    <file name="tickets-bk.jpg" crc="4095956907" seo="true" ref="tickets"/>
+    <file name="buy-tickets-now.jpg" crc="4003202864" seo="true" ref="tickets"/>
+    <file name="tickets-bk850x581.jpg" crc="397387004" seo="true" ref="tickets"/>
+    <file name="tickets-bk768x525.jpg" crc="359367896" seo="true" ref="tickets"/>
+    <file name="tickets-bk685x468.jpg" crc="3861385471" seo="true" ref="tickets"/>
+    <file name="tickets-bk568x388.jpg" crc="3978073210" seo="true" ref="tickets"/>
+    <file name="tickets-bk320x219.jpg" crc="3828515668" seo="true" ref="tickets"/>
+    <file name="mirage.jpg" crc="535946380" seo="true" ref="hotel"/>
+    <file name="mirage850x326.jpg" crc="66085026" seo="true" ref="hotel"/>
+    <file name="mirage768x295.jpg" crc="463649873" seo="true" ref="hotel"/>
+    <file name="mirage568x218.jpg" crc="3971612745" seo="true" ref="hotel"/>
+    <file name="mirage320x123.jpg" crc="42047835" seo="true" ref="hotel"/>
+    <file name="big-smoke-las-vegas3349x232.jpg" crc="298816588" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas667x362.jpg" crc="3962830074" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas1229x152.jpg" crc="312455557" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3228x152.jpg" crc="101347073" seo="true" ref="index"/>
+    <file name="glass667x448.jpg" crc="4026044115" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas375x204.jpg" crc="432089076" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas1213x141.jpg" crc="205683744" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3331x220.jpg" crc="4200559104" seo="true" ref="index"/>
+    <file name="glass375x252.jpg" crc="8901237" seo="true" ref="index"/>
+    <file name="seminar1-540201x134.jpg" crc="3816448826" seo="true" ref="seminars"/>
+    <file name="seminar1-540344x229.jpg" crc="146556905" seo="true" ref="seminars"/>
+    <file name="evening-bk667x361.jpg" crc="3860950987" seo="true" ref="evenings"/>
+    <file name="evening1257x172.jpg" crc="458670467" seo="true" ref="evenings"/>
+    <file name="evening2258x172.jpg" crc="248294222" seo="true" ref="evenings"/>
+    <file name="evening-bk375x203.jpg" crc="287153580" seo="true" ref="evenings"/>
+    <file name="evening1267x179.jpg" crc="4242838710" seo="true" ref="evenings"/>
+    <file name="evening2267x179.jpg" crc="267114243" seo="true" ref="evenings"/>
+    <file name="tickets-bk667x456.jpg" crc="207916672" seo="true" ref="tickets"/>
+    <file name="tickets-bk375x256.jpg" crc="4292933832" seo="true" ref="tickets"/>
+    <file name="mirage667x256.jpg" crc="4272453238" seo="true" ref="hotel"/>
+    <file name="mirage375x144.jpg" crc="4017769956" seo="true" ref="hotel"/>
+    <file name="big-smoke-las-vegas414x225.jpg" crc="51742112" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas1235x156.jpg" crc="14051314" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3365x243.jpg" crc="4164020167" seo="true" ref="index"/>
+    <file name="glass414x278.jpg" crc="357710096" seo="true" ref="index"/>
+    <file name="seminar1-540380x253.jpg" crc="4128355834" seo="true" ref="seminars"/>
+    <file name="evening-bk414x224.jpg" crc="4121006421" seo="true" ref="evenings"/>
+    <file name="evening1295x197.jpg" crc="320019932" seo="true" ref="evenings"/>
+    <file name="evening2295x197.jpg" crc="177478286" seo="true" ref="evenings"/>
+    <file name="tickets-bk414x283.jpg" crc="475666102" seo="true" ref="tickets"/>
+    <file name="mirage414x159.jpg" crc="405967226" seo="true" ref="hotel"/>
+    <file name="smoke.png" crc="101182594" seo="true" ref="evenings"/>
+  </folder>
+  <file name="index.html" crc="3919806699" seo="true" mt="1500317685139" redirect="true"/>
+  <file name="seminars.html" crc="3884859058" seo="true" mt="1500321835234" redirect="true"/>
+  <file name="evenings.html" crc="78885884" seo="true" mt="1500351144560" redirect="true"/>
+  <file name="tickets.html" crc="418791657" seo="true" mt="1500317498077" redirect="true"/>
+  <file name="cigars.html" crc="4131502756" seo="true" mt="1500317434465" redirect="true"/>
+  <file name="hotel.html" crc="171842165" seo="true" mt="1500317390604" redirect="true"/>
+  <file name="faq.html" crc="116602234" seo="true" mt="1500317414925" redirect="true"/>
+  <file name="agenda.html" crc="301333343" seo="true" mt="1500351413123" redirect="true"/>
+</manifest>
