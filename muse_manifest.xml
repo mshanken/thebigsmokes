@@ -1,25 +1,25 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1500495479504">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1505499790131">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_page-master.css" crc="217476234" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
-    <file name="nomq_preview_master_page-master.css" crc="474774836" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
-    <file name="master_home-master.css" crc="53039810" ref="index"/>
-    <file name="nomq_preview_master_home-master.css" crc="425789842" ref="index"/>
-    <file name="tickets.css" crc="4082179232" ref="tickets"/>
+    <file name="master_page-master.css" crc="4087972300" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
+    <file name="nomq_preview_master_page-master.css" crc="3876008990" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
+    <file name="master_home-master.css" crc="395995405" ref="index"/>
+    <file name="nomq_preview_master_home-master.css" crc="219753086" ref="index"/>
+    <file name="tickets.css" crc="436242305" ref="tickets"/>
     <file name="nomq_tickets.css" crc="178634824" ref="tickets"/>
-    <file name="seminars.css" crc="110642147" ref="seminars"/>
+    <file name="seminars.css" crc="4246011529" ref="seminars"/>
     <file name="nomq_seminars.css" crc="108039292" ref="seminars"/>
-    <file name="cigars.css" crc="3931122575" ref="cigars"/>
-    <file name="nomq_cigars.css" crc="416122249" ref="cigars"/>
-    <file name="agenda.css" crc="4109608685" ref="agenda"/>
+    <file name="cigars.css" crc="465374649" ref="cigars"/>
+    <file name="nomq_cigars.css" crc="4263754774" ref="cigars"/>
+    <file name="agenda.css" crc="415120602" ref="agenda"/>
     <file name="nomq_agenda.css" crc="216830930" ref="agenda"/>
-    <file name="faq.css" crc="149458791" ref="faq"/>
+    <file name="faq.css" crc="4124411354" ref="faq"/>
     <file name="nomq_faq.css" crc="4075397456" ref="faq"/>
-    <file name="evenings.css" crc="134022085" ref="evenings"/>
+    <file name="evenings.css" crc="28254312" ref="evenings"/>
     <file name="nomq_evenings.css" crc="3796499429" ref="evenings"/>
-    <file name="index.css" crc="514667379" ref="index"/>
-    <file name="nomq_index.css" crc="3830546262" ref="index"/>
-    <file name="hotel.css" crc="127911187" ref="hotel"/>
+    <file name="index.css" crc="495662983" ref="index"/>
+    <file name="nomq_index.css" crc="4082610779" ref="index"/>
+    <file name="hotel.css" crc="3855379361" ref="hotel"/>
     <file name="nomq_hotel.css" crc="391454840" ref="hotel"/>
   </folder>
   <folder name="scripts">
@@ -41,19 +41,19 @@
     <file name="glass.jpg" crc="3889333512" seo="true" ref="index"/>
     <file name="buy-now.jpg" crc="504202733" seo="true" ref="index:seminars:cigars:hotel:faq:agenda"/>
     <file name="big-smoke-las-vegas3327x218.jpg" crc="3824083318" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas850x462.jpg" crc="210402824" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas850x462.jpg" crc="210402824" seo="true" ref="index:seminars"/>
     <file name="big-smoke-las-vegas1291x193.jpg" crc="4130263730" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3290x193.jpg" crc="2070991" seo="true" ref="index"/>
     <file name="glass850x571.jpg" crc="4243483845" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas768x417.jpg" crc="3915644093" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas768x417.jpg" crc="3915644093" seo="true" ref="index:seminars"/>
     <file name="big-smoke-las-vegas1263x174.jpg" crc="39296949" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3262x174.jpg" crc="3897714720" seo="true" ref="index"/>
     <file name="glass768x516.jpg" crc="142049216" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas685x372.jpg" crc="381159899" seo="true" ref="tickets"/>
     <file name="buy-now-u8541.png" crc="3846378660" ref="index"/>
-    <file name="big-smoke-las-vegas568x309.jpg" crc="261176631" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas568x309.jpg" crc="261176631" seo="true" ref="index:seminars"/>
     <file name="glass568x382.jpg" crc="4141025587" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas320x174.jpg" crc="106615043" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas320x174.jpg" crc="106615043" seo="true" ref="index:seminars"/>
     <file name="big-smoke-las-vegas1182x121.jpg" crc="4192552294" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3282x188.jpg" crc="443670844" seo="true" ref="index"/>
     <file name="glass320x215.jpg" crc="3944931317" seo="true" ref="index"/>
@@ -96,11 +96,11 @@
     <file name="mirage568x218.jpg" crc="3971612745" seo="true" ref="hotel"/>
     <file name="mirage320x123.jpg" crc="42047835" seo="true" ref="hotel"/>
     <file name="big-smoke-las-vegas3349x232.jpg" crc="298816588" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas667x362.jpg" crc="3962830074" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas667x362.jpg" crc="3962830074" seo="true" ref="index:seminars"/>
     <file name="big-smoke-las-vegas1229x152.jpg" crc="312455557" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3228x152.jpg" crc="101347073" seo="true" ref="index"/>
     <file name="glass667x448.jpg" crc="4026044115" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas375x204.jpg" crc="432089076" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas375x204.jpg" crc="432089076" seo="true" ref="index:seminars"/>
     <file name="big-smoke-las-vegas1213x141.jpg" crc="205683744" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3331x220.jpg" crc="4200559104" seo="true" ref="index"/>
     <file name="glass375x252.jpg" crc="8901237" seo="true" ref="index"/>
@@ -116,7 +116,7 @@
     <file name="tickets-bk375x256.jpg" crc="4292933832" seo="true" ref="tickets"/>
     <file name="mirage667x256.jpg" crc="4272453238" seo="true" ref="hotel"/>
     <file name="mirage375x144.jpg" crc="4017769956" seo="true" ref="hotel"/>
-    <file name="big-smoke-las-vegas414x225.jpg" crc="51742112" seo="true" ref="index:seminars:evenings:agenda"/>
+    <file name="big-smoke-las-vegas414x225.jpg" crc="51742112" seo="true" ref="index:seminars"/>
     <file name="big-smoke-las-vegas1235x156.jpg" crc="14051314" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3365x243.jpg" crc="4164020167" seo="true" ref="index"/>
     <file name="glass414x278.jpg" crc="357710096" seo="true" ref="index"/>
@@ -127,13 +127,33 @@
     <file name="tickets-bk414x283.jpg" crc="475666102" seo="true" ref="tickets"/>
     <file name="mirage414x159.jpg" crc="405967226" seo="true" ref="hotel"/>
     <file name="smoke.png" crc="101182594" seo="true" ref="evenings"/>
+    <file name="home-master-favicon.ico" crc="4228198005" ref="index"/>
+    <file name="page-master-favicon.ico" crc="4228198005" ref="seminars:cigars"/>
+    <file name="cigars2.jpg" crc="4032391476" seo="true" ref="cigars"/>
+    <file name="cigars2780x221.jpg" crc="4018265141" seo="true" ref="cigars"/>
+    <file name="cigars2704x200.jpg" crc="4079526142" seo="true" ref="cigars"/>
+    <file name="cigars2612x173.jpg" crc="4262349253" seo="true" ref="cigars"/>
+    <file name="cigars2521x148.jpg" crc="3788412254" seo="true" ref="cigars"/>
+    <file name="cigars2380x108.jpg" crc="413649537" seo="true" ref="cigars"/>
+    <file name="cigars2344x98.jpg" crc="96335709" seo="true" ref="cigars"/>
+    <file name="cigars2294x83.jpg" crc="452915755" seo="true" ref="cigars"/>
+    <file name="cigar-promo.png" crc="4201304045" seo="true" ref="index"/>
+    <file name="cigar-promo236x236.png" crc="311504478" seo="true" ref="index"/>
+    <file name="cigar-promo221x221.png" crc="4160216089" seo="true" ref="index"/>
+    <file name="cigar-promo196x196.png" crc="207374600" seo="true" ref="index"/>
+    <file name="cigar-promo177x177.png" crc="114257491" seo="true" ref="index"/>
+    <file name="cigar-promo154x154.png" crc="155453273" seo="true" ref="index"/>
+    <file name="cigar-promo200x200.png" crc="143567030" seo="true" ref="index"/>
+    <file name="cigar-promo137x137.png" crc="407230346" seo="true" ref="index"/>
+    <file name="cigar-promo127x127.png" crc="4054686863" seo="true" ref="index"/>
+    <file name="cigar-promo132x132.png" crc="3918243663" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3919806699" seo="true" mt="1500317685139" redirect="true"/>
-  <file name="seminars.html" crc="37243024" seo="true" mt="1500495441408" redirect="true"/>
-  <file name="evenings.html" crc="78885884" seo="true" mt="1500351144560" redirect="true"/>
-  <file name="tickets.html" crc="418791657" seo="true" mt="1500317498077" redirect="true"/>
-  <file name="cigars.html" crc="4131502756" seo="true" mt="1500317434465" redirect="true"/>
-  <file name="hotel.html" crc="171842165" seo="true" mt="1500317390604" redirect="true"/>
-  <file name="faq.html" crc="116602234" seo="true" mt="1500317414925" redirect="true"/>
-  <file name="agenda.html" crc="301333343" seo="true" mt="1500351413123" redirect="true"/>
+  <file name="index.html" crc="109293548" seo="true" mt="1505499662002" redirect="true"/>
+  <file name="seminars.html" crc="94205952" seo="true" mt="1501609648899" redirect="true"/>
+  <file name="evenings.html" crc="4239426420" seo="true" mt="1501608532328" redirect="true"/>
+  <file name="tickets.html" crc="4287304586" seo="true" mt="1501609604957" redirect="true"/>
+  <file name="cigars.html" crc="279358004" seo="true" mt="1505499749192" redirect="true"/>
+  <file name="hotel.html" crc="22995231" seo="true" mt="1501609596344" redirect="true"/>
+  <file name="faq.html" crc="316865703" seo="true" mt="1501608772057" redirect="true"/>
+  <file name="agenda.html" crc="105483331" seo="true" mt="1501608881758" redirect="true"/>
 </manifest>
