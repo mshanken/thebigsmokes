@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1505932640560">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1507212473858">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_page-master.css" crc="4130168816" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
-    <file name="nomq_preview_master_page-master.css" crc="4085700022" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
+    <file name="master_page-master.css" crc="4210258001" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
+    <file name="nomq_preview_master_page-master.css" crc="3876008990" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel"/>
     <file name="master_home-master.css" crc="395995405" ref="index"/>
     <file name="nomq_preview_master_home-master.css" crc="219753086" ref="index"/>
     <file name="tickets.css" crc="436242305" ref="tickets"/>
     <file name="nomq_tickets.css" crc="178634824" ref="tickets"/>
     <file name="seminars.css" crc="4246011529" ref="seminars"/>
     <file name="nomq_seminars.css" crc="108039292" ref="seminars"/>
-    <file name="cigars.css" crc="4155068018" ref="cigars"/>
-    <file name="nomq_cigars.css" crc="517756456" ref="cigars"/>
+    <file name="cigars.css" crc="219817650" ref="cigars"/>
+    <file name="nomq_cigars.css" crc="223772245" ref="cigars"/>
     <file name="agenda.css" crc="415120602" ref="agenda"/>
     <file name="nomq_agenda.css" crc="216830930" ref="agenda"/>
     <file name="faq.css" crc="4124411354" ref="faq"/>
@@ -152,7 +152,7 @@
   <file name="seminars.html" crc="94205952" seo="true" mt="1501609648899" redirect="true"/>
   <file name="evenings.html" crc="4239426420" seo="true" mt="1501608532328" redirect="true"/>
   <file name="tickets.html" crc="4287304586" seo="true" mt="1501609604957" redirect="true"/>
-  <file name="cigars.html" crc="3820953965" seo="true" mt="1505932622987" redirect="true"/>
+  <file name="cigars.html" crc="424321686" seo="true" mt="1507212435152" redirect="true"/>
   <file name="hotel.html" crc="22995231" seo="true" mt="1501609596344" redirect="true"/>
   <file name="faq.html" crc="316865703" seo="true" mt="1501608772057" redirect="true"/>
   <file name="agenda.html" crc="105483331" seo="true" mt="1501608881758" redirect="true"/>
