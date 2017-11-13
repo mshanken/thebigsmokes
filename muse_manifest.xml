@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1510322520299">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1510585376111">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_page-master.css" crc="3983754671" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel:evenings-copy"/>
     <file name="nomq_preview_master_page-master.css" crc="3876008990" ref="tickets:seminars:cigars:agenda:faq:evenings:hotel:evenings-copy"/>
-    <file name="master_home-master.css" crc="187139796" ref="index"/>
+    <file name="master_home-master.css" crc="4254947199" ref="index"/>
     <file name="nomq_preview_master_home-master.css" crc="4157406606" ref="index"/>
     <file name="tickets.css" crc="24470835" ref="tickets"/>
     <file name="nomq_tickets.css" crc="178634824" ref="tickets"/>
@@ -17,8 +17,8 @@
     <file name="nomq_faq.css" crc="4075397456" ref="faq"/>
     <file name="evenings.css" crc="3861103129" ref="evenings"/>
     <file name="nomq_evenings.css" crc="121267363" ref="evenings"/>
-    <file name="index.css" crc="478933950" ref="index"/>
-    <file name="nomq_index.css" crc="54498630" ref="index"/>
+    <file name="index.css" crc="4269068318" ref="index"/>
+    <file name="nomq_index.css" crc="4002158236" ref="index"/>
     <file name="hotel.css" crc="200735088" ref="hotel"/>
     <file name="nomq_hotel.css" crc="391454840" ref="hotel"/>
     <file name="evenings-copy.css" crc="4107244551" ref="evenings-copy"/>
@@ -130,16 +130,6 @@
     <file name="cigars2380x108.jpg" crc="413649537" seo="true" ref="cigars"/>
     <file name="cigars2344x98.jpg" crc="96335709" seo="true" ref="cigars"/>
     <file name="cigars2294x83.jpg" crc="452915755" seo="true" ref="cigars"/>
-    <file name="cigar-promo.png" crc="4201304045" seo="true" ref="index"/>
-    <file name="cigar-promo236x236.png" crc="311504478" seo="true" ref="index"/>
-    <file name="cigar-promo221x221.png" crc="4160216089" seo="true" ref="index"/>
-    <file name="cigar-promo196x196.png" crc="207374600" seo="true" ref="index"/>
-    <file name="cigar-promo177x177.png" crc="114257491" seo="true" ref="index"/>
-    <file name="cigar-promo154x154.png" crc="155453273" seo="true" ref="index"/>
-    <file name="cigar-promo200x200.png" crc="143567030" seo="true" ref="index"/>
-    <file name="cigar-promo137x137.png" crc="407230346" seo="true" ref="index"/>
-    <file name="cigar-promo127x127.png" crc="4054686863" seo="true" ref="index"/>
-    <file name="cigar-promo132x132.png" crc="3918243663" seo="true" ref="index"/>
     <file name="big-smoke-weekend-header2.jpg" crc="3928289329" seo="true" ref="seminars:evenings:tickets:cigars:hotel:faq:agenda:evenings-copy"/>
     <file name="big-smoke-weekend-header2850x462.jpg" crc="4068845397" seo="true" ref="seminars:evenings"/>
     <file name="big-smoke-weekend-header2768x417.jpg" crc="4269775557" seo="true" ref="seminars:evenings"/>
@@ -149,16 +139,26 @@
     <file name="big-smoke-weekend-header2375x204.jpg" crc="4090576771" seo="true" ref="seminars:evenings"/>
     <file name="big-smoke-weekend-header2320x174.jpg" crc="253967073" seo="true" ref="seminars:evenings"/>
     <file name="big-smoke-weekend-header2685x372.jpg" crc="4242672425" seo="true" ref="tickets"/>
-    <file name="big-smoke-weekend-header-vip.jpg" crc="194496809" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header-vip850x462.jpg" crc="3872452641" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header-vip768x417.jpg" crc="4029276131" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header-vip667x362.jpg" crc="3983066134" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header-vip568x309.jpg" crc="421947828" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header-vip414x225.jpg" crc="155020709" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header-vip375x204.jpg" crc="3876302318" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header-vip320x174.jpg" crc="4041528448" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days.jpg" crc="3779427083" seo="true" ref="index"/>
+    <file name="35-cigar-promo.png" crc="181865825" seo="true" ref="index"/>
+    <file name="35-cigar-promo236x236.png" crc="4287165085" seo="true" ref="index"/>
+    <file name="35-cigar-promo221x221.png" crc="3804445659" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days850x462.jpg" crc="417831143" seo="true" ref="index"/>
+    <file name="35-cigar-promo196x196.png" crc="183054692" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days768x417.jpg" crc="339496124" seo="true" ref="index"/>
+    <file name="35-cigar-promo177x177.png" crc="3878435460" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days667x362.jpg" crc="3998608124" seo="true" ref="index"/>
+    <file name="35-cigar-promo154x154.png" crc="4061006215" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days568x309.jpg" crc="3959309946" seo="true" ref="index"/>
+    <file name="35-cigar-promo200x200.png" crc="198874202" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days414x225.jpg" crc="4141050733" seo="true" ref="index"/>
+    <file name="35-cigar-promo132x132.png" crc="4214622661" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days375x204.jpg" crc="3828983060" seo="true" ref="index"/>
+    <file name="35-cigar-promo137x137.png" crc="127819248" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header-days320x174.jpg" crc="409134482" seo="true" ref="index"/>
+    <file name="35-cigar-promo127x127.png" crc="4026265183" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="206397732" seo="true" mt="1508529257342" redirect="true"/>
+  <file name="index.html" crc="3854225141" seo="true" mt="1510585324891" redirect="true"/>
   <file name="seminars.html" crc="72480030" seo="true" mt="1508858393899" redirect="true"/>
   <file name="evenings.html" crc="3862529559" seo="true" mt="1510322482630" redirect="true"/>
   <file name="tickets.html" crc="367403732" seo="true" mt="1508529002790" redirect="true"/>
