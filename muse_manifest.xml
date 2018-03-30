@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1521570023175">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1522423495512">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_home-master.css" crc="4033416788" ref="index"/>
     <file name="nomq_preview_master_home-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="336728878" ref="index"/>
+    <file name="index.css" crc="255295809" ref="index"/>
     <file name="nomq_index.css" crc="150695819" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -43,7 +43,6 @@
     <file name="big-smoke-las-vegas1-18182x121.jpg" crc="3977482190" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18282x188.jpg" crc="3856462155" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="vip-banner.jpg" crc="3934499056" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas4.jpg" crc="131532057" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas5.jpg" crc="3868321859" seo="true" ref="index"/>
     <file name="big-smoke-las-vega6.jpg" crc="315303325" seo="true" ref="index"/>
@@ -72,6 +71,7 @@
     <file name="big-smoke-las-vegas4105x107.jpg" crc="183817502" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas5174x107.jpg" crc="54838883" seo="true" ref="index"/>
     <file name="main-cigar320x204.jpg" crc="371163176" seo="true" ref="index"/>
+    <file name="onsale-banner.jpg" crc="478535349" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="347707156" seo="true" mt="1521569981807" redirect="true"/>
+  <file name="index.html" crc="4224639842" seo="true" mt="1522423477191" redirect="true"/>
 </manifest>
