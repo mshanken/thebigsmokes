@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1522423495512">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1522786256347">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_home-master.css" crc="4033416788" ref="index"/>
+    <file name="master_home-master.css" crc="430308995" ref="index"/>
     <file name="nomq_preview_master_home-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="255295809" ref="index"/>
-    <file name="nomq_index.css" crc="150695819" ref="index"/>
+    <file name="index.css" crc="3806305383" ref="index"/>
+    <file name="nomq_index.css" crc="89520629" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -17,29 +17,29 @@
   </folder>
   <folder name="images">
     <file name="home-master-favicon.ico" crc="4228198005" ref="index"/>
-    <file name="big-smoke-weekend-header18.jpg" crc="4124379323" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18.jpg" crc="4284274504" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18.jpg" crc="291432432" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas2-18.jpg" crc="3798725551" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18.jpg" crc="320122657" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18349x232.jpg" crc="434446827" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18327x218.jpg" crc="427103431" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header18850x462.jpg" crc="66789188" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18850x462.jpg" crc="526886537" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18291x193.jpg" crc="3946191932" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18290x193.jpg" crc="3786600055" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header18768x417.jpg" crc="520437997" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18768x417.jpg" crc="3976752220" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18263x174.jpg" crc="115812649" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18262x174.jpg" crc="346916011" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header18667x362.jpg" crc="168464425" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18667x362.jpg" crc="3818073368" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18229x152.jpg" crc="389797471" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18228x152.jpg" crc="4155808209" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header18568x309.jpg" crc="383150955" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header18414x225.jpg" crc="524900891" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18568x309.jpg" crc="3975907893" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18414x225.jpg" crc="321174119" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18235x156.jpg" crc="520832637" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18365x243.jpg" crc="98510872" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header18375x204.jpg" crc="96314498" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18375x204.jpg" crc="4183915548" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18213x141.jpg" crc="3889358239" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18331x220.jpg" crc="4122954578" seo="true" ref="index"/>
-    <file name="big-smoke-weekend-header18320x174.jpg" crc="480282338" seo="true" ref="index"/>
+    <file name="big-smoke-weekend-header18320x174.jpg" crc="4052926191" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18182x121.jpg" crc="3977482190" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas3-18282x188.jpg" crc="3856462155" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -71,7 +71,20 @@
     <file name="big-smoke-las-vegas4105x107.jpg" crc="183817502" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas5174x107.jpg" crc="54838883" seo="true" ref="index"/>
     <file name="main-cigar320x204.jpg" crc="371163176" seo="true" ref="index"/>
-    <file name="onsale-banner.jpg" crc="478535349" seo="true" ref="index"/>
+    <file name="onsale-banner.jpg" crc="4072924368" seo="true" ref="index"/>
+    <file name="all-acces.jpg" crc="3864822016" seo="true" ref="index"/>
+    <file name="weekend.jpg" crc="3821038313" seo="true" ref="index"/>
+    <file name="evenings.jpg" crc="4062503187" seo="true" ref="index"/>
+    <file name="mirage18.jpg" crc="3860574950" seo="true" ref="index"/>
+    <file name="hotel-button.png" crc="285560344" seo="true" ref="index"/>
+    <file name="mirage18850x231.jpg" crc="4075312695" seo="true" ref="index"/>
+    <file name="mirage18768x209.jpg" crc="3962409672" seo="true" ref="index"/>
+    <file name="mirage18667x182.jpg" crc="169592414" seo="true" ref="index"/>
+    <file name="evenings-stack.jpg" crc="63271476" seo="true" ref="index"/>
+    <file name="mirage18568x155.jpg" crc="372614265" seo="true" ref="index"/>
+    <file name="mirage18414x113.jpg" crc="199813946" seo="true" ref="index"/>
+    <file name="mirage18375x102.jpg" crc="3758759990" seo="true" ref="index"/>
+    <file name="mirage18320x87.jpg" crc="340842579" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4224639842" seo="true" mt="1522423477191" redirect="true"/>
+  <file name="index.html" crc="3806423285" seo="true" mt="1522786233742" redirect="true"/>
 </manifest>
