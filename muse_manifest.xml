@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1532361759334">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1533045765157">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_home-master.css" crc="4230532487" ref="index"/>
+    <file name="master_home-master.css" crc="4017104689" ref="index"/>
     <file name="nomq_preview_master_home-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="390353003" ref="index"/>
+    <file name="index.css" crc="322393270" ref="index"/>
     <file name="nomq_index.css" crc="3883149845" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -66,13 +66,13 @@
     <file name="onsale-banner.jpg" crc="4072924368" seo="true" ref="index"/>
     <file name="all-acces.jpg" crc="3864822016" seo="true" ref="index"/>
     <file name="weekend.jpg" crc="3821038313" seo="true" ref="index"/>
-    <file name="evenings.jpg" crc="4062503187" seo="true" ref="index"/>
+    <file name="evenings.jpg" crc="229042709" seo="true" ref="index"/>
     <file name="mirage18.jpg" crc="3860574950" seo="true" ref="index"/>
     <file name="hotel-button.png" crc="285560344" seo="true" ref="index"/>
     <file name="mirage18850x231.jpg" crc="4075312695" seo="true" ref="index"/>
     <file name="mirage18768x209.jpg" crc="3962409672" seo="true" ref="index"/>
     <file name="mirage18667x182.jpg" crc="169592414" seo="true" ref="index"/>
-    <file name="evenings-stack.jpg" crc="63271476" seo="true" ref="index"/>
+    <file name="evenings-stack.jpg" crc="4207226624" seo="true" ref="index"/>
     <file name="mirage18568x155.jpg" crc="372614265" seo="true" ref="index"/>
     <file name="mirage18414x113.jpg" crc="199813946" seo="true" ref="index"/>
     <file name="mirage18375x102.jpg" crc="3758759990" seo="true" ref="index"/>
@@ -86,5 +86,5 @@
     <file name="big-smoke-weekend-header18r2375x204.jpg" crc="4135667261" seo="true" ref="index"/>
     <file name="big-smoke-weekend-header18r2320x174.jpg" crc="4256329264" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="307760729" seo="true" mt="1532361724608" redirect="true"/>
+  <file name="index.html" crc="486407203" seo="true" mt="1533045724078" redirect="true"/>
 </manifest>
