@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1534190785090">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1535573304245">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_home-master.css" crc="3786410683" ref="index"/>
+    <file name="master_home-master.css" crc="249764767" ref="index"/>
     <file name="nomq_preview_master_home-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="138977117" ref="index"/>
+    <file name="index.css" crc="3888224590" ref="index"/>
     <file name="nomq_index.css" crc="61756434" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -86,5 +86,5 @@
     <file name="big-smoke-weekend-header18r2375x204.jpg" crc="4135667261" seo="true" ref="index"/>
     <file name="big-smoke-weekend-header18r2320x174.jpg" crc="4256329264" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4269516464" seo="true" mt="1534190751713" redirect="true"/>
+  <file name="index.html" crc="151254451" seo="true" mt="1535573273650" redirect="true"/>
 </manifest>
