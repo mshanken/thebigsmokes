@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1537755166531">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1537886089128">
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
     <file name="worksans-regular.eot" crc="480645326"/>
@@ -6,11 +6,11 @@
     <file name="worksans-bold.eot" crc="4098374513"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="3910284744" ref="index"/>
-    <file name="index.css" crc="482692996" ref="index"/>
+    <file name="site_global.css" crc="31939975"/>
+    <file name="master_a-master.css" crc="4221900729" ref="index"/>
+    <file name="index.css" crc="155101417" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3819263059" ref="index"/>
-    <file name="nomq_index.css" crc="114774380" ref="index"/>
+    <file name="nomq_index.css" crc="4053148268" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -50,7 +50,6 @@
     <file name="nestor_plasencia.jpg" crc="3787262088" seo="true" ref="index"/>
     <file name="alejandro_cuenca.jpg" crc="3794747587" seo="true" ref="index"/>
     <file name="dion_giolito.jpg" crc="38177245" seo="true" ref="index"/>
-    <file name="kyle_johnson.jpg" crc="4048409995" seo="true" ref="index"/>
     <file name="kyle_gellis.jpg" crc="3968520837" seo="true" ref="index"/>
     <file name="fernando_dominguez.jpg" crc="342240830" seo="true" ref="index"/>
     <file name="al_micallef.jpg" crc="3869697992" seo="true" ref="index"/>
@@ -79,7 +78,6 @@
     <file name="nestor_plasencia284x213.jpg" crc="456452160" seo="true" ref="index"/>
     <file name="alejandro_cuenca284x213.jpg" crc="237532827" seo="true" ref="index"/>
     <file name="dion_giolito284x213.jpg" crc="4006287972" seo="true" ref="index"/>
-    <file name="kyle_johnson284x213.jpg" crc="4015076825" seo="true" ref="index"/>
     <file name="kyle_gellis284x213.jpg" crc="208907022" seo="true" ref="index"/>
     <file name="fernando_dominguez284x213.jpg" crc="461842983" seo="true" ref="index"/>
     <file name="al_micallef284x213.jpg" crc="3913466242" seo="true" ref="index"/>
@@ -98,7 +96,6 @@
     <file name="nestor_plasencia256x192.jpg" crc="136545917" seo="true" ref="index"/>
     <file name="alejandro_cuenca256x192.jpg" crc="3952632014" seo="true" ref="index"/>
     <file name="dion_giolito256x192.jpg" crc="303728881" seo="true" ref="index"/>
-    <file name="kyle_johnson256x192.jpg" crc="4091956449" seo="true" ref="index"/>
     <file name="kyle_gellis256x192.jpg" crc="4182725739" seo="true" ref="index"/>
     <file name="fernando_dominguez256x192.jpg" crc="477481702" seo="true" ref="index"/>
     <file name="al_micallef256x193.jpg" crc="465945822" seo="true" ref="index"/>
@@ -120,7 +117,6 @@
     <file name="nestor_plasencia223x167.jpg" crc="352043185" seo="true" ref="index"/>
     <file name="alejandro_cuenca223x167.jpg" crc="229417081" seo="true" ref="index"/>
     <file name="dion_giolito223x167.jpg" crc="413554886" seo="true" ref="index"/>
-    <file name="kyle_johnson223x167.jpg" crc="228744282" seo="true" ref="index"/>
     <file name="kyle_gellis223x167.jpg" crc="3942701753" seo="true" ref="index"/>
     <file name="fernando_dominguez223x167.jpg" crc="265275618" seo="true" ref="index"/>
     <file name="al_micallef223x167.jpg" crc="3903996346" seo="true" ref="index"/>
@@ -141,7 +137,6 @@
     <file name="nestor_plasencia190x143.jpg" crc="4047323151" seo="true" ref="index"/>
     <file name="alejandro_cuenca190x143.jpg" crc="161648782" seo="true" ref="index"/>
     <file name="dion_giolito190x142.jpg" crc="278490248" seo="true" ref="index"/>
-    <file name="kyle_johnson190x142.jpg" crc="77762866" seo="true" ref="index"/>
     <file name="kyle_gellis190x142.jpg" crc="38139821" seo="true" ref="index"/>
     <file name="fernando_dominguez190x142.jpg" crc="4280608000" seo="true" ref="index"/>
     <file name="al_micallef190x143.jpg" crc="306849143" seo="true" ref="index"/>
@@ -167,7 +162,6 @@
     <file name="nestor_plasencia280x210.jpg" crc="308859338" seo="true" ref="index"/>
     <file name="alejandro_cuenca280x210.jpg" crc="3775987331" seo="true" ref="index"/>
     <file name="dion_giolito280x210.jpg" crc="3856171856" seo="true" ref="index"/>
-    <file name="kyle_johnson280x210.jpg" crc="123436454" seo="true" ref="index"/>
     <file name="kyle_gellis280x210.jpg" crc="494341295" seo="true" ref="index"/>
     <file name="fernando_dominguez279x210.jpg" crc="3784195060" seo="true" ref="index"/>
     <file name="al_micallef282x212.jpg" crc="4017685511" seo="true" ref="index"/>
@@ -185,7 +179,6 @@
     <file name="nestor_plasencia254x191.jpg" crc="381431109" seo="true" ref="index"/>
     <file name="alejandro_cuenca254x191.jpg" crc="4068644639" seo="true" ref="index"/>
     <file name="dion_giolito254x191.jpg" crc="4000717847" seo="true" ref="index"/>
-    <file name="kyle_johnson254x191.jpg" crc="328279979" seo="true" ref="index"/>
     <file name="kyle_gellis254x191.jpg" crc="330614103" seo="true" ref="index"/>
     <file name="fernando_dominguez253x190.jpg" crc="47501264" seo="true" ref="index"/>
     <file name="al_micallef255x192.jpg" crc="3990030482" seo="true" ref="index"/>
@@ -203,7 +196,6 @@
     <file name="nestor_plasencia217x163.jpg" crc="271850827" seo="true" ref="index"/>
     <file name="alejandro_cuenca217x163.jpg" crc="3801847394" seo="true" ref="index"/>
     <file name="dion_giolito217x163.jpg" crc="4241570120" seo="true" ref="index"/>
-    <file name="kyle_johnson217x163.jpg" crc="3794288854" seo="true" ref="index"/>
     <file name="kyle_gellis217x163.jpg" crc="28549581" seo="true" ref="index"/>
     <file name="fernando_dominguez216x162.jpg" crc="319258062" seo="true" ref="index"/>
     <file name="al_micallef218x164.jpg" crc="4291582617" seo="true" ref="index"/>
@@ -216,6 +208,15 @@
     <file name="bigsmoke2365x159.png" crc="193698142" seo="true" ref="index"/>
     <file name="bigsmoke2331x144.png" crc="19556076" seo="true" ref="index"/>
     <file name="bigsmoke2283x123.png" crc="468536016" seo="true" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4228198005" ref="index"/>
+    <file name="pete_johnson.jpg" crc="431326890" seo="true" ref="index"/>
+    <file name="pete_johnson284x213.jpg" crc="154042292" seo="true" ref="index"/>
+    <file name="pete_johnson256x192.jpg" crc="415990396" seo="true" ref="index"/>
+    <file name="pete_johnson223x167.jpg" crc="441370463" seo="true" ref="index"/>
+    <file name="pete_johnson190x142.jpg" crc="3850098589" seo="true" ref="index"/>
+    <file name="pete_johnson280x210.jpg" crc="413323043" seo="true" ref="index"/>
+    <file name="pete_johnson254x191.jpg" crc="4191750235" seo="true" ref="index"/>
+    <file name="pete_johnson217x163.jpg" crc="4072651989" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="400225380" seo="true" mt="1537755100082" redirect="true"/>
+  <file name="index.html" crc="497895337" seo="true" mt="1537886010178" redirect="true"/>
 </manifest>
