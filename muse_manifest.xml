@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1538416297985">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1538591837753">
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
     <file name="worksans-regular.eot" crc="480645326"/>
@@ -6,11 +6,11 @@
     <file name="worksans-bold.eot" crc="4098374513"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="4221900729" ref="index"/>
-    <file name="index.css" crc="3909707777" ref="index"/>
+    <file name="site_global.css" crc="31939975"/>
+    <file name="master_a-master.css" crc="3910284744" ref="index"/>
+    <file name="index.css" crc="4240160196" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3819263059" ref="index"/>
-    <file name="nomq_index.css" crc="283747240" ref="index"/>
+    <file name="nomq_index.css" crc="3876156431" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -218,5 +218,5 @@
     <file name="jose-oliva190x143.jpg" crc="4098456562" seo="true" ref="index"/>
     <file name="kyle_gellis190x143.jpg" crc="4040533721" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="145993821" seo="true" mt="1538416207553" redirect="true"/>
+  <file name="index.html" crc="4254509810" seo="true" mt="1538591675663" redirect="true"/>
 </manifest>
