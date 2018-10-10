@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1538591837753">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1539195324024">
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
     <file name="worksans-regular.eot" crc="480645326"/>
@@ -6,31 +6,35 @@
     <file name="worksans-bold.eot" crc="4098374513"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="31939975"/>
-    <file name="master_a-master.css" crc="3910284744" ref="index"/>
-    <file name="index.css" crc="4240160196" ref="index"/>
+    <file name="site_global.css" crc="4143435521"/>
+    <file name="master_a-master.css" crc="4289705287" ref="index"/>
+    <file name="index.css" crc="4064539307" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3819263059" ref="index"/>
-    <file name="nomq_index.css" crc="3876156431" ref="index"/>
+    <file name="nomq_index.css" crc="3967260274" ref="index"/>
+    <file name="master_2019-master.css" crc="209320130" ref="2019-events"/>
+    <file name="nomq_preview_master_2019-master.css" crc="477585737" ref="2019-events"/>
+    <file name="2019-events.css" crc="4258334535" ref="2019-events"/>
+    <file name="nomq_2019-events.css" crc="503642514" ref="2019-events"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
-    <file name="museutils.js" crc="3851988764" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="169177150" ref="index"/>
-    <file name="pie.js" crc="3831537696" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="require.js" crc="4108833657" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
-    <file name="webpro.js" crc="4067903014" ref="index"/>
-    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:2019-events"/>
+    <file name="museutils.js" crc="3851988764" ref="index:2019-events"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2019-events"/>
+    <file name="museconfig.js" crc="169177150" ref="index:2019-events"/>
+    <file name="pie.js" crc="3831537696" ref="index:2019-events"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:2019-events"/>
+    <file name="require.js" crc="4108833657" ref="index:2019-events"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:2019-events"/>
+    <file name="webpro.js" crc="4067903014" ref="index:2019-events"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:2019-events"/>
   </folder>
   <folder name="images">
-    <file name="main-bk.jpg" crc="46363019" ref="index"/>
+    <file name="main-bk.jpg" crc="46363019" ref="index:2019-events"/>
     <file name="skyline.jpg" crc="4178915340" seo="true" ref="index"/>
     <file name="bigsmoke.png" crc="347831720" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18.jpg" crc="291432432" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas2-18.jpg" crc="3798725551" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas3-18.jpg" crc="25602531" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas2-18.jpg" crc="3798725551" seo="true" ref="index:2019-events"/>
+    <file name="big-smoke-las-vegas3-18.jpg" crc="25602531" seo="true" ref="index:2019-events"/>
     <file name="big-smoke-las-vegas4.jpg" crc="131532057" seo="true" ref="index"/>
     <file name="big-smoke-las-vega6.jpg" crc="315303325" seo="true" ref="index"/>
     <file name="hotel-button.png" crc="285560344" seo="true" ref="index"/>
@@ -42,7 +46,7 @@
     <file name="stranahans.png" crc="160367381" seo="true" ref="index"/>
     <file name="hennessey.png" crc="47321015" seo="true" ref="index"/>
     <file name="jack.png" crc="4035940639" seo="true" ref="index"/>
-    <file name="mirage2018.jpg" crc="3901622661" seo="true" ref="index"/>
+    <file name="mirage2018.jpg" crc="3901622661" seo="true" ref="index:2019-events"/>
     <file name="carlos_fuentejr.jpg" crc="118487820" seo="true" ref="index"/>
     <file name="jorge_padron.jpg" crc="148850747" seo="true" ref="index"/>
     <file name="jose-oliva.jpg" crc="4163535415" seo="true" ref="index"/>
@@ -69,7 +73,7 @@
     <file name="big-smoke-las-vegas5-u30874.png" crc="4105021035" ref="index"/>
     <file name="skyline850x461.jpg" crc="4132739621" seo="true" ref="index"/>
     <file name="bigsmoke499x217.png" crc="3871097710" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas3-18328x218.jpg" crc="3955151483" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3-18328x218.jpg" crc="3955151483" seo="true" ref="index:2019-events"/>
     <file name="big-smoke-las-vegas5-crop-u308743.jpg" crc="4068771230" ref="index"/>
     <file name="carlos_fuentejr284x213.jpg" crc="4141890505" seo="true" ref="index"/>
     <file name="jorge_padron284x213.jpg" crc="333180339" seo="true" ref="index"/>
@@ -84,10 +88,10 @@
     <file name="nicole_brisson284x213.jpg" crc="4013657091" seo="true" ref="index"/>
     <file name="michael_giannini284x213.jpg" crc="4278688341" seo="true" ref="index"/>
     <file name="spirits284x213.jpg" crc="4128757256" seo="true" ref="index"/>
-    <file name="mirage2018362x231.jpg" crc="365071758" seo="true" ref="index"/>
+    <file name="mirage2018362x231.jpg" crc="365071758" seo="true" ref="index:2019-events"/>
     <file name="skyline768x416.jpg" crc="4221228986" seo="true" ref="index"/>
     <file name="bigsmoke451x196.png" crc="75033728" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas3-18297x197.jpg" crc="4185523804" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3-18297x197.jpg" crc="4185523804" seo="true" ref="index:2019-events"/>
     <file name="big-smoke-las-vegas5-crop-u308744.jpg" crc="54994408" ref="index"/>
     <file name="carlos_fuentejr256x192.jpg" crc="303535329" seo="true" ref="index"/>
     <file name="jorge_padron256x192.jpg" crc="350286866" seo="true" ref="index"/>
@@ -105,10 +109,10 @@
     <file name="big-smoke-las-vega6241x196.jpg" crc="213478518" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas4193x197.jpg" crc="4222056723" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18298x197.jpg" crc="3962834761" seo="true" ref="index"/>
-    <file name="mirage2018327x209.jpg" crc="3762398741" seo="true" ref="index"/>
+    <file name="mirage2018327x209.jpg" crc="3762398741" seo="true" ref="index:2019-events"/>
     <file name="skyline667x362.jpg" crc="3764338108" seo="true" ref="index"/>
     <file name="bigsmoke392x170.png" crc="3984510382" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas3-18258x172.jpg" crc="293073563" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3-18258x172.jpg" crc="293073563" seo="true" ref="index:2019-events"/>
     <file name="big-smoke-las-vegas5-crop-u308745.jpg" crc="198131984" ref="index"/>
     <file name="carlos_fuentejr223x167.jpg" crc="3798548711" seo="true" ref="index"/>
     <file name="jorge_padron223x167.jpg" crc="4218440466" seo="true" ref="index"/>
@@ -128,7 +132,7 @@
     <file name="big-smoke-las-vegas1-18259x172.jpg" crc="240548159" seo="true" ref="index"/>
     <file name="mirage2018284x182.jpg" crc="404135554" seo="true" ref="index"/>
     <file name="skyline568x308.jpg" crc="377617917" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas3-18220x146.jpg" crc="244220545" seo="true" ref="index"/>
+    <file name="big-smoke-las-vegas3-18220x146.jpg" crc="244220545" seo="true" ref="index:2019-events"/>
     <file name="big-smoke-las-vegas5-crop-u308746.jpg" crc="3896357217" ref="index"/>
     <file name="carlos_fuentejr190x142.jpg" crc="4208169522" seo="true" ref="index"/>
     <file name="jorge_padron190x142.jpg" crc="4096149521" seo="true" ref="index"/>
@@ -151,7 +155,7 @@
     <file name="big-smoke-las-vegas5-crop-u308748.jpg" crc="3861984941" ref="index"/>
     <file name="skyline320x174.jpg" crc="490362138" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas5-crop-u308749.jpg" crc="4136736345" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:2019-events"/>
     <file name="bigsmoke487x211.png" crc="4078370739" seo="true" ref="index"/>
     <file name="carlos_fuentejr280x210.jpg" crc="451963135" seo="true" ref="index"/>
     <file name="jorge_padron280x210.jpg" crc="321217950" seo="true" ref="index"/>
@@ -168,8 +172,8 @@
     <file name="spirits283x213.jpg" crc="4205777290" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas4142x145.jpg" crc="392044786" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18219x145.jpg" crc="4200499988" seo="true" ref="index"/>
-    <file name="mirage2018338x217.jpg" crc="400750888" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas3-18337x224.jpg" crc="43397174" seo="true" ref="index"/>
+    <file name="mirage2018338x217.jpg" crc="400750888" seo="true" ref="index:2019-events"/>
+    <file name="big-smoke-las-vegas3-18337x224.jpg" crc="43397174" seo="true" ref="index:2019-events"/>
     <file name="carlos_fuentejr254x191.jpg" crc="3763147301" seo="true" ref="index"/>
     <file name="jorge_padron254x191.jpg" crc="4062054174" seo="true" ref="index"/>
     <file name="jose-oliva254x191.jpg" crc="348232284" seo="true" ref="index"/>
@@ -185,8 +189,8 @@
     <file name="spirits257x193.jpg" crc="4079581040" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas4128x131.jpg" crc="4279636168" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18199x132.jpg" crc="464675525" seo="true" ref="index"/>
-    <file name="mirage2018307x196.jpg" crc="4073952635" seo="true" ref="index"/>
-    <file name="big-smoke-las-vegas3-18288x192.jpg" crc="3851293284" seo="true" ref="index"/>
+    <file name="mirage2018307x196.jpg" crc="4073952635" seo="true" ref="index:2019-events"/>
+    <file name="big-smoke-las-vegas3-18288x192.jpg" crc="3851293284" seo="true" ref="index:2019-events"/>
     <file name="carlos_fuentejr217x163.jpg" crc="380545574" seo="true" ref="index"/>
     <file name="jorge_padron217x163.jpg" crc="457347778" seo="true" ref="index"/>
     <file name="jose-oliva217x163.jpg" crc="106936217" seo="true" ref="index"/>
@@ -202,7 +206,7 @@
     <file name="spirits219x165.jpg" crc="414201964" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas4110x112.jpg" crc="3911853228" seo="true" ref="index"/>
     <file name="big-smoke-las-vegas1-18170x112.jpg" crc="3878656235" seo="true" ref="index"/>
-    <file name="mirage2018262x167.jpg" crc="4106806864" seo="true" ref="index"/>
+    <file name="mirage2018262x167.jpg" crc="4106806864" seo="true" ref="index:2019-events"/>
     <file name="bigsmoke2365x159.png" crc="193698142" seo="true" ref="index"/>
     <file name="bigsmoke2331x144.png" crc="19556076" seo="true" ref="index"/>
     <file name="bigsmoke2283x123.png" crc="468536016" seo="true" ref="index"/>
@@ -217,6 +221,56 @@
     <file name="pete_johnson217x163.jpg" crc="4072651989" seo="true" ref="index"/>
     <file name="jose-oliva190x143.jpg" crc="4098456562" seo="true" ref="index"/>
     <file name="kyle_gellis190x143.jpg" crc="4040533721" seo="true" ref="index"/>
+    <file name="2019-master-favicon.ico" crc="4228198005" ref="2019-events"/>
+    <file name="logo2019.png" crc="389234171" seo="true" ref="2019-events"/>
+    <file name="hard-rock-florida.jpg" crc="4228778429" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u34628.jpg" crc="3938933100" ref="2019-events"/>
+    <file name="spirits-two.jpg" crc="4021090250" seo="true" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u36589.jpg" crc="121828755" ref="2019-events"/>
+    <file name="spirits-group-crop-u36591.jpg" crc="314428318" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346282.jpg" crc="4247684083" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365892.jpg" crc="27705100" ref="2019-events"/>
+    <file name="spirits-group-crop-u365912.jpg" crc="96129295" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-u34628.png" crc="4105021035" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365893.jpg" crc="3959046934" ref="2019-events"/>
+    <file name="spirits-group-crop-u365913.jpg" crc="313198722" ref="2019-events"/>
+    <file name="hard-rock-florida362x231.jpg" crc="3841407385" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346283.jpg" crc="4068771230" ref="2019-events"/>
+    <file name="spirits-two272x209.jpg" crc="158346649" seo="true" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365894.jpg" crc="4240743992" ref="2019-events"/>
+    <file name="spirits-group-crop-u365914.jpg" crc="64361408" ref="2019-events"/>
+    <file name="logo2019638x277.png" crc="90032756" seo="true" ref="2019-events"/>
+    <file name="hard-rock-florida327x209.jpg" crc="3806342760" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346284.jpg" crc="54994408" ref="2019-events"/>
+    <file name="spirits-two246x189.jpg" crc="530258834" seo="true" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365895.jpg" crc="412578427" ref="2019-events"/>
+    <file name="spirits-group-crop-u365915.jpg" crc="3774406752" ref="2019-events"/>
+    <file name="logo2019554x240.png" crc="4277317130" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346285.jpg" crc="198131984" ref="2019-events"/>
+    <file name="spirits-two214x164.jpg" crc="3927246974" seo="true" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365896.jpg" crc="470492979" ref="2019-events"/>
+    <file name="spirits-group-crop-u365916.jpg" crc="125641227" ref="2019-events"/>
+    <file name="logo2019472x205.png" crc="118755460" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346286.jpg" crc="4194526033" ref="2019-events"/>
+    <file name="spirits-two182x140.jpg" crc="165149300" seo="true" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365897.jpg" crc="3885755068" ref="2019-events"/>
+    <file name="spirits-group-crop-u365917.jpg" crc="516447390" ref="2019-events"/>
+    <file name="logo2019344x149.png" crc="94430251" seo="true" ref="2019-events"/>
+    <file name="hard-rock-florida338x217.jpg" crc="251249750" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346287.jpg" crc="3891505079" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365898.jpg" crc="4155615222" ref="2019-events"/>
+    <file name="spirits-group224x169.jpg" crc="394789146" seo="true" ref="2019-events"/>
+    <file name="logo2019338x147.png" crc="4106520932" seo="true" ref="2019-events"/>
+    <file name="hard-rock-florida307x196.jpg" crc="4076175914" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346288.jpg" crc="3861984941" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u365899.jpg" crc="464746718" ref="2019-events"/>
+    <file name="spirits-group199x150.jpg" crc="3964479840" seo="true" ref="2019-events"/>
+    <file name="logo2019289x125.png" crc="289170918" seo="true" ref="2019-events"/>
+    <file name="hard-rock-florida262x167.jpg" crc="3835930757" seo="true" ref="2019-events"/>
+    <file name="big-smoke-las-vegas5-crop-u346289.jpg" crc="4136736345" ref="2019-events"/>
+    <file name="spirits-cigar-crop-u3658910.jpg" crc="4067346471" ref="2019-events"/>
+    <file name="spirits-group173x130.jpg" crc="3983770798" seo="true" ref="2019-events"/>
   </folder>
-  <file name="index.html" crc="4254509810" seo="true" mt="1538591675663" redirect="true"/>
+  <file name="index.html" crc="396569645" seo="true" mt="1539193405051" redirect="true"/>
+  <file name="2019-events.html" crc="4012802699" seo="true" mt="1539195288415" redirect="true"/>
 </manifest>
