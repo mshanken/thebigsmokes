@@ -21,11 +21,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=31939975"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4221900729"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=228664214" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=415786803" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3819263059"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3824451646" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3847465978" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -46,7 +46,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
   <div class="breakpoint active" id="bp_infinity" data-min-width="1025"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox" id="page"><!-- group -->
-    <div class="clearfix grpelem shared_content" id="ptop" data-content-guid="ptop_content"><!-- column -->
+    <div class="clearfix grpelem" id="ptop"><!-- column -->
      <a class="anchor_item colelem shared_content" id="top" data-content-guid="top_content"></a>
      <a class="anchor_item colelem shared_content" id="tickets" data-content-guid="tickets_content"></a>
      <a class="anchor_item colelem shared_content" id="seminars" data-content-guid="seminars_content"></a>
@@ -218,7 +218,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_img_src" id="u30574_img" data-orig-src="images/al_micallef.jpg?crc=3869697992" alt="" data-image-width="400" data-image-height="300" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <div class="clearfix colelem shared_content" id="pu30770-7" data-content-guid="pu30770-7_content"><!-- group -->
+     <div class="clearfix colelem" id="pu30770-7"><!-- group -->
       <div class="clearfix grpelem shared_content" id="u30770-7" data-content-guid="u30770-7_content"><!-- content -->
        <p id="u30770-5"><span id="u30770">T</span>he State of<br/>Cuban Cigars</p>
       </div>
@@ -249,7 +249,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_img_src" id="u30627_img" data-orig-src="images/michael_giannini.jpg?crc=3972126739" alt="" data-image-width="400" data-image-height="300" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <div class="clearfix colelem shared_content" id="pu30785-6" data-content-guid="pu30785-6_content"><!-- group -->
+     <div class="clearfix colelem" id="pu30785-6"><!-- group -->
       <div class="clearfix grpelem shared_content" id="u30785-6" data-content-guid="u30785-6_content"><!-- content -->
        <p id="u30785-4">Cigar LoverS’ <br/>Breakfast</p>
       </div>
@@ -318,7 +318,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p id="u30826-2">30+ Premium Cigars</p>
      </div>
      <div class="clearfix colelem shared_content" id="pu29692-28" data-content-guid="pu29692-28_content"><!-- group -->
-      <div class="clearfix grpelem" id="u29692-28"><!-- content -->
+      <div class="clearfix grpelem shared_content" id="u29692-28" data-content-guid="u29692-28_content"><!-- content -->
        <p id="u29692-2">Aganorsa Leaf</p>
        <p id="u29692-4">Aging Room</p>
        <p id="u29692-6">Alec Bradley</p>
@@ -332,7 +332,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <p id="u29692-24">E.P. Carrillo</p>
        <p id="u29692-26">H. Upmann</p>
       </div>
-      <div class="clearfix grpelem" id="u29703-30"><!-- content -->
+      <div class="clearfix grpelem shared_content" id="u29703-30" data-content-guid="u29703-30_content"><!-- content -->
        <p id="u29703-2">Hamlet Paredes</p>
        <p id="u29703-4">Herrera Esteli</p>
        <p id="u29703-6">Illusione</p>
@@ -347,7 +347,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <p id="u29703-24">Montecristo</p>
        <p id="u29703-28">My Father Cigars –<br/>Don Pepin Garcia</p>
       </div>
-      <div class="clearfix grpelem" id="u29714-26"><!-- content -->
+      <div class="clearfix grpelem shared_content" id="u29714-26" data-content-guid="u29714-26_content"><!-- content -->
        <p id="u29714-4">My Father Cigars –<br/>La Antiguedad</p>
        <p id="u29714-6">Nat Cicco</p>
        <p id="u29714-8">Nub</p>
@@ -505,12 +505,65 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   </div>
   <div class="breakpoint" id="bp_1024" data-min-width="961" data-max-width="1024"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="ptop_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ptop"><!-- column -->
+     <span class="anchor_item colelem placeholder" data-placeholder-for="top_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="tickets_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="seminars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="cigars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="agenda_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="faq_content"><!-- placeholder node --></span>
+    </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28903"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28903"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28903"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/skyline.jpg?crc=4178915340" alt="" data-image-width="1024" data-image-height="555" data-orig-id="u28903_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u29228-11_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308742.jpg?crc=4247684083" alt="" data-image-width="370" data-image-height="263" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30495"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr.jpg?crc=118487820" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30457"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel.jpg?crc=460630016" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30531"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito.jpg?crc=38177245" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30770-7_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30785-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30571-9_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4.jpg?crc=131532057" alt="" data-image-width="256" data-image-height="262" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem" id="ppu28913"><!-- column -->
+     <div class="clearfix colelem" id="pu28913"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28913"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bigsmoke.png?crc=347831720" alt="" data-image-width="601" data-image-height="260" data-orig-id="u28913_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -518,37 +571,27 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30743"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/yes.png?crc=386977039" alt="" data-image-width="166" data-image-height="166" data-orig-id="u30743_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30650-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="ppu29320-11"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="pu29320-11_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u29228-11_content"><!-- placeholder node --></span>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u29347-15_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29320-11"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29320-11_content"><!-- placeholder node --></span>
       <span class="gradient clearfix grpelem placeholder" data-placeholder-for="u36911-4_content"><!-- placeholder node --></span>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u29347-15_content"><!-- placeholder node --></span>
+      <span class="gradient clearfix grpelem placeholder" data-placeholder-for="u36924-4_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u33641-3_content"><!-- placeholder node --></span>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u29293-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u28524-6_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem" id="pu1015"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1015"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas2-18.jpg?crc=3798725551" alt="" data-image-width="211" data-image-height="263" data-orig-id="u1015_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1027"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas3-18.jpg?crc=25602531" alt="" data-image-width="395" data-image-height="263" data-orig-id="u1027_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308742.jpg?crc=4247684083" alt="" data-image-width="370" data-image-height="263" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28694-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u28694-4_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30495"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr.jpg?crc=118487820" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30505"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jorge_padron.jpg?crc=148850747" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30505_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -556,12 +599,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jose-oliva.jpg?crc=4163535415" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30515_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel.jpg?crc=460630016" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem" id="pu30467"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30467"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nestor_plasencia.jpg?crc=3787262088" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30467_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -569,12 +608,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/alejandro_cuenca.jpg?crc=3794747587" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30479_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30454-17_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30531"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30531"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito.jpg?crc=38177245" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem" id="pu30541"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30541"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/pete_johnson.jpg?crc=431326890" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30541_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -582,10 +617,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kyle_gellis.jpg?crc=3968520837" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30551_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30525-16_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30794"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem" id="pu30561"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30561"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/fernando_dominguez.jpg?crc=342240830" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30561_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -593,10 +626,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/al_micallef.jpg?crc=3869697992" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30574_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30770-7_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30776-6_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu30492-8_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30797"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem" id="pu30621"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30621"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nicole_brisson.jpg?crc=243049894" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30621_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -604,37 +636,26 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/michael_giannini.jpg?crc=3972126739" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30627_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30785-6_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30571-9_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30800"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30813"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits.jpg?crc=441751402" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30788-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30642-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30813"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits.jpg?crc=441751402" alt="" data-image-width="341" data-image-height="256" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30639-12_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="321" data-image-height="261" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4.jpg?crc=131532057" alt="" data-image-width="256" data-image-height="262" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem" id="pu30910"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18.jpg?crc=291432432" alt="" data-image-width="397" data-image-height="263" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="321" data-image-height="261" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
      <span class="nonblock nontext rgba-background clearfix colelem placeholder" data-placeholder-for="u30959-11_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30971-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu29692-28_content"><!-- placeholder node --></span>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u30920-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29725"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem" id="pu29752-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29752-4_content"><!-- placeholder node --></span>
       <div class="clearfix grpelem temp_no_id" data-orig-id="u31278"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="pu30829"><!-- group -->
@@ -678,17 +699,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30132"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="387" data-image-height="56" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem" id="pu30228"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30228"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/mirage2018.jpg?crc=3901622661" alt="" data-image-width="435" data-image-height="278" data-orig-id="u30228_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clearfix grpelem" id="pu30161-8"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="387" data-image-height="56" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30254-58_content"><!-- placeholder node --></span>
     </div>
     <span class="clearfix placeholder" data-placeholder-for="u31000_content"><!-- placeholder node --></span>
@@ -698,12 +718,64 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   </div>
   <div class="breakpoint" id="bp_960" data-min-width="851" data-max-width="960"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="ptop_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ptop"><!-- column -->
+     <span class="anchor_item colelem placeholder" data-placeholder-for="top_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="tickets_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="seminars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="cigars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="agenda_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="faq_content"><!-- placeholder node --></span>
+    </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28903"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28903"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28903"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/skyline.jpg?crc=4178915340" alt="" data-image-width="960" data-image-height="520" data-orig-id="u28903_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u29228-11_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+      <img class="grpelem temp_no_id temp_no_img_src" alt="" data-orig-src="images/big-smoke-las-vegas5-u30874.png?crc=4105021035" data-image-width="346" data-orig-id="u30874" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30495"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr.jpg?crc=118487820" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30457"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel.jpg?crc=460630016" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30531"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito.jpg?crc=38177245" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30770-7_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30785-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30571-9_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4.jpg?crc=131532057" alt="" data-image-width="240" data-image-height="246" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u29692-28_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28913"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28913"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28913"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bigsmoke.png?crc=347831720" alt="" data-image-width="563" data-image-height="244" data-orig-id="u28913_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -711,37 +783,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30743"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/yes.png?crc=386977039" alt="" data-image-width="156" data-image-height="156" data-orig-id="u30743_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30650-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="ppu29320-11"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="pu29320-11_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u29228-11_content"><!-- placeholder node --></span>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u29347-15_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29320-11"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29320-11_content"><!-- placeholder node --></span>
       <span class="gradient clearfix grpelem placeholder" data-placeholder-for="u36911-4_content"><!-- placeholder node --></span>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u29347-15_content"><!-- placeholder node --></span>
+      <span class="gradient clearfix grpelem placeholder" data-placeholder-for="u36924-4_content"><!-- placeholder node --></span>
      </div>
      <div class="clearfix colelem" id="pu29293-4"><!-- group -->
       <span class="nonblock nontext clearfix grpelem placeholder" data-placeholder-for="u29293-4_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u33641-3_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u28524-6_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu1015"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1015"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas2-18.jpg?crc=3798725551" alt="" data-image-width="197" data-image-height="246" data-orig-id="u1015_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1027"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas3-18.jpg?crc=25602531" alt="" data-image-width="370" data-image-height="246" data-orig-id="u1027_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <img class="grpelem temp_no_id temp_no_img_src" alt="" data-orig-src="images/big-smoke-las-vegas5-u30874.png?crc=4105021035" data-image-width="346" data-orig-id="u30874" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28694-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u28694-4_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30495"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr.jpg?crc=118487820" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30505"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jorge_padron.jpg?crc=148850747" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30505_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -749,12 +813,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jose-oliva.jpg?crc=4163535415" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30515_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel.jpg?crc=460630016" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30467"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30467"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nestor_plasencia.jpg?crc=3787262088" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30467_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -762,12 +822,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/alejandro_cuenca.jpg?crc=3794747587" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30479_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30454-17_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30531"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30531"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito.jpg?crc=38177245" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30541"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30541"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/pete_johnson.jpg?crc=431326890" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30541_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -775,10 +831,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kyle_gellis.jpg?crc=3968520837" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30551_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30525-16_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30794"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30561"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30561"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/fernando_dominguez.jpg?crc=342240830" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30561_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -786,10 +840,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/al_micallef.jpg?crc=3869697992" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30574_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30770-7_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30776-6_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu30492-8_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30797"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30621"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30621"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nicole_brisson.jpg?crc=243049894" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30621_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -797,37 +850,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/michael_giannini.jpg?crc=3972126739" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30627_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30785-6_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30571-9_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30800"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30813"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits.jpg?crc=441751402" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30788-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30642-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30813"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits.jpg?crc=441751402" alt="" data-image-width="320" data-image-height="240" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30639-12_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="301" data-image-height="245" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4.jpg?crc=131532057" alt="" data-image-width="240" data-image-height="246" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30910"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18.jpg?crc=291432432" alt="" data-image-width="372" data-image-height="246" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="301" data-image-height="245" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
      <span class="nonblock nontext rgba-background clearfix colelem placeholder" data-placeholder-for="u30959-11_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30971-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu29692-28_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem" id="pu29703-30"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29703-30_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29714-26_content"><!-- placeholder node --></span>
+     </div>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u30920-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29725"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29752-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29752-4_content"><!-- placeholder node --></span>
       <div class="clearfix grpelem temp_no_id" data-orig-id="u31278"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="pu30829"><!-- group -->
@@ -871,17 +916,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30132"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="362" data-image-height="53" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30228"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30228"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/mirage2018.jpg?crc=3901622661" alt="" data-image-width="408" data-image-height="261" data-orig-id="u30228_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu30161-8"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="362" data-image-height="53" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30254-58_content"><!-- placeholder node --></span>
     </div>
     <span class="clearfix placeholder" data-placeholder-for="u31000_content"><!-- placeholder node --></span>
@@ -891,12 +935,65 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   </div>
   <div class="breakpoint" id="bp_850" data-min-width="769" data-max-width="850"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="ptop_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ptop"><!-- column -->
+     <span class="anchor_item colelem placeholder" data-placeholder-for="top_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="tickets_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="seminars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="cigars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="agenda_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="faq_content"><!-- placeholder node --></span>
+    </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28903"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28903"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28903"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/skyline850x461.jpg?crc=4132739621" alt="" data-image-width="850" data-image-height="460" data-orig-id="u28903_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308743.jpg?crc=4068771230" alt="" data-image-width="307" data-image-height="219" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30495"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr284x213.jpg?crc=4141890505" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30457"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel284x213.jpg?crc=4264715142" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30531"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito284x213.jpg?crc=4006287972" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30770-7_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30785-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30571-9_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4.jpg?crc=131532057" alt="" data-image-width="213" data-image-height="218" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u29692-28_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28913"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28913"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28913"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bigsmoke499x217.png?crc=3871097710" alt="" data-image-width="499" data-image-height="216" data-orig-id="u28913_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -904,9 +1001,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30743"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/yes.png?crc=386977039" alt="" data-image-width="138" data-image-height="138" data-orig-id="u30743_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30650-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="ppu29320-11"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="pu29320-11_content"><!-- placeholder node --></span>
@@ -919,24 +1014,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u29293-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u28524-6_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu1015"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1015"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas2-18.jpg?crc=3798725551" alt="" data-image-width="175" data-image-height="218" data-orig-id="u1015_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1027"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas3-18328x218.jpg?crc=3955151483" alt="" data-image-width="328" data-image-height="218" data-orig-id="u1027_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308743.jpg?crc=4068771230" alt="" data-image-width="307" data-image-height="219" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28694-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u28694-4_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30495"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr284x213.jpg?crc=4141890505" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30505"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jorge_padron284x213.jpg?crc=333180339" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30505_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -944,12 +1031,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jose-oliva284x213.jpg?crc=3796661310" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30515_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel284x213.jpg?crc=4264715142" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30467"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30467"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nestor_plasencia284x213.jpg?crc=456452160" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30467_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -957,12 +1040,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/alejandro_cuenca284x213.jpg?crc=237532827" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30479_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
      <div class="clearfix colelem" id="pu30454-17"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u30454-17_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30531"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito284x213.jpg?crc=4006287972" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30541"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/pete_johnson284x213.jpg?crc=154042292" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30541_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -970,10 +1049,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kyle_gellis284x213.jpg?crc=208907022" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30551_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30525-16_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30794"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30561"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30561"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/fernando_dominguez284x213.jpg?crc=461842983" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30561_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -981,10 +1058,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/al_micallef284x213.jpg?crc=3913466242" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30574_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30770-7_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30776-6_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu30492-8_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30797"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30621"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30621"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nicole_brisson284x213.jpg?crc=4013657091" alt="" data-image-width="283" data-image-height="212" data-orig-id="u30621_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -992,37 +1068,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/michael_giannini284x213.jpg?crc=4278688341" alt="" data-image-width="283" data-image-height="212" data-orig-id="u30627_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30785-6_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30571-9_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30800"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30813"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits284x213.jpg?crc=4128757256" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30788-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30642-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30813"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits284x213.jpg?crc=4128757256" alt="" data-image-width="283" data-image-height="213" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30639-12_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="266" data-image-height="217" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4.jpg?crc=131532057" alt="" data-image-width="213" data-image-height="218" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30910"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18.jpg?crc=291432432" alt="" data-image-width="329" data-image-height="218" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="266" data-image-height="217" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
      <span class="nonblock nontext rgba-background clearfix colelem placeholder" data-placeholder-for="u30959-11_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30971-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu29692-28_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29703-30"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29703-30_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29714-26_content"><!-- placeholder node --></span>
+     </div>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u30920-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29725"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29752-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29752-4_content"><!-- placeholder node --></span>
       <div class="clearfix grpelem temp_no_id" data-orig-id="u31278"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="pu30829"><!-- group -->
@@ -1066,17 +1134,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30132"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="321" data-image-height="47" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30228"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30228"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/mirage2018362x231.jpg?crc=365071758" alt="" data-image-width="361" data-image-height="231" data-orig-id="u30228_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu30161-8"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="321" data-image-height="47" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30254-58_content"><!-- placeholder node --></span>
     </div>
     <span class="clearfix placeholder" data-placeholder-for="u31000_content"><!-- placeholder node --></span>
@@ -1086,12 +1153,65 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   </div>
   <div class="breakpoint" id="bp_768" data-min-width="668" data-max-width="768"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="ptop_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ptop"><!-- column -->
+     <span class="anchor_item colelem placeholder" data-placeholder-for="top_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="tickets_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="seminars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="cigars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="agenda_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="faq_content"><!-- placeholder node --></span>
+    </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28903"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28903"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28903"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/skyline768x416.jpg?crc=4221228986" alt="" data-image-width="768" data-image-height="416" data-orig-id="u28903_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308744.jpg?crc=54994408" alt="" data-image-width="278" data-image-height="198" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30495"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr256x192.jpg?crc=303535329" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30457"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel256x192.jpg?crc=4064830801" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30531"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito256x192.jpg?crc=303728881" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30770-7_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30785-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30571-9_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4193x197.jpg?crc=4222056723" alt="" data-image-width="192" data-image-height="197" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u29692-28_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28913"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28913"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28913"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bigsmoke451x196.png?crc=75033728" alt="" data-image-width="450" data-image-height="195" data-orig-id="u28913_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1099,9 +1219,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30743"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/yes.png?crc=386977039" alt="" data-image-width="125" data-image-height="125" data-orig-id="u30743_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30650-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="ppu29320-11"><!-- group -->
       <div class="clearfix grpelem temp_no_id" data-orig-id="pu29320-11"><!-- group -->
@@ -1117,24 +1235,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="clearfix grpelem placeholder" data-placeholder-for="u33641-3_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u28524-6_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu1015"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1015"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas2-18.jpg?crc=3798725551" alt="" data-image-width="158" data-image-height="197" data-orig-id="u1015_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1027"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas3-18297x197.jpg?crc=4185523804" alt="" data-image-width="296" data-image-height="197" data-orig-id="u1027_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308744.jpg?crc=54994408" alt="" data-image-width="278" data-image-height="198" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28694-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u28694-4_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30495"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr256x192.jpg?crc=303535329" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30505"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jorge_padron256x192.jpg?crc=350286866" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30505_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1142,12 +1252,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jose-oliva256x192.jpg?crc=3782814729" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30515_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel256x192.jpg?crc=4064830801" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30467"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30467"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nestor_plasencia256x192.jpg?crc=136545917" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30467_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1155,12 +1261,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/alejandro_cuenca256x192.jpg?crc=3952632014" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30479_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu30454-17"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u30454-17_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30531"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito256x192.jpg?crc=303728881" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30541"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/pete_johnson256x192.jpg?crc=415990396" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30541_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1168,10 +1270,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kyle_gellis256x192.jpg?crc=4182725739" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30551_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30525-16_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30794"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30561"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30561"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/fernando_dominguez256x192.jpg?crc=477481702" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30561_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1179,10 +1279,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/al_micallef256x193.jpg?crc=465945822" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30574_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30770-7_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30776-6_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu30492-8_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30797"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30621"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30621"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nicole_brisson256x192.jpg?crc=3873805961" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30621_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1190,37 +1289,29 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/michael_giannini256x192.jpg?crc=6035790" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30627_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30785-6_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30571-9_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30800"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30813"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits256x193.jpg?crc=4079581040" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30788-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30642-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30813"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits256x193.jpg?crc=4079581040" alt="" data-image-width="256" data-image-height="192" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30639-12_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6241x196.jpg?crc=213478518" alt="" data-image-width="240" data-image-height="196" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4193x197.jpg?crc=4222056723" alt="" data-image-width="192" data-image-height="197" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30910"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18298x197.jpg?crc=3962834761" alt="" data-image-width="298" data-image-height="197" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6241x196.jpg?crc=213478518" alt="" data-image-width="240" data-image-height="196" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
      <span class="nonblock nontext rgba-background clearfix colelem placeholder" data-placeholder-for="u30959-11_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30971-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu29692-28_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29703-30"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29703-30_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29714-26_content"><!-- placeholder node --></span>
+     </div>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u30920-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29725"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29752-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29752-4_content"><!-- placeholder node --></span>
       <div class="clearfix grpelem temp_no_id" data-orig-id="u31278"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="pu30829"><!-- group -->
@@ -1264,17 +1355,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30132"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="290" data-image-height="42" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30228"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30228"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/mirage2018327x209.jpg?crc=3762398741" alt="" data-image-width="326" data-image-height="209" data-orig-id="u30228_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu30161-8"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="290" data-image-height="42" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30254-58_content"><!-- placeholder node --></span>
     </div>
     <span class="clearfix placeholder" data-placeholder-for="u31000_content"><!-- placeholder node --></span>
@@ -1284,12 +1374,71 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   </div>
   <div class="breakpoint" id="bp_667" data-min-width="569" data-max-width="667"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="ptop_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ptop"><!-- column -->
+     <span class="anchor_item colelem placeholder" data-placeholder-for="top_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="tickets_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="seminars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="cigars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="agenda_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="faq_content"><!-- placeholder node --></span>
+    </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28903"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28903"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28903"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/skyline667x362.jpg?crc=3764338108" alt="" data-image-width="667" data-image-height="361" data-orig-id="u28903_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308745.jpg?crc=198131984" alt="" data-image-width="241" data-image-height="172" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28694-4"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u28694-4_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30495"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr223x167.jpg?crc=3798548711" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel223x167.jpg?crc=4070424065" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30531"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito223x167.jpg?crc=413554886" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30770-7_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30785-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30571-9_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4167x171.jpg?crc=3929506687" alt="" data-image-width="167" data-image-height="171" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u29692-28_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28913"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28913"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28913"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bigsmoke392x170.png?crc=3984510382" alt="" data-image-width="391" data-image-height="170" data-orig-id="u28913_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1297,9 +1446,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30743"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/yes.png?crc=386977039" alt="" data-image-width="108" data-image-height="108" data-orig-id="u30743_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30650-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="ppu29320-11"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="pu29320-11_content"><!-- placeholder node --></span>
@@ -1312,24 +1459,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="clearfix grpelem placeholder" data-placeholder-for="u33641-3_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u28524-6_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu1015"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1015"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas2-18.jpg?crc=3798725551" alt="" data-image-width="137" data-image-height="171" data-orig-id="u1015_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u1027"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas3-18258x172.jpg?crc=293073563" alt="" data-image-width="257" data-image-height="171" data-orig-id="u1027_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308745.jpg?crc=198131984" alt="" data-image-width="241" data-image-height="172" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30757-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu28694-4"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u28694-4_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30495"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr223x167.jpg?crc=3798548711" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem" id="pu30505"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30505"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jorge_padron223x167.jpg?crc=4218440466" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30505_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1337,25 +1475,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jose-oliva223x167.jpg?crc=4050257709" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30515_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel223x167.jpg?crc=4070424065" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30467"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30467"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nestor_plasencia223x167.jpg?crc=352043185" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30467_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30479"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/alejandro_cuenca223x167.jpg?crc=229417081" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30479_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30454-17_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30531"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30531"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito223x167.jpg?crc=413554886" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30541"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30541"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/pete_johnson223x167.jpg?crc=441370463" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30541_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1363,10 +1492,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kyle_gellis223x167.jpg?crc=3942701753" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30551_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30525-16_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30794"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30561"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30561"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/fernando_dominguez223x167.jpg?crc=265275618" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30561_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1374,10 +1501,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/al_micallef223x167.jpg?crc=3903996346" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30574_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30770-7_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30776-6_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu30492-8_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30797"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30621"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30621"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nicole_brisson223x167.jpg?crc=3894378852" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30621_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1385,39 +1511,31 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/michael_giannini223x167.jpg?crc=26876826" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30627_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30785-6_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30571-9_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30800"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30813"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits223x167.jpg?crc=3799132040" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30788-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30642-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30813"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits223x167.jpg?crc=3799132040" alt="" data-image-width="222" data-image-height="167" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30639-12_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6209x171.jpg?crc=3770205379" alt="" data-image-width="209" data-image-height="170" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4167x171.jpg?crc=3929506687" alt="" data-image-width="167" data-image-height="171" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30910"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18259x172.jpg?crc=240548159" alt="" data-image-width="258" data-image-height="171" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6209x171.jpg?crc=3770205379" alt="" data-image-width="209" data-image-height="170" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem" id="pu29665-8"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
       <span class="nonblock nontext rgba-background clearfix grpelem placeholder" data-placeholder-for="u30959-11_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30971-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu29692-28_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29703-30"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29703-30_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29714-26_content"><!-- placeholder node --></span>
+     </div>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u30920-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29725"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29752-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29752-4_content"><!-- placeholder node --></span>
       <div class="clearfix grpelem temp_no_id" data-orig-id="u31278"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="pu30829"><!-- group -->
@@ -1461,17 +1579,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem" id="pu30041-81"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="252" data-image-height="37" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30228"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30228"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/mirage2018284x182.jpg?crc=404135554" alt="" data-image-width="283" data-image-height="181" data-orig-id="u30228_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu30161-8"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="252" data-image-height="37" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30254-58_content"><!-- placeholder node --></span>
     </div>
     <span class="clearfix placeholder" data-placeholder-for="u31000_content"><!-- placeholder node --></span>
@@ -1481,40 +1598,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   </div>
   <div class="breakpoint" id="bp_568" data-min-width="415" data-max-width="568"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="ptop_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ptop"><!-- column -->
+     <span class="anchor_item colelem placeholder" data-placeholder-for="top_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="tickets_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="seminars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="cigars_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="agenda_content"><!-- placeholder node --></span>
+     <span class="anchor_item colelem placeholder" data-placeholder-for="faq_content"><!-- placeholder node --></span>
+    </div>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28903"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu28903"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u28903"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/skyline568x308.jpg?crc=377617917" alt="" data-image-width="568" data-image-height="308" data-orig-id="u28903_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28913"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bigsmoke487x211.png?crc=4078370739" alt="" data-image-width="487" data-image-height="211" data-orig-id="u28913_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="grpelem shared_content" id="u32954" data-content-guid="u32954_content"><!-- simple frame --></div>
-      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u28952-17_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30743"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/yes.png?crc=386977039" alt="" data-image-width="178" data-image-height="178" data-orig-id="u30743_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u30945-20_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30754-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30650-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="ppu29320-11"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="pu29320-11_content"><!-- placeholder node --></span>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u29228-11_content"><!-- placeholder node --></span>
-      <span class="gradient clearfix grpelem placeholder" data-placeholder-for="u36911-4_content"><!-- placeholder node --></span>
-     </div>
-     <span class="rgba-background clearfix colelem placeholder" data-placeholder-for="u29347-15_content"><!-- placeholder node --></span>
-     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u29293-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u28524-6_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29563"><!-- group -->
       <span class="rgba-background grpelem placeholder" data-placeholder-for="u29563_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u1015"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas2-18.jpg?crc=3798725551" alt="" data-image-width="117" data-image-height="146" data-orig-id="u1015_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u1027"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas3-18220x146.jpg?crc=244220545" alt="" data-image-width="219" data-image-height="146" data-orig-id="u1027_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30874"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas5-crop-u308746.jpg?crc=3896357217" alt="" data-image-width="205" data-image-height="146" data-orig-id="u30874_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1525,6 +1626,70 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30495"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/carlos_fuentejr190x142.jpg?crc=4208169522" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30495_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel190x143.jpg?crc=52635697" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30531"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito190x142.jpg?crc=278490248" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30770-7_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30492-8_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30785-6_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
+      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4143x146.jpg?crc=3881832407" alt="" data-image-width="142" data-image-height="145" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u29692-28_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
+     <span class="rgba-background colelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu28913"><!-- column -->
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u28913"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bigsmoke487x211.png?crc=4078370739" alt="" data-image-width="487" data-image-height="211" data-orig-id="u28913_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="clearfix colelem" id="pu32954"><!-- group -->
+      <div class="grpelem shared_content" id="u32954" data-content-guid="u32954_content"><!-- simple frame --></div>
+      <span class="rgba-background clearfix grpelem placeholder" data-placeholder-for="u28952-17_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30743"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/yes.png?crc=386977039" alt="" data-image-width="178" data-image-height="178" data-orig-id="u30743_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30650-4_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppu29320-11"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu29320-11_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29228-11_content"><!-- placeholder node --></span>
+      <span class="gradient clearfix grpelem placeholder" data-placeholder-for="u36911-4_content"><!-- placeholder node --></span>
+     </div>
+     <span class="rgba-background clearfix colelem placeholder" data-placeholder-for="u29347-15_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u29293-4_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u28524-6_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu1015"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u1015"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas2-18.jpg?crc=3798725551" alt="" data-image-width="117" data-image-height="146" data-orig-id="u1015_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u1027"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas3-18220x146.jpg?crc=244220545" alt="" data-image-width="219" data-image-height="146" data-orig-id="u1027_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30505"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30505"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jorge_padron190x142.jpg?crc=4096149521" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30505_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1532,25 +1697,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/jose-oliva190x143.jpg?crc=4098456562" alt="" data-image-width="190" data-image-height="143" data-orig-id="u30515_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30760-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30457"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30457"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/rocky_patel190x143.jpg?crc=52635697" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30457_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30467"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30467"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nestor_plasencia190x143.jpg?crc=4047323151" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30467_img" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30479"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/alejandro_cuenca190x143.jpg?crc=451061981" alt="" data-image-width="190" data-image-height="143" data-orig-id="u30479_img" src="images/blank.gif?crc=4208392903"/>
       </div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30528-11_content"><!-- placeholder node --></span>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30763-5_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30454-17_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30531"><!-- group -->
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30531"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/dion_giolito190x142.jpg?crc=278490248" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30531_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30541"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30541"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/pete_johnson190x142.jpg?crc=3850098589" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30541_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1558,10 +1714,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/kyle_gellis190x143.jpg?crc=4040533721" alt="" data-image-width="190" data-image-height="142" data-orig-id="u30551_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30766-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30525-16_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30794"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30794_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30561"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30561"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/fernando_dominguez190x142.jpg?crc=4280608000" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30561_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1569,10 +1723,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/al_micallef190x143.jpg?crc=306849143" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30574_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30770-7_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30492-8_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30797"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30797_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30776-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30618-6_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30621"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30621"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/nicole_brisson190x142.jpg?crc=4158548565" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30621_img" src="images/blank.gif?crc=4208392903"/>
       </div>
@@ -1580,39 +1733,31 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/michael_giannini190x142.jpg?crc=4008081588" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30627_img" src="images/blank.gif?crc=4208392903"/>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu30785-6_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30788-6_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu30571-9_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30800"><!-- group -->
-      <span class="grpelem placeholder" data-placeholder-for="u30800_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30813"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits190x142.jpg?crc=33293958" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u30813"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/spirits190x142.jpg?crc=33293958" alt="" data-image-width="189" data-image-height="142" data-orig-id="u30813_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30791-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30639-12_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6178x145.jpg?crc=57611496" alt="" data-image-width="178" data-image-height="145" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4143x146.jpg?crc=3881832407" alt="" data-image-width="142" data-image-height="145" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30910"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18221x146.jpg?crc=442442505" alt="" data-image-width="220" data-image-height="146" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6178x145.jpg?crc=57611496" alt="" data-image-width="178" data-image-height="145" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29665-8"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
       <span class="nonblock nontext rgba-background clearfix grpelem placeholder" data-placeholder-for="u30959-11_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30971-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30826-4_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="pu29692-28_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29703-30"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29703-30_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u29714-26_content"><!-- placeholder node --></span>
+     </div>
      <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u30920-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu29725"><!-- group -->
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u29725_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu29752-4"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u29752-4_content"><!-- placeholder node --></span>
       <div class="clearfix grpelem temp_no_id" data-orig-id="u31278"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="pu30829"><!-- group -->
@@ -1656,17 +1801,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30041-81"><!-- group -->
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
-      <span class="rgba-background grpelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
-      <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="214" data-image-height="31" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu30228"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30228"><!-- image -->
        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/mirage2018242x155.jpg?crc=456755969" alt="" data-image-width="241" data-image-height="154" data-orig-id="u30228_img" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu30161-8"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="u30161-8_content"><!-- placeholder node --></span>
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="214" data-image-height="31" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
+      </div>
      </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u30862-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30254-58_content"><!-- placeholder node --></span>
     </div>
     <span class="clearfix placeholder" data-placeholder-for="u31000_content"><!-- placeholder node --></span>
@@ -1810,16 +1954,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
       <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="374" data-image-height="305" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4142x145.jpg?crc=392044786" alt="" data-image-width="141" data-image-height="145" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18219x145.jpg?crc=4200499988" alt="" data-image-width="219" data-image-height="145" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+      <div class="clearfix grpelem" id="ppu28176"><!-- column -->
+       <div class="clearfix colelem" id="pu28176"><!-- group -->
+        <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4142x145.jpg?crc=392044786" alt="" data-image-width="141" data-image-height="145" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+        <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18219x145.jpg?crc=4200499988" alt="" data-image-width="219" data-image-height="145" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+       </div>
+       <div class="clip_frame colelem temp_no_id" data-orig-id="u28168"><!-- image -->
+        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="374" data-image-height="305" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+       </div>
+      </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
@@ -1899,7 +2047,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="anchor_item grpelem placeholder" data-placeholder-for="agenda_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30859-4_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id" data-orig-id="pu30041-81"><!-- group -->
+     <div class="clearfix colelem" id="pu30041-81"><!-- group -->
       <span class="clearfix grpelem placeholder" data-placeholder-for="u30041-81_content"><!-- placeholder node --></span>
       <span class="rgba-background grpelem placeholder" data-placeholder-for="u30132_content"><!-- placeholder node --></span>
       <a class="nonblock nontext clip_frame grpelem temp_no_id" href="https://book.passkey.com/event/49508087/owner/4940/home" target="_blank" data-orig-id="u30159"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/hotel-button.png?crc=285560344" alt="" data-image-width="275" data-image-height="40" data-orig-id="u30159_img" src="images/blank.gif?crc=4208392903"/></a>
@@ -2046,16 +2194,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
       <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="339" data-image-height="276" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4128x131.jpg?crc=4279636168" alt="" data-image-width="128" data-image-height="131" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18199x132.jpg?crc=464675525" alt="" data-image-width="198" data-image-height="131" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28176"><!-- column -->
+       <div class="clearfix colelem temp_no_id" data-orig-id="pu28176"><!-- group -->
+        <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4128x131.jpg?crc=4279636168" alt="" data-image-width="128" data-image-height="131" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+        <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18199x132.jpg?crc=464675525" alt="" data-image-width="198" data-image-height="131" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+       </div>
+       <div class="clip_frame colelem temp_no_id" data-orig-id="u28168"><!-- image -->
+        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="339" data-image-height="276" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+       </div>
+      </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
@@ -2264,16 +2416,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29638"><!-- group -->
       <span class="rgba-background grpelem placeholder" data-placeholder-for="u29638_content"><!-- placeholder node --></span>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28168"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="289" data-image-height="236" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4110x112.jpg?crc=3911853228" alt="" data-image-width="109" data-image-height="112" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
-      <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
-       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18170x112.jpg?crc=3878656235" alt="" data-image-width="169" data-image-height="112" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
-      </div>
       <span class="anchor_item grpelem placeholder" data-placeholder-for="evening_content"><!-- placeholder node --></span>
+      <div class="clearfix grpelem temp_no_id" data-orig-id="ppu28176"><!-- column -->
+       <div class="clearfix colelem temp_no_id" data-orig-id="pu28176"><!-- group -->
+        <div class="clip_frame grpelem temp_no_id" data-orig-id="u28176"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas4110x112.jpg?crc=3911853228" alt="" data-image-width="109" data-image-height="112" data-orig-id="u28176_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+        <div class="clip_frame grpelem temp_no_id" data-orig-id="u30910"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vegas1-18170x112.jpg?crc=3878656235" alt="" data-image-width="169" data-image-height="112" data-orig-id="u30910_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+       </div>
+       <div class="clip_frame colelem temp_no_id" data-orig-id="u28168"><!-- image -->
+        <img class="block temp_no_id temp_no_img_src" data-orig-src="images/big-smoke-las-vega6.jpg?crc=315303325" alt="" data-image-width="289" data-image-height="236" data-orig-id="u28168_img" src="images/blank.gif?crc=4208392903"/>
+       </div>
+      </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u30823-4_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u29665-8_content"><!-- placeholder node --></span>
