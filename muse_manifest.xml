@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1540577780145">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x" timestamp="1540998675226">
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
     <file name="worksans-regular.eot" crc="480645326"/>
@@ -6,11 +6,11 @@
     <file name="worksans-bold.eot" crc="4098374513"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="31939975"/>
+    <file name="site_global.css" crc="4143435521"/>
     <file name="master_a-master.css" crc="4221900729" ref="index"/>
-    <file name="index.css" crc="3969824177" ref="index"/>
+    <file name="index.css" crc="1297743" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3819263059" ref="index"/>
-    <file name="nomq_index.css" crc="3832394938" ref="index"/>
+    <file name="nomq_index.css" crc="316360884" ref="index"/>
     <file name="master_2019-master.css" crc="4210030199" ref="2019-events"/>
     <file name="nomq_preview_master_2019-master.css" crc="385873647" ref="2019-events"/>
     <file name="2019-events.css" crc="3931055781" ref="2019-events"/>
@@ -271,6 +271,6 @@
     <file name="spirits-cigar-crop-u3658910.jpg" crc="4067346471" ref="2019-events"/>
     <file name="spirits-group173x130.jpg" crc="3983770798" seo="true" ref="2019-events"/>
   </folder>
-  <file name="index.html" crc="377885034" seo="true" mt="1540502508629" redirect="true"/>
+  <file name="index.html" crc="4184925932" seo="true" mt="1540998572681" redirect="true"/>
   <file name="2019-events.html" crc="3925599120" seo="true" mt="1540577742825" redirect="true"/>
 </manifest>
