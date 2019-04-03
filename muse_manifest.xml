@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1554256663286">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1554319400978">
   <folder name="css">
-    <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="4211275471" ref="index"/>
+    <file name="site_global.css" crc="31939975"/>
+    <file name="master_a-master.css" crc="3925078465" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index"/>
-    <file name="index.css" crc="3858894646" ref="index"/>
-    <file name="nomq_index.css" crc="81316161" ref="index"/>
+    <file name="index.css" crc="4294832979" ref="index"/>
+    <file name="nomq_index.css" crc="473211103" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -181,5 +181,5 @@
     <file name="mirage19258x172.jpg" crc="4147932661" seo="true" ref="index"/>
     <file name="mirage19258x172_2x.jpg" crc="4120110589" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3828673748" seo="true" mt="1554256601678" redirect="true"/>
+  <file name="index.html" crc="303453566" seo="true" mt="1554317999843" redirect="true"/>
 </manifest>
