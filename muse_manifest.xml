@@ -1,33 +1,31 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1554121675089">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1554256663286">
   <folder name="css">
-    <file name="site_global.css" crc="31939975"/>
-    <file name="master_a-master.css" crc="4103497873" ref="index"/>
+    <file name="site_global.css" crc="4143435521"/>
+    <file name="master_a-master.css" crc="4211275471" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index"/>
-    <file name="master_2019-master.css" crc="4252138195" ref="2019-events"/>
-    <file name="nomq_preview_master_2019-master.css" crc="385873647" ref="2019-events"/>
-    <file name="index.css" crc="4228873530" ref="index"/>
-    <file name="nomq_index.css" crc="4246452243" ref="index"/>
-    <file name="2019-events.css" crc="385313622" ref="2019-events"/>
-    <file name="nomq_2019-events.css" crc="501300343" ref="2019-events"/>
+    <file name="index.css" crc="3858894646" ref="index"/>
+    <file name="nomq_index.css" crc="81316161" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
     <file name="worksans-bold.eot" crc="4098374513"/>
     <file name="worksans-regular.woff" crc="283533100"/>
     <file name="worksans-regular.eot" crc="480645326"/>
+    <file name="worksans-medium.woff" crc="3786760500"/>
+    <file name="worksans-medium.eot" crc="4180403735"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:2019-events"/>
-    <file name="museutils.js" crc="3851988764" ref="index:2019-events"/>
-    <file name="whatinput.js" crc="86476730" ref="index:2019-events"/>
-    <file name="museconfig.js" crc="169177150" ref="index:2019-events"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="169177150" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
-    <file name="pie.js" crc="3831537696" ref="index:2019-events"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:2019-events"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index:2019-events"/>
-    <file name="require.js" crc="4108833657" ref="index:2019-events"/>
-    <file name="webpro.js" crc="4067903014" ref="2019-events"/>
-    <file name="musewpdisclosure.js" crc="338211507" ref="2019-events"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="4228198005" ref="index"/>
@@ -124,71 +122,7 @@
     <file name="bslv19-1110x112.jpg" crc="3782339873" seo="true" ref="index"/>
     <file name="bslv19-2170x112.jpg" crc="4157423691" seo="true" ref="index"/>
     <file name="bslv19-2170x112_2x.jpg" crc="467083874" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:2019-events"/>
-    <file name="2019-master-favicon.ico" crc="4228198005" ref="2019-events"/>
-    <file name="main-bk.jpg" crc="46363019" ref="2019-events"/>
-    <file name="logo2019.png" crc="389234171" seo="true" ref="2019-events"/>
-    <file name="hard-rock-florida.jpg" crc="4228778429" seo="true" ref="2019-events"/>
-    <file name="mirage2018.jpg" crc="3901622661" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas2-18.jpg" crc="3798725551" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas3-18.jpg" crc="25602531" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u34628.jpg" crc="3938933100" ref="2019-events"/>
-    <file name="spirits-two.jpg" crc="4021090250" seo="true" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u36589.jpg" crc="121828755" ref="2019-events"/>
-    <file name="spirits-group-crop-u36591.jpg" crc="314428318" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346282.jpg" crc="4247684083" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365892.jpg" crc="27705100" ref="2019-events"/>
-    <file name="spirits-group-crop-u365912.jpg" crc="96129295" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-u34628.png" crc="4105021035" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365893.jpg" crc="3959046934" ref="2019-events"/>
-    <file name="spirits-group-crop-u365913.jpg" crc="313198722" ref="2019-events"/>
-    <file name="hard-rock-florida362x231.jpg" crc="3841407385" seo="true" ref="2019-events"/>
-    <file name="mirage2018362x231.jpg" crc="365071758" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas3-18328x218.jpg" crc="3955151483" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346283.jpg" crc="4068771230" ref="2019-events"/>
-    <file name="spirits-two272x209.jpg" crc="158346649" seo="true" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365894.jpg" crc="4240743992" ref="2019-events"/>
-    <file name="spirits-group-crop-u365914.jpg" crc="64361408" ref="2019-events"/>
-    <file name="logo2019638x277.png" crc="90032756" seo="true" ref="2019-events"/>
-    <file name="hard-rock-florida327x209.jpg" crc="3806342760" seo="true" ref="2019-events"/>
-    <file name="mirage2018327x209.jpg" crc="3762398741" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas3-18297x197.jpg" crc="4185523804" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346284.jpg" crc="54994408" ref="2019-events"/>
-    <file name="spirits-two246x189.jpg" crc="530258834" seo="true" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365895.jpg" crc="412578427" ref="2019-events"/>
-    <file name="spirits-group-crop-u365915.jpg" crc="3774406752" ref="2019-events"/>
-    <file name="logo2019554x240.png" crc="4277317130" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas3-18258x172.jpg" crc="293073563" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346285.jpg" crc="198131984" ref="2019-events"/>
-    <file name="spirits-two214x164.jpg" crc="3927246974" seo="true" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365896.jpg" crc="470492979" ref="2019-events"/>
-    <file name="spirits-group-crop-u365916.jpg" crc="125641227" ref="2019-events"/>
-    <file name="logo2019472x205.png" crc="118755460" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas3-18220x146.jpg" crc="244220545" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346286.jpg" crc="4194526033" ref="2019-events"/>
-    <file name="spirits-two182x140.jpg" crc="165149300" seo="true" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365897.jpg" crc="3885755068" ref="2019-events"/>
-    <file name="spirits-group-crop-u365917.jpg" crc="516447390" ref="2019-events"/>
-    <file name="logo2019344x149.png" crc="94430251" seo="true" ref="2019-events"/>
-    <file name="hard-rock-florida338x217.jpg" crc="251249750" seo="true" ref="2019-events"/>
-    <file name="mirage2018338x217.jpg" crc="400750888" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346287.jpg" crc="3891505079" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365898.jpg" crc="4155615222" ref="2019-events"/>
-    <file name="spirits-group224x169.jpg" crc="394789146" seo="true" ref="2019-events"/>
-    <file name="logo2019338x147.png" crc="4106520932" seo="true" ref="2019-events"/>
-    <file name="hard-rock-florida307x196.jpg" crc="4076175914" seo="true" ref="2019-events"/>
-    <file name="mirage2018307x196.jpg" crc="4073952635" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas3-18337x224.jpg" crc="43397174" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346288.jpg" crc="3861984941" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u365899.jpg" crc="464746718" ref="2019-events"/>
-    <file name="spirits-group199x150.jpg" crc="3964479840" seo="true" ref="2019-events"/>
-    <file name="logo2019289x125.png" crc="289170918" seo="true" ref="2019-events"/>
-    <file name="hard-rock-florida262x167.jpg" crc="3835930757" seo="true" ref="2019-events"/>
-    <file name="mirage2018262x167.jpg" crc="4106806864" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas3-18288x192.jpg" crc="3851293284" seo="true" ref="2019-events"/>
-    <file name="big-smoke-las-vegas5-crop-u346289.jpg" crc="4136736345" ref="2019-events"/>
-    <file name="spirits-cigar-crop-u3658910.jpg" crc="4067346471" ref="2019-events"/>
-    <file name="spirits-group173x130.jpg" crc="3983770798" seo="true" ref="2019-events"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="bslv-logo2.png" crc="9354746" seo="true" ref="index"/>
     <file name="bslv-logo2_2x.png" crc="233104855" seo="true" ref="index"/>
     <file name="bslv-logo2770x317.png" crc="67377462" seo="true" ref="index"/>
@@ -209,7 +143,43 @@
     <file name="bslv-logo2335x138_2x.png" crc="3942187248" seo="true" ref="index"/>
     <file name="bslv-logo2280x115.png" crc="4031312317" seo="true" ref="index"/>
     <file name="bslv-logo2280x115_2x.png" crc="501979363" seo="true" ref="index"/>
+    <file name="collage.jpg" crc="3909412012" seo="true" ref="index"/>
+    <file name="collage_2x.jpg" crc="322024960" seo="true" ref="index"/>
+    <file name="mirage19.jpg" crc="215004119" seo="true" ref="index"/>
+    <file name="mirage19_2x.jpg" crc="388870595" seo="true" ref="index"/>
+    <file name="collage1024x620.jpg" crc="443014393" seo="true" ref="index"/>
+    <file name="collage1024x620_2x.jpg" crc="263863085" seo="true" ref="index"/>
+    <file name="mirage19437x292.jpg" crc="63658407" seo="true" ref="index"/>
+    <file name="mirage19437x292_2x.jpg" crc="388870595" seo="true" ref="index"/>
+    <file name="collage960x581.jpg" crc="425226311" seo="true" ref="index"/>
+    <file name="collage960x581_2x.jpg" crc="4103885758" seo="true" ref="index"/>
+    <file name="mirage19410x274.jpg" crc="4194997174" seo="true" ref="index"/>
+    <file name="mirage19410x274_2x.jpg" crc="388870595" seo="true" ref="index"/>
+    <file name="collage850x515.jpg" crc="4126379594" seo="true" ref="index"/>
+    <file name="collage850x515_2x.jpg" crc="4194965641" seo="true" ref="index"/>
+    <file name="mirage19363x242.jpg" crc="315945681" seo="true" ref="index"/>
+    <file name="mirage19363x242_2x.jpg" crc="4038285477" seo="true" ref="index"/>
+    <file name="collage768x465.jpg" crc="3875614835" seo="true" ref="index"/>
+    <file name="collage768x465_2x.jpg" crc="8816873" seo="true" ref="index"/>
+    <file name="mirage19328x219.jpg" crc="4019067017" seo="true" ref="index"/>
+    <file name="mirage19328x219_2x.jpg" crc="263212494" seo="true" ref="index"/>
+    <file name="collage667x404.jpg" crc="3893320006" seo="true" ref="index"/>
+    <file name="collage667x404_2x.jpg" crc="4219357302" seo="true" ref="index"/>
+    <file name="mirage19465x310.jpg" crc="4220088897" seo="true" ref="index"/>
+    <file name="mirage19465x310_2x.jpg" crc="388870595" seo="true" ref="index"/>
+    <file name="collage568x344.jpg" crc="460555972" seo="true" ref="index"/>
+    <file name="collage568x344_2x.jpg" crc="114340456" seo="true" ref="index"/>
+    <file name="mirage19384x256.jpg" crc="41630240" seo="true" ref="index"/>
+    <file name="mirage19384x256_2x.jpg" crc="5649982" seo="true" ref="index"/>
+    <file name="collage-mobile.jpg" crc="3930334401" seo="true" ref="index"/>
+    <file name="mirage19326x217.jpg" crc="498705056" seo="true" ref="index"/>
+    <file name="mirage19326x217_2x.jpg" crc="3987597038" seo="true" ref="index"/>
+    <file name="collage-mobile375x1057.jpg" crc="3930334401" seo="true" ref="index"/>
+    <file name="mirage19321x214.jpg" crc="445544351" seo="true" ref="index"/>
+    <file name="mirage19321x214_2x.jpg" crc="44171802" seo="true" ref="index"/>
+    <file name="collage-mobile320x902.jpg" crc="3930334401" seo="true" ref="index"/>
+    <file name="mirage19258x172.jpg" crc="4147932661" seo="true" ref="index"/>
+    <file name="mirage19258x172_2x.jpg" crc="4120110589" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4246941873" seo="true" mt="1554121642389" redirect="true"/>
-  <file name="2019-events.html" crc="3806172070" seo="true" mt="1553838242105" redirect="true"/>
+  <file name="index.html" crc="3828673748" seo="true" mt="1554256601678" redirect="true"/>
 </manifest>
