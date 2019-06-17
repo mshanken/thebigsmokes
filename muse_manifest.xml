@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1554390448652">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1560433797680">
   <folder name="css">
-    <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="82698904" ref="index"/>
+    <file name="site_global.css" crc="31939975"/>
+    <file name="master_a-master.css" crc="353123552" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index"/>
-    <file name="index.css" crc="322810882" ref="index"/>
-    <file name="nomq_index.css" crc="473211103" ref="index"/>
+    <file name="index.css" crc="330707831" ref="index"/>
+    <file name="nomq_index.css" crc="4117127235" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -13,6 +13,8 @@
     <file name="worksans-regular.eot" crc="480645326"/>
     <file name="worksans-medium.woff" crc="3786760500"/>
     <file name="worksans-medium.eot" crc="4180403735"/>
+    <file name="worksans-semibold.woff" crc="305149025"/>
+    <file name="worksans-semibold.eot" crc="120615377"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -180,6 +182,26 @@
     <file name="collage-mobile320x902.jpg" crc="3930334401" seo="true" ref="index"/>
     <file name="mirage19258x172.jpg" crc="4147932661" seo="true" ref="index"/>
     <file name="mirage19258x172_2x.jpg" crc="4120110589" seo="true" ref="index"/>
+    <file name="collage2.jpg" crc="4153246740" seo="true" ref="index"/>
+    <file name="collage2_2x.jpg" crc="523749297" seo="true" ref="index"/>
+    <file name="collage21024x230.jpg" crc="3939113123" seo="true" ref="index"/>
+    <file name="collage21024x230_2x.jpg" crc="4206604048" seo="true" ref="index"/>
+    <file name="collage2960x216.jpg" crc="4152962611" seo="true" ref="index"/>
+    <file name="collage2960x216_2x.jpg" crc="473966081" seo="true" ref="index"/>
+    <file name="collage2850x191.jpg" crc="411245752" seo="true" ref="index"/>
+    <file name="collage2850x191_2x.jpg" crc="445995899" seo="true" ref="index"/>
+    <file name="collage2768x173.jpg" crc="77769443" seo="true" ref="index"/>
+    <file name="collage2768x173_2x.jpg" crc="4261608299" seo="true" ref="index"/>
+    <file name="collage2667x150.jpg" crc="4022516824" seo="true" ref="index"/>
+    <file name="collage2667x150_2x.jpg" crc="4035365631" seo="true" ref="index"/>
+    <file name="collage2568x128.jpg" crc="3883561414" seo="true" ref="index"/>
+    <file name="collage2568x128_2x.jpg" crc="4084577989" seo="true" ref="index"/>
+    <file name="collage2mobile.jpg" crc="396769271" seo="true" ref="index"/>
+    <file name="collage2mobile_2x.jpg" crc="171969072" seo="true" ref="index"/>
+    <file name="collage2mobile376x289.jpg" crc="124498214" seo="true" ref="index"/>
+    <file name="collage2mobile376x289_2x.jpg" crc="4173437194" seo="true" ref="index"/>
+    <file name="collage2mobile321x246.jpg" crc="4083866279" seo="true" ref="index"/>
+    <file name="collage2mobile321x246_2x.jpg" crc="141689983" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4054899693" seo="true" mt="1554390380286" redirect="true"/>
+  <file name="index.html" crc="4072588952" seo="true" mt="1560433753418" redirect="true"/>
 </manifest>
