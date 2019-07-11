@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1560433797680">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1562810769230">
   <folder name="css">
-    <file name="site_global.css" crc="31939975"/>
-    <file name="master_a-master.css" crc="353123552" ref="index"/>
+    <file name="site_global.css" crc="4143435521"/>
+    <file name="master_a-master.css" crc="4079485092" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index"/>
-    <file name="index.css" crc="330707831" ref="index"/>
-    <file name="nomq_index.css" crc="4117127235" ref="index"/>
+    <file name="index.css" crc="113235547" ref="index"/>
+    <file name="nomq_index.css" crc="3788790053" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -203,5 +203,5 @@
     <file name="collage2mobile321x246.jpg" crc="4083866279" seo="true" ref="index"/>
     <file name="collage2mobile321x246_2x.jpg" crc="141689983" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4072588952" seo="true" mt="1560433753418" redirect="true"/>
+  <file name="index.html" crc="305593038" seo="true" mt="1562810702264" redirect="true"/>
 </manifest>
