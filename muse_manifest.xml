@@ -1,207 +1,576 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1562810769230">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1566846346527">
   <folder name="css">
-    <file name="site_global.css" crc="4143435521"/>
-    <file name="master_a-master.css" crc="4079485092" ref="index"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_a-master.css" crc="3821104454" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index"/>
-    <file name="index.css" crc="113235547" ref="index"/>
-    <file name="nomq_index.css" crc="3788790053" ref="index"/>
+    <file name="index.css" crc="3798798249" ref="index"/>
+    <file name="nomq_index.css" crc="140116023" ref="index"/>
   </folder>
   <folder name="fonts">
+    <file name="worksans-semibold.woff" crc="305149025"/>
+    <file name="worksans-semibold.eot" crc="120615377"/>
     <file name="worksans-bold.woff" crc="180089418"/>
     <file name="worksans-bold.eot" crc="4098374513"/>
     <file name="worksans-regular.woff" crc="283533100"/>
     <file name="worksans-regular.eot" crc="480645326"/>
-    <file name="worksans-medium.woff" crc="3786760500"/>
-    <file name="worksans-medium.eot" crc="4180403735"/>
-    <file name="worksans-semibold.woff" crc="305149025"/>
-    <file name="worksans-semibold.eot" crc="120615377"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
-    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="169177150" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
-    <file name="pie.js" crc="3831537696" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
-    <file name="require.js" crc="4108833657" ref="index"/>
-    <file name="webpro.js" crc="4067903014" ref="index"/>
-    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="4228198005" ref="index"/>
-    <file name="section.jpg" crc="3938734533" ref="index"/>
-    <file name="header-vegas.jpg" crc="395934265" seo="true" ref="index"/>
-    <file name="header-vegas_2x.jpg" crc="115396422" seo="true" ref="index"/>
-    <file name="hashtag.png" crc="3794187565" seo="true" ref="index"/>
-    <file name="hashtag_2x.png" crc="4184313896" seo="true" ref="index"/>
-    <file name="fb.png" crc="119712679" seo="true" ref="index"/>
-    <file name="tw.png" crc="215941531" seo="true" ref="index"/>
-    <file name="ig.png" crc="305128200" seo="true" ref="index"/>
-    <file name="bslv19-3.jpg" crc="3901890774" seo="true" ref="index"/>
-    <file name="bslv19-3_2x.jpg" crc="3771397658" seo="true" ref="index"/>
-    <file name="bslv19-1.jpg" crc="4264791616" seo="true" ref="index"/>
-    <file name="bslv19-2.jpg" crc="3786449134" seo="true" ref="index"/>
-    <file name="bslv19-2_2x.jpg" crc="3870698551" seo="true" ref="index"/>
-    <file name="header-vegas1024x555.jpg" crc="4143492292" seo="true" ref="index"/>
-    <file name="header-vegas1024x555_2x.jpg" crc="3781933588" seo="true" ref="index"/>
-    <file name="bslv19-3321x262.jpg" crc="274146993" seo="true" ref="index"/>
-    <file name="bslv19-3321x262_2x.jpg" crc="3771397658" seo="true" ref="index"/>
-    <file name="bslv19-1257x263.jpg" crc="3939004687" seo="true" ref="index"/>
-    <file name="bslv19-2397x262.jpg" crc="4276140151" seo="true" ref="index"/>
-    <file name="bslv19-2397x262_2x.jpg" crc="3870698551" seo="true" ref="index"/>
-    <file name="header-vegas960x520.jpg" crc="445148235" seo="true" ref="index"/>
-    <file name="header-vegas960x520_2x.jpg" crc="4287405334" seo="true" ref="index"/>
-    <file name="bslv19-3301x245.jpg" crc="476318649" seo="true" ref="index"/>
-    <file name="bslv19-3301x245_2x.jpg" crc="3771397658" seo="true" ref="index"/>
-    <file name="bslv19-1241x246.jpg" crc="4069912646" seo="true" ref="index"/>
-    <file name="bslv19-2372x246.jpg" crc="283276576" seo="true" ref="index"/>
-    <file name="bslv19-2372x246_2x.jpg" crc="3870698551" seo="true" ref="index"/>
-    <file name="header-vegas851x461.jpg" crc="468766398" seo="true" ref="index"/>
-    <file name="header-vegas851x461_2x.jpg" crc="4275051475" seo="true" ref="index"/>
-    <file name="bslv19-3266x217.jpg" crc="4287817191" seo="true" ref="index"/>
-    <file name="bslv19-3266x217_2x.jpg" crc="182799384" seo="true" ref="index"/>
-    <file name="bslv19-1213x218.jpg" crc="4081810809" seo="true" ref="index"/>
-    <file name="bslv19-2330x217.jpg" crc="3878093687" seo="true" ref="index"/>
-    <file name="bslv19-2330x217_2x.jpg" crc="4204569210" seo="true" ref="index"/>
-    <file name="header-vegas768x416.jpg" crc="111899154" seo="true" ref="index"/>
-    <file name="header-vegas768x416_2x.jpg" crc="324251963" seo="true" ref="index"/>
-    <file name="hashtag120x14.png" crc="3794187565" seo="true" ref="index"/>
-    <file name="hashtag120x14_2x.png" crc="3794187565" seo="true" ref="index"/>
-    <file name="fb28x28.png" crc="119712679" seo="true" ref="index"/>
-    <file name="tw28x28.png" crc="146405494" seo="true" ref="index"/>
-    <file name="ig28x28.png" crc="62159818" seo="true" ref="index"/>
-    <file name="bslv19-3241x196.jpg" crc="300377156" seo="true" ref="index"/>
-    <file name="bslv19-3241x196_2x.jpg" crc="434512479" seo="true" ref="index"/>
-    <file name="bslv19-1193x197.jpg" crc="385465348" seo="true" ref="index"/>
-    <file name="bslv19-2298x197.jpg" crc="139807074" seo="true" ref="index"/>
-    <file name="bslv19-2298x197_2x.jpg" crc="4009469527" seo="true" ref="index"/>
-    <file name="header-vegas667x362.jpg" crc="416453583" seo="true" ref="index"/>
-    <file name="header-vegas667x362_2x.jpg" crc="189917527" seo="true" ref="index"/>
-    <file name="hashtag83x10.png" crc="167463928" seo="true" ref="index"/>
-    <file name="hashtag83x10_2x.png" crc="3794187565" seo="true" ref="index"/>
-    <file name="fb19x19.png" crc="119712679" seo="true" ref="index"/>
-    <file name="tw19x19.png" crc="451433208" seo="true" ref="index"/>
-    <file name="ig19x19.png" crc="202490674" seo="true" ref="index"/>
-    <file name="bslv19-3209x171.jpg" crc="4093729261" seo="true" ref="index"/>
-    <file name="bslv19-3209x171_2x.jpg" crc="3995022692" seo="true" ref="index"/>
-    <file name="bslv19-1167x171.jpg" crc="4204542801" seo="true" ref="index"/>
-    <file name="bslv19-2259x171.jpg" crc="100850868" seo="true" ref="index"/>
-    <file name="bslv19-2259x171_2x.jpg" crc="185367853" seo="true" ref="index"/>
-    <file name="header-vegas568x308.jpg" crc="78114729" seo="true" ref="index"/>
-    <file name="header-vegas568x308_2x.jpg" crc="3915022941" seo="true" ref="index"/>
-    <file name="hashtag107x12.png" crc="3794187565" seo="true" ref="index"/>
-    <file name="hashtag107x12_2x.png" crc="3794187565" seo="true" ref="index"/>
-    <file name="fb25x25.png" crc="119712679" seo="true" ref="index"/>
-    <file name="tw25x25.png" crc="435647001" seo="true" ref="index"/>
-    <file name="ig25x25.png" crc="488873359" seo="true" ref="index"/>
-    <file name="bslv19-3178x145.jpg" crc="177102469" seo="true" ref="index"/>
-    <file name="bslv19-3178x145_2x.jpg" crc="291776951" seo="true" ref="index"/>
-    <file name="bslv19-1143x146.jpg" crc="4200888588" seo="true" ref="index"/>
-    <file name="bslv19-2221x145.jpg" crc="4009407264" seo="true" ref="index"/>
-    <file name="bslv19-2221x145_2x.jpg" crc="100723617" seo="true" ref="index"/>
-    <file name="header-vegas-mobile.jpg" crc="3868396801" seo="true" ref="index"/>
-    <file name="header-vegas-mobile_2x.jpg" crc="123760901" seo="true" ref="index"/>
-    <file name="menu-mobile.jpg" crc="3820142646" seo="true" ref="index"/>
-    <file name="menu-mobile_2x.jpg" crc="248845019" seo="true" ref="index"/>
-    <file name="bslv19-3374x305.jpg" crc="3850352339" seo="true" ref="index"/>
-    <file name="bslv19-3374x305_2x.jpg" crc="3771397658" seo="true" ref="index"/>
-    <file name="bslv19-1142x145.jpg" crc="149859173" seo="true" ref="index"/>
-    <file name="bslv19-2219x145.jpg" crc="4072292532" seo="true" ref="index"/>
-    <file name="bslv19-2219x145_2x.jpg" crc="482829197" seo="true" ref="index"/>
-    <file name="header-vegas-mobile-crop-u37162.jpg" crc="48591592" ref="index"/>
-    <file name="header-vegas-mobile-crop-u37162_2x.jpg" crc="4211194540" ref="index"/>
-    <file name="menu-mobile-crop-u37485.jpg" crc="3835250625" ref="index"/>
-    <file name="menu-mobile-crop-u37485_2x.jpg" crc="133121942" ref="index"/>
-    <file name="bslv19-3339x277.jpg" crc="4134567175" seo="true" ref="index"/>
-    <file name="bslv19-3339x277_2x.jpg" crc="3771397658" seo="true" ref="index"/>
-    <file name="bslv19-1128x131.jpg" crc="428779771" seo="true" ref="index"/>
-    <file name="bslv19-2199x131.jpg" crc="453859209" seo="true" ref="index"/>
-    <file name="bslv19-2199x131_2x.jpg" crc="495448547" seo="true" ref="index"/>
-    <file name="bslv19-3289x236.jpg" crc="495646495" seo="true" ref="index"/>
-    <file name="bslv19-3289x236_2x.jpg" crc="3762854532" seo="true" ref="index"/>
-    <file name="bslv19-1110x112.jpg" crc="3782339873" seo="true" ref="index"/>
-    <file name="bslv19-2170x112.jpg" crc="4157423691" seo="true" ref="index"/>
-    <file name="bslv19-2170x112_2x.jpg" crc="467083874" seo="true" ref="index"/>
+    <file name="section.jpg" crc="3938734533" ref="index">
+      <caption webpage="index" alt="Tickets EVENINGS CIGARS SEMINARS HOTEL FAQ"/>
+    </file>
+    <file name="header-vegas.jpg" crc="91484851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas_2x.jpg" crc="115396422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2.png" crc="518193380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2_2x.png" crc="233104855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag.png" crc="3794187565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag_2x.png" crc="3963754296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb.png" crc="119712679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw.png" crc="215941531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig.png" crc="406638953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3.jpg" crc="3763860078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3_2x.jpg" crc="3771397658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1.jpg" crc="4088097199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2.jpg" crc="239204666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2_2x.jpg" crc="3870698551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2.jpg" crc="405480355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2_2x.jpg" crc="16390014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage.jpg" crc="4201493546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage_2x.jpg" crc="322024960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19.jpg" crc="440987186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19_2x.jpg" crc="388870595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas1024x555.jpg" crc="4260660839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas1024x555_2x.jpg" crc="220612320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2770x317.png" crc="196053768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2770x317_2x.png" crc="233104855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3321x262.jpg" crc="319291807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3321x262_2x.jpg" crc="3771397658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1257x263.jpg" crc="3822284427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2397x262.jpg" crc="368149855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2397x262_2x.jpg" crc="3870698551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage21024x230.jpg" crc="4120037989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1024x620.jpg" crc="472574754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1024x620_2x.jpg" crc="518899445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19437x292.jpg" crc="528739021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19437x292_2x.jpg" crc="388870595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas960x520.jpg" crc="42506904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas960x520_2x.jpg" crc="4146693252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2722x297.png" crc="4271408770" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2722x297_2x.png" crc="233104855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3301x245.jpg" crc="341576740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3301x245_2x.jpg" crc="3771397658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1241x246.jpg" crc="467467147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2372x246.jpg" crc="28661880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2372x246_2x.jpg" crc="3870698551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2960x216.jpg" crc="4909689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2960x216_2x.jpg" crc="17306137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage960x581.jpg" crc="3791255268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage960x581_2x.jpg" crc="4223271058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19410x274.jpg" crc="4142187587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19410x274_2x.jpg" crc="388870595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas851x461.jpg" crc="372108845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas851x461_2x.jpg" crc="527666481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2639x263.png" crc="535808615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2639x263_2x.png" crc="4012035387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3266x217.jpg" crc="3923929303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3266x217_2x.jpg" crc="431987145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1213x218.jpg" crc="4093308584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2330x217.jpg" crc="444945877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2330x217_2x.jpg" crc="175810719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2850x191.jpg" crc="235958150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2850x191_2x.jpg" crc="138041547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage850x515.jpg" crc="490172813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage850x515_2x.jpg" crc="4226601719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19363x242.jpg" crc="4197013831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19363x242_2x.jpg" crc="89776282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas768x416.jpg" crc="443746541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas768x416_2x.jpg" crc="4060052669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2577x238.png" crc="510842751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2577x238_2x.png" crc="162906515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag120x14.png" crc="3794187565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag120x14_2x.png" crc="3794187565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb28x28.png" crc="119712679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw28x28.png" crc="352776638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig28x28.png" crc="62159818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3241x196.jpg" crc="87862972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3241x196_2x.jpg" crc="3759564259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1193x197.jpg" crc="236480906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2298x197.jpg" crc="4132064909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2298x197_2x.jpg" crc="3933290185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2768x173.jpg" crc="4259720285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2768x173_2x.jpg" crc="421522914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage768x465.jpg" crc="250706812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage768x465_2x.jpg" crc="4037919417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19328x219.jpg" crc="459252597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19328x219_2x.jpg" crc="421373602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas667x362.jpg" crc="19114876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas667x362_2x.jpg" crc="565979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2502x206.png" crc="65415467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2502x206_2x.png" crc="32223158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag83x10.png" crc="167463928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag83x10_2x.png" crc="3794187565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb19x19.png" crc="119712679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw19x19.png" crc="451433208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig19x19.png" crc="202490674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3209x171.jpg" crc="4123439366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3209x171_2x.jpg" crc="4181070766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1167x171.jpg" crc="4200245336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2259x171.jpg" crc="158615759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2259x171_2x.jpg" crc="283202944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2667x150.jpg" crc="325177865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2667x150_2x.jpg" crc="3865911441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage667x404.jpg" crc="4000646255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage667x404_2x.jpg" crc="4126691148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19465x310.jpg" crc="349802199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19465x310_2x.jpg" crc="388870595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas568x308.jpg" crc="3764743602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas568x308_2x.jpg" crc="3974696749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2427x176.png" crc="285477705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2427x176_2x.png" crc="4058067218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag107x12.png" crc="3794187565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hashtag107x12_2x.png" crc="3794187565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb25x25.png" crc="119712679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw25x25.png" crc="435647001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig25x25.png" crc="488873359" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3178x145.jpg" crc="4072426803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3178x145_2x.jpg" crc="4170321534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1143x146.jpg" crc="466607513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2221x145.jpg" crc="3952257358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2221x145_2x.jpg" crc="219062063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2568x128.jpg" crc="4105266399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2568x128_2x.jpg" crc="119616676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage568x344.jpg" crc="485750203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage568x344_2x.jpg" crc="408841504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19384x256.jpg" crc="72026594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19384x256_2x.jpg" crc="3848439682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas-mobile.jpg" crc="434160079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas-mobile_2x.jpg" crc="123760901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2381x157.png" crc="3920884447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2381x157_2x.png" crc="3876312779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-mobile.jpg" crc="449576302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-mobile_2x.jpg" crc="248845019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3374x305.jpg" crc="4261112571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3374x305_2x.jpg" crc="3771397658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1142x145.jpg" crc="4097092516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2219x145.jpg" crc="386051077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2219x145_2x.jpg" crc="466393183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2mobile.jpg" crc="3950781700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2mobile_2x.jpg" crc="424438465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-mobile.jpg" crc="3930334401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19326x217.jpg" crc="522407215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19326x217_2x.jpg" crc="81611012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas-mobile-crop-u37162.jpg" crc="4076553474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-vegas-mobile-crop-u37162_2x.jpg" crc="522378797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2335x138.png" crc="3887771450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2335x138_2x.png" crc="3866453801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-mobile-crop-u37485.jpg" crc="453447871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-mobile-crop-u37485_2x.jpg" crc="3958695846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3339x277.jpg" crc="413728107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3339x277_2x.jpg" crc="3771397658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1128x131.jpg" crc="4071145582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2199x131.jpg" crc="3826533525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2199x131_2x.jpg" crc="295469767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2mobile376x289.jpg" crc="3976032212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2mobile376x289_2x.jpg" crc="4065547519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-mobile375x1057.jpg" crc="3930334401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19321x214.jpg" crc="3777837461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19321x214_2x.jpg" crc="299523949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2280x115.png" crc="3927834637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv-logo2280x115_2x.png" crc="210212054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3289x236.jpg" crc="3795091091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-3289x236_2x.jpg" crc="445771523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-1110x112.jpg" crc="351641467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2170x112.jpg" crc="296399681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv19-2170x112_2x.jpg" crc="4208070280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2mobile321x246.jpg" crc="297458556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2mobile321x246_2x.jpg" crc="3966151729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-mobile320x902.jpg" crc="3930334401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19258x172.jpg" crc="468451083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mirage19258x172_2x.jpg" crc="4146671391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="bslv-logo2.png" crc="9354746" seo="true" ref="index"/>
-    <file name="bslv-logo2_2x.png" crc="233104855" seo="true" ref="index"/>
-    <file name="bslv-logo2770x317.png" crc="67377462" seo="true" ref="index"/>
-    <file name="bslv-logo2770x317_2x.png" crc="233104855" seo="true" ref="index"/>
-    <file name="bslv-logo2722x297.png" crc="4022450517" seo="true" ref="index"/>
-    <file name="bslv-logo2722x297_2x.png" crc="233104855" seo="true" ref="index"/>
-    <file name="bslv-logo2639x263.png" crc="4101133823" seo="true" ref="index"/>
-    <file name="bslv-logo2639x263_2x.png" crc="3892908569" seo="true" ref="index"/>
-    <file name="bslv-logo2577x238.png" crc="4101476034" seo="true" ref="index"/>
-    <file name="bslv-logo2577x238_2x.png" crc="191567789" seo="true" ref="index"/>
-    <file name="bslv-logo2502x206.png" crc="4288865559" seo="true" ref="index"/>
-    <file name="bslv-logo2502x206_2x.png" crc="138855893" seo="true" ref="index"/>
-    <file name="bslv-logo2427x176.png" crc="407792592" seo="true" ref="index"/>
-    <file name="bslv-logo2427x176_2x.png" crc="451241501" seo="true" ref="index"/>
-    <file name="bslv-logo2381x157.png" crc="4189563820" seo="true" ref="index"/>
-    <file name="bslv-logo2381x157_2x.png" crc="4081487712" seo="true" ref="index"/>
-    <file name="bslv-logo2335x138.png" crc="495713822" seo="true" ref="index"/>
-    <file name="bslv-logo2335x138_2x.png" crc="3942187248" seo="true" ref="index"/>
-    <file name="bslv-logo2280x115.png" crc="4031312317" seo="true" ref="index"/>
-    <file name="bslv-logo2280x115_2x.png" crc="501979363" seo="true" ref="index"/>
-    <file name="collage.jpg" crc="3909412012" seo="true" ref="index"/>
-    <file name="collage_2x.jpg" crc="322024960" seo="true" ref="index"/>
-    <file name="mirage19.jpg" crc="215004119" seo="true" ref="index"/>
-    <file name="mirage19_2x.jpg" crc="388870595" seo="true" ref="index"/>
-    <file name="collage1024x620.jpg" crc="443014393" seo="true" ref="index"/>
-    <file name="collage1024x620_2x.jpg" crc="263863085" seo="true" ref="index"/>
-    <file name="mirage19437x292.jpg" crc="63658407" seo="true" ref="index"/>
-    <file name="mirage19437x292_2x.jpg" crc="388870595" seo="true" ref="index"/>
-    <file name="collage960x581.jpg" crc="425226311" seo="true" ref="index"/>
-    <file name="collage960x581_2x.jpg" crc="4103885758" seo="true" ref="index"/>
-    <file name="mirage19410x274.jpg" crc="4194997174" seo="true" ref="index"/>
-    <file name="mirage19410x274_2x.jpg" crc="388870595" seo="true" ref="index"/>
-    <file name="collage850x515.jpg" crc="4126379594" seo="true" ref="index"/>
-    <file name="collage850x515_2x.jpg" crc="4194965641" seo="true" ref="index"/>
-    <file name="mirage19363x242.jpg" crc="315945681" seo="true" ref="index"/>
-    <file name="mirage19363x242_2x.jpg" crc="4038285477" seo="true" ref="index"/>
-    <file name="collage768x465.jpg" crc="3875614835" seo="true" ref="index"/>
-    <file name="collage768x465_2x.jpg" crc="8816873" seo="true" ref="index"/>
-    <file name="mirage19328x219.jpg" crc="4019067017" seo="true" ref="index"/>
-    <file name="mirage19328x219_2x.jpg" crc="263212494" seo="true" ref="index"/>
-    <file name="collage667x404.jpg" crc="3893320006" seo="true" ref="index"/>
-    <file name="collage667x404_2x.jpg" crc="4219357302" seo="true" ref="index"/>
-    <file name="mirage19465x310.jpg" crc="4220088897" seo="true" ref="index"/>
-    <file name="mirage19465x310_2x.jpg" crc="388870595" seo="true" ref="index"/>
-    <file name="collage568x344.jpg" crc="460555972" seo="true" ref="index"/>
-    <file name="collage568x344_2x.jpg" crc="114340456" seo="true" ref="index"/>
-    <file name="mirage19384x256.jpg" crc="41630240" seo="true" ref="index"/>
-    <file name="mirage19384x256_2x.jpg" crc="5649982" seo="true" ref="index"/>
-    <file name="collage-mobile.jpg" crc="3930334401" seo="true" ref="index"/>
-    <file name="mirage19326x217.jpg" crc="498705056" seo="true" ref="index"/>
-    <file name="mirage19326x217_2x.jpg" crc="3987597038" seo="true" ref="index"/>
-    <file name="collage-mobile375x1057.jpg" crc="3930334401" seo="true" ref="index"/>
-    <file name="mirage19321x214.jpg" crc="445544351" seo="true" ref="index"/>
-    <file name="mirage19321x214_2x.jpg" crc="44171802" seo="true" ref="index"/>
-    <file name="collage-mobile320x902.jpg" crc="3930334401" seo="true" ref="index"/>
-    <file name="mirage19258x172.jpg" crc="4147932661" seo="true" ref="index"/>
-    <file name="mirage19258x172_2x.jpg" crc="4120110589" seo="true" ref="index"/>
-    <file name="collage2.jpg" crc="4153246740" seo="true" ref="index"/>
-    <file name="collage2_2x.jpg" crc="523749297" seo="true" ref="index"/>
-    <file name="collage21024x230.jpg" crc="3939113123" seo="true" ref="index"/>
-    <file name="collage21024x230_2x.jpg" crc="4206604048" seo="true" ref="index"/>
-    <file name="collage2960x216.jpg" crc="4152962611" seo="true" ref="index"/>
-    <file name="collage2960x216_2x.jpg" crc="473966081" seo="true" ref="index"/>
-    <file name="collage2850x191.jpg" crc="411245752" seo="true" ref="index"/>
-    <file name="collage2850x191_2x.jpg" crc="445995899" seo="true" ref="index"/>
-    <file name="collage2768x173.jpg" crc="77769443" seo="true" ref="index"/>
-    <file name="collage2768x173_2x.jpg" crc="4261608299" seo="true" ref="index"/>
-    <file name="collage2667x150.jpg" crc="4022516824" seo="true" ref="index"/>
-    <file name="collage2667x150_2x.jpg" crc="4035365631" seo="true" ref="index"/>
-    <file name="collage2568x128.jpg" crc="3883561414" seo="true" ref="index"/>
-    <file name="collage2568x128_2x.jpg" crc="4084577989" seo="true" ref="index"/>
-    <file name="collage2mobile.jpg" crc="396769271" seo="true" ref="index"/>
-    <file name="collage2mobile_2x.jpg" crc="171969072" seo="true" ref="index"/>
-    <file name="collage2mobile376x289.jpg" crc="124498214" seo="true" ref="index"/>
-    <file name="collage2mobile376x289_2x.jpg" crc="4173437194" seo="true" ref="index"/>
-    <file name="collage2mobile321x246.jpg" crc="4083866279" seo="true" ref="index"/>
-    <file name="collage2mobile321x246_2x.jpg" crc="141689983" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="305593038" seo="true" mt="1562810702264" redirect="true"/>
+  <file name="index.html" crc="3839220286" seo="true" mt="1566845989027" redirect="true"/>
 </manifest>
