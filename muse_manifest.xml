@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1569254335174">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1569356342464">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3822304696" ref="index:agenda"/>
+    <file name="master_a-master.css" crc="3814443123" ref="index:agenda"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index:agenda"/>
-    <file name="index.css" crc="341209360" ref="index"/>
-    <file name="nomq_index.css" crc="3957536615" ref="index"/>
+    <file name="index.css" crc="319174923" ref="index"/>
+    <file name="nomq_index.css" crc="70131197" ref="index"/>
     <file name="agenda.css" crc="205756854" ref="agenda"/>
     <file name="nomq_agenda.css" crc="3801147586" ref="agenda"/>
   </folder>
@@ -673,6 +673,6 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:agenda"/>
   </folder>
-  <file name="index.html" crc="3900284811" seo="true" mt="1569254286288" redirect="true"/>
+  <file name="index.html" crc="3867864112" seo="true" mt="1569356317209" redirect="true"/>
   <file name="agenda.html" crc="4039585901" seo="true" mt="1568388928432" redirect="true"/>
 </manifest>
