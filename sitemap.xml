@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bigsmokelasvegas.com/index.html</loc>
-    <lastmod>2019-09-24</lastmod>
+    <lastmod>2019-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -509,10 +509,34 @@
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19258x172_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos2-mobile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos2-mobile_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos3868x361.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos3814x338.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos3721x299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos3651x271.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos3566x235.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bigsmokelasvegas.com/agenda.html</loc>
-    <lastmod>2019-09-13</lastmod>
+    <lastmod>2019-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
