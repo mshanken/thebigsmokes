@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1570714714534">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1571084817933">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="455807484" ref="index:agenda"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_a-master.css" crc="480977122" ref="index:agenda"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index:agenda"/>
-    <file name="index.css" crc="318430116" ref="index"/>
-    <file name="nomq_index.css" crc="238488774" ref="index"/>
+    <file name="index.css" crc="3973985285" ref="index"/>
+    <file name="nomq_index.css" crc="202252623" ref="index"/>
     <file name="agenda.css" crc="378560370" ref="agenda"/>
     <file name="nomq_agenda.css" crc="4111513433" ref="agenda"/>
   </folder>
@@ -672,37 +672,37 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:agenda"/>
-    <file name="sponsor-logos4.jpg" crc="4022804483" seo="true" ref="index">
+    <file name="sponsor-logos5.jpg" crc="4253854792" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos4868x361.jpg" crc="111735023" seo="true" ref="index">
+    <file name="sponsor-logos5868x361.jpg" crc="4099517666" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos4814x338.jpg" crc="246437948" seo="true" ref="index">
+    <file name="sponsor-logos5814x338.jpg" crc="451350707" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos4721x299.jpg" crc="79945025" seo="true" ref="index">
+    <file name="sponsor-logos5721x299.jpg" crc="10677790" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos4651x271.jpg" crc="4213580636" seo="true" ref="index">
+    <file name="sponsor-logos5651x271.jpg" crc="4227553222" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos4566x235.jpg" crc="4245677168" seo="true" ref="index">
+    <file name="sponsor-logos5566x235.jpg" crc="4132162234" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos3-mobile.jpg" crc="3893242000" seo="true" ref="index">
+    <file name="sponsor-logos4-mobile.jpg" crc="3892604496" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos3-mobile_2x.jpg" crc="4023702932" seo="true" ref="index">
+    <file name="sponsor-logos4-mobile_2x.jpg" crc="3965245778" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="456740723" seo="true" mt="1570714582195" redirect="true"/>
+  <file name="index.html" crc="220519819" seo="true" mt="1571084791886" redirect="true"/>
   <file name="agenda.html" crc="530930650" seo="true" mt="1569518385873" redirect="true"/>
 </manifest>
