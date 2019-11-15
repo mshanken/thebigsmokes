@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1573847338608">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1573848937444">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
     <file name="master_a-master.css" crc="244436693" ref="index:agenda"/>
@@ -705,6 +705,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="219292956" seo="true" mt="1573847313984" redirect="true"/>
+  <file name="index.html" crc="4190204764" seo="true" mt="1573848900350" redirect="true"/>
   <file name="agenda.html" crc="505733328" seo="true" mt="1573847134811" redirect="true"/>
 </manifest>
