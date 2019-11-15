@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bigsmokelasvegas.com/index.html</loc>
-    <lastmod>2019-10-29</lastmod>
+    <lastmod>2019-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -54,12 +54,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/collage2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19.jpg</image:loc>
     </image:image>
     <image:image>
@@ -94,12 +88,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/collage21024x230.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage1024x620.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage1024x620_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19437x292.jpg</image:loc>
@@ -141,12 +129,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/collage2960x216_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage960x581.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage960x581_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19410x274.jpg</image:loc>
     </image:image>
     <image:image>
@@ -184,12 +166,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/collage2850x191_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage850x515.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage850x515_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19363x242.jpg</image:loc>
@@ -246,12 +222,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/collage2768x173_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage768x465.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage768x465_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19328x219.jpg</image:loc>
     </image:image>
     <image:image>
@@ -304,12 +274,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/collage2667x150_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage667x404.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage667x404_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19465x310.jpg</image:loc>
@@ -366,12 +330,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/collage2568x128_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage568x344.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage568x344_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19384x256.jpg</image:loc>
     </image:image>
     <image:image>
@@ -415,9 +373,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/collage2mobile_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage-mobile.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19326x217.jpg</image:loc>
@@ -465,9 +420,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/collage2mobile376x289_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage-mobile375x1057.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19321x214.jpg</image:loc>
     </image:image>
     <image:image>
@@ -501,9 +453,6 @@
       <image:loc>http://bigsmokelasvegas.com/images/collage2mobile321x246_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigsmokelasvegas.com/images/collage-mobile320x902.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/mirage19258x172.jpg</image:loc>
     </image:image>
     <image:image>
@@ -533,10 +482,64 @@
     <image:image>
       <image:loc>http://bigsmokelasvegas.com/images/sponsor-logos4-mobile_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage21024x230_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so1024x620.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so1024x620_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so960x581.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so960x581_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so850x515.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so850x515_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so768x465.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so768x465_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so667x404.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so667x404_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so568x344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-so568x344_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-mobile-so.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-mobile-so375x1057.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigsmokelasvegas.com/images/collage-mobile-so320x902.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bigsmokelasvegas.com/agenda.html</loc>
-    <lastmod>2019-09-26</lastmod>
+    <lastmod>2019-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

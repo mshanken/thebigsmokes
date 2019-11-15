@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1572383655895">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1573847338608">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="221333049" ref="index:agenda"/>
+    <file name="master_a-master.css" crc="244436693" ref="index:agenda"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index:agenda"/>
-    <file name="index.css" crc="56084181" ref="index"/>
-    <file name="nomq_index.css" crc="503651737" ref="index"/>
-    <file name="agenda.css" crc="378560370" ref="agenda"/>
-    <file name="nomq_agenda.css" crc="4111513433" ref="agenda"/>
+    <file name="index.css" crc="3777512313" ref="index"/>
+    <file name="nomq_index.css" crc="3790550213" ref="index"/>
+    <file name="agenda.css" crc="3845547900" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="4249552746" ref="agenda"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-semibold.woff" crc="305149025"/>
@@ -141,17 +141,10 @@
     <file name="bslv19-2_2x.jpg" crc="3870698551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2.jpg" crc="405480355" seo="true" ref="index">
+    <file name="collage2.jpg" crc="497649015" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2_2x.jpg" crc="16390014" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage.jpg" crc="4201493546" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage_2x.jpg" crc="322024960" seo="true" ref="index">
+    <file name="collage2_2x.jpg" crc="3895608181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19.jpg" crc="440987186" seo="true" ref="index">
@@ -191,13 +184,7 @@
     <file name="bslv19-2397x262_2x.jpg" crc="3870698551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage21024x230.jpg" crc="4120037989" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage1024x620.jpg" crc="472574754" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage1024x620_2x.jpg" crc="518899445" seo="true" ref="index">
+    <file name="collage21024x230.jpg" crc="4244303502" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19437x292.jpg" crc="528739021" seo="true" ref="index">
@@ -237,16 +224,10 @@
     <file name="bslv19-2372x246_2x.jpg" crc="3870698551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2960x216.jpg" crc="4909689" seo="true" ref="index">
+    <file name="collage2960x216.jpg" crc="3778829240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2960x216_2x.jpg" crc="17306137" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage960x581.jpg" crc="3791255268" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage960x581_2x.jpg" crc="4223271058" seo="true" ref="index">
+    <file name="collage2960x216_2x.jpg" crc="107262004" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19410x274.jpg" crc="4142187587" seo="true" ref="index">
@@ -286,16 +267,10 @@
     <file name="bslv19-2330x217_2x.jpg" crc="175810719" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2850x191.jpg" crc="235958150" seo="true" ref="index">
+    <file name="collage2850x191.jpg" crc="339959160" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2850x191_2x.jpg" crc="138041547" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage850x515.jpg" crc="490172813" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage850x515_2x.jpg" crc="4226601719" seo="true" ref="index">
+    <file name="collage2850x191_2x.jpg" crc="4227297625" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19363x242.jpg" crc="4197013831" seo="true" ref="index">
@@ -355,16 +330,10 @@
     <file name="bslv19-2298x197_2x.jpg" crc="3933290185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2768x173.jpg" crc="4259720285" seo="true" ref="index">
+    <file name="collage2768x173.jpg" crc="3824189506" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2768x173_2x.jpg" crc="421522914" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage768x465.jpg" crc="250706812" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage768x465_2x.jpg" crc="4037919417" seo="true" ref="index">
+    <file name="collage2768x173_2x.jpg" crc="518085084" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19328x219.jpg" crc="459252597" seo="true" ref="index">
@@ -424,16 +393,10 @@
     <file name="bslv19-2259x171_2x.jpg" crc="283202944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2667x150.jpg" crc="325177865" seo="true" ref="index">
+    <file name="collage2667x150.jpg" crc="381089628" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2667x150_2x.jpg" crc="3865911441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage667x404.jpg" crc="4000646255" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage667x404_2x.jpg" crc="4126691148" seo="true" ref="index">
+    <file name="collage2667x150_2x.jpg" crc="205902826" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19465x310.jpg" crc="349802199" seo="true" ref="index">
@@ -499,16 +462,10 @@
     <file name="bslv19-2221x145_2x.jpg" crc="219062063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2568x128.jpg" crc="4105266399" seo="true" ref="index">
+    <file name="collage2568x128.jpg" crc="3828529807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2568x128_2x.jpg" crc="119616676" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage568x344.jpg" crc="485750203" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage568x344_2x.jpg" crc="408841504" seo="true" ref="index">
+    <file name="collage2568x128_2x.jpg" crc="4170042755" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19384x256.jpg" crc="72026594" seo="true" ref="index">
@@ -556,13 +513,10 @@
     <file name="bslv19-2219x145_2x.jpg" crc="466393183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2mobile.jpg" crc="3950781700" seo="true" ref="index">
+    <file name="collage2mobile.jpg" crc="48663635" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage2mobile_2x.jpg" crc="424438465" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-mobile.jpg" crc="3930334401" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19326x217.jpg" crc="522407215" seo="true" ref="index">
@@ -618,13 +572,10 @@
     <file name="bslv19-2199x131_2x.jpg" crc="295469767" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2mobile376x289.jpg" crc="3976032212" seo="true" ref="index">
+    <file name="collage2mobile376x289.jpg" crc="236034848" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2mobile376x289_2x.jpg" crc="4065547519" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-mobile375x1057.jpg" crc="3930334401" seo="true" ref="index">
+    <file name="collage2mobile376x289_2x.jpg" crc="3904730114" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19321x214.jpg" crc="3777837461" seo="true" ref="index">
@@ -656,13 +607,10 @@
     <file name="bslv19-2170x112_2x.jpg" crc="4208070280" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2mobile321x246.jpg" crc="297458556" seo="true" ref="index">
+    <file name="collage2mobile321x246.jpg" crc="3954113342" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage2mobile321x246_2x.jpg" crc="3966151729" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-mobile320x902.jpg" crc="3930334401" seo="true" ref="index">
+    <file name="collage2mobile321x246_2x.jpg" crc="76205016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19258x172.jpg" crc="468451083" seo="true" ref="index">
@@ -702,7 +650,61 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="collage-so.jpg" crc="455962952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so_2x.jpg" crc="4058513078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage21024x230_2x.jpg" crc="284429049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so1024x620.jpg" crc="3982534723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so1024x620_2x.jpg" crc="408318252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so960x581.jpg" crc="4062725029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so960x581_2x.jpg" crc="4019357576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so850x515.jpg" crc="3970199805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so850x515_2x.jpg" crc="524765538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so768x465.jpg" crc="3873055079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so768x465_2x.jpg" crc="4062708735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so667x404.jpg" crc="3893540884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so667x404_2x.jpg" crc="333884098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so568x344.jpg" crc="4216151006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-so568x344_2x.jpg" crc="4122022598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-mobile-so.jpg" crc="3829106706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-mobile-so375x1057.jpg" crc="3829106706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-mobile-so320x902.jpg" crc="488495648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="175049607" seo="true" mt="1572383627871" redirect="true"/>
-  <file name="agenda.html" crc="530930650" seo="true" mt="1569518385873" redirect="true"/>
+  <file name="index.html" crc="219292956" seo="true" mt="1573847313984" redirect="true"/>
+  <file name="agenda.html" crc="505733328" seo="true" mt="1573847134811" redirect="true"/>
 </manifest>
