@@ -1,22 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1573848937444">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1574698750805">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="244436693" ref="index:agenda"/>
-    <file name="nomq_preview_master_a-master.css" crc="440620702" ref="index:agenda"/>
-    <file name="index.css" crc="3777512313" ref="index"/>
-    <file name="nomq_index.css" crc="3790550213" ref="index"/>
-    <file name="agenda.css" crc="3845547900" ref="agenda"/>
-    <file name="nomq_agenda.css" crc="4249552746" ref="agenda"/>
+    <file name="master_a-master.css" crc="248556681" ref="agenda:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="440620702" ref="agenda:index"/>
+    <file name="agenda.css" crc="3920005165" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="4274392790" ref="agenda"/>
+    <file name="index.css" crc="4033006122" ref="index"/>
+    <file name="nomq_index.css" crc="239119297" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="worksans-semibold.woff" crc="305149025"/>
-    <file name="worksans-semibold.eot" crc="120615377"/>
     <file name="worksans-bold.woff" crc="180089418"/>
     <file name="worksans-bold.eot" crc="4098374513"/>
-    <file name="worksans-regular.woff" crc="283533100"/>
-    <file name="worksans-regular.eot" crc="480645326"/>
     <file name="worksans-medium.woff" crc="3786760500"/>
     <file name="worksans-medium.eot" crc="4180403735"/>
+    <file name="worksans-regular.woff" crc="283533100"/>
+    <file name="worksans-regular.eot" crc="480645326"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:agenda"/>
@@ -31,7 +29,7 @@
     <file name="require.js" crc="7928878" ref="index:agenda"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="4228198005" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4228198005" ref="index:agenda"/>
     <file name="section.jpg" crc="3938734533" ref="index:agenda">
       <caption webpage="index" alt="Tickets EVENINGS CIGARS SEMINARS AGENDA HOTEL FAQ"/>
       <caption webpage="agenda" alt="Tickets EVENINGS CIGARS SEMINARS AGENDA HOTEL FAQ"/>
@@ -44,44 +42,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2.png" crc="518193380" seo="true" ref="index:agenda">
+    <file name="bslv-logo2020.png" crc="428305622" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2_2x.png" crc="233104855" seo="true" ref="index:agenda">
+    <file name="bslv-logo2020_2x.png" crc="173720095" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="hashtag.png" crc="3794187565" seo="true" ref="index:agenda">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="hashtag_2x.png" crc="3963754296" seo="true" ref="index:agenda">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
     <file name="fb.png" crc="119712679" seo="true" ref="index:agenda">
@@ -141,10 +107,19 @@
     <file name="bslv19-2_2x.jpg" crc="3870698551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sponsor-logos5.jpg" crc="4253854792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="collage2.jpg" crc="497649015" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage2_2x.jpg" crc="3895608181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020.jpg" crc="3789317996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020_2x.jpg" crc="126339180" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19.jpg" crc="440987186" seo="true" ref="index">
@@ -153,19 +128,19 @@
     <file name="mirage19_2x.jpg" crc="388870595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header-vegas1024x555.jpg" crc="4260660839" seo="true" ref="index">
+    <file name="header-vegas1024x555.jpg" crc="4260660839" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="header-vegas1024x555_2x.jpg" crc="220612320" seo="true" ref="index">
+    <file name="header-vegas1024x555_2x.jpg" crc="220612320" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2770x317.png" crc="196053768" seo="true" ref="index">
+    <file name="bslv-logo2020770x317.png" crc="3983070851" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2770x317_2x.png" crc="233104855" seo="true" ref="index">
+    <file name="bslv-logo2020770x317_2x.png" crc="173720095" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -184,7 +159,19 @@
     <file name="bslv19-2397x262_2x.jpg" crc="3870698551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sponsor-logos5868x361.jpg" crc="4099517666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="collage21024x230.jpg" crc="4244303502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage21024x230_2x.jpg" crc="284429049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage20201024x620.jpg" crc="4004936427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage20201024x620_2x.jpg" crc="4099080172" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19437x292.jpg" crc="528739021" seo="true" ref="index">
@@ -193,19 +180,19 @@
     <file name="mirage19437x292_2x.jpg" crc="388870595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header-vegas960x520.jpg" crc="42506904" seo="true" ref="index">
+    <file name="header-vegas960x520.jpg" crc="42506904" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="header-vegas960x520_2x.jpg" crc="4146693252" seo="true" ref="index">
+    <file name="header-vegas960x520_2x.jpg" crc="4146693252" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2722x297.png" crc="4271408770" seo="true" ref="index">
+    <file name="bslv-logo2020722x297.png" crc="22783014" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2722x297_2x.png" crc="233104855" seo="true" ref="index">
+    <file name="bslv-logo2020722x297_2x.png" crc="173720095" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -224,10 +211,19 @@
     <file name="bslv19-2372x246_2x.jpg" crc="3870698551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sponsor-logos5814x338.jpg" crc="451350707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="collage2960x216.jpg" crc="3778829240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage2960x216_2x.jpg" crc="107262004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020960x581.jpg" crc="4146643318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020960x581_2x.jpg" crc="4167904730" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19410x274.jpg" crc="4142187587" seo="true" ref="index">
@@ -236,19 +232,19 @@
     <file name="mirage19410x274_2x.jpg" crc="388870595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header-vegas851x461.jpg" crc="372108845" seo="true" ref="index">
+    <file name="header-vegas851x461.jpg" crc="372108845" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="header-vegas851x461_2x.jpg" crc="527666481" seo="true" ref="index">
+    <file name="header-vegas851x461_2x.jpg" crc="527666481" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2639x263.png" crc="535808615" seo="true" ref="index">
+    <file name="bslv-logo2020639x263.png" crc="3771984032" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2639x263_2x.png" crc="4012035387" seo="true" ref="index">
+    <file name="bslv-logo2020639x263_2x.png" crc="173720095" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -267,10 +263,19 @@
     <file name="bslv19-2330x217_2x.jpg" crc="175810719" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sponsor-logos5721x299.jpg" crc="10677790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="collage2850x191.jpg" crc="339959160" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage2850x191_2x.jpg" crc="4227297625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020850x515.jpg" crc="3784846987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020850x515_2x.jpg" crc="3761580494" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19363x242.jpg" crc="4197013831" seo="true" ref="index">
@@ -279,39 +284,31 @@
     <file name="mirage19363x242_2x.jpg" crc="89776282" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header-vegas768x416.jpg" crc="443746541" seo="true" ref="index">
+    <file name="header-vegas768x416.jpg" crc="443746541" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="header-vegas768x416_2x.jpg" crc="4060052669" seo="true" ref="index">
+    <file name="header-vegas768x416_2x.jpg" crc="4060052669" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2577x238.png" crc="510842751" seo="true" ref="index">
+    <file name="bslv-logo2020577x238.png" crc="515121741" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2577x238_2x.png" crc="162906515" seo="true" ref="index">
+    <file name="bslv-logo2020577x238_2x.png" crc="203404455" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="hashtag120x14.png" crc="3794187565" seo="true" ref="index">
+    <file name="fb28x28.png" crc="119712679" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="hashtag120x14_2x.png" crc="3794187565" seo="true" ref="index">
+    <file name="tw28x28.png" crc="352776638" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="fb28x28.png" crc="119712679" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="tw28x28.png" crc="352776638" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="ig28x28.png" crc="62159818" seo="true" ref="index">
+    <file name="ig28x28.png" crc="62159818" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -330,10 +327,19 @@
     <file name="bslv19-2298x197_2x.jpg" crc="3933290185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sponsor-logos5651x271.jpg" crc="4227553222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="collage2768x173.jpg" crc="3824189506" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage2768x173_2x.jpg" crc="518085084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020768x465.jpg" crc="188283355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020768x465_2x.jpg" crc="4080534106" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19328x219.jpg" crc="459252597" seo="true" ref="index">
@@ -342,39 +348,31 @@
     <file name="mirage19328x219_2x.jpg" crc="421373602" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header-vegas667x362.jpg" crc="19114876" seo="true" ref="index">
+    <file name="header-vegas667x362.jpg" crc="19114876" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="header-vegas667x362_2x.jpg" crc="565979" seo="true" ref="index">
+    <file name="header-vegas667x362_2x.jpg" crc="565979" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2502x206.png" crc="65415467" seo="true" ref="index">
+    <file name="bslv-logo2020502x206.png" crc="3879559253" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2502x206_2x.png" crc="32223158" seo="true" ref="index">
+    <file name="bslv-logo2020502x206_2x.png" crc="422864634" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="hashtag83x10.png" crc="167463928" seo="true" ref="index">
+    <file name="fb19x19.png" crc="119712679" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="hashtag83x10_2x.png" crc="3794187565" seo="true" ref="index">
+    <file name="tw19x19.png" crc="451433208" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="fb19x19.png" crc="119712679" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="tw19x19.png" crc="451433208" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="ig19x19.png" crc="202490674" seo="true" ref="index">
+    <file name="ig19x19.png" crc="202490674" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -393,10 +391,19 @@
     <file name="bslv19-2259x171_2x.jpg" crc="283202944" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sponsor-logos5566x235.jpg" crc="4132162234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="collage2667x150.jpg" crc="381089628" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage2667x150_2x.jpg" crc="205902826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020667x404.jpg" crc="3900931328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020667x404_2x.jpg" crc="288118584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19465x310.jpg" crc="349802199" seo="true" ref="index">
@@ -405,43 +412,35 @@
     <file name="mirage19465x310_2x.jpg" crc="388870595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header-vegas568x308.jpg" crc="3764743602" seo="true" ref="index">
+    <file name="header-vegas568x308.jpg" crc="3764743602" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="header-vegas568x308_2x.jpg" crc="3974696749" seo="true" ref="index">
+    <file name="header-vegas568x308_2x.jpg" crc="3974696749" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2427x176.png" crc="285477705" seo="true" ref="index">
+    <file name="bslv-logo2020427x176.png" crc="374323635" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2427x176_2x.png" crc="4058067218" seo="true" ref="index">
+    <file name="bslv-logo2020427x176_2x.png" crc="292955060" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="hashtag107x12.png" crc="3794187565" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="hashtag107x12_2x.png" crc="3794187565" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="fb25x25.png" crc="119712679" seo="true" ref="index">
+    <file name="fb25x25.png" crc="119712679" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="tw25x25.png" crc="435647001" seo="true" ref="index">
+    <file name="tw25x25.png" crc="435647001" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="ig25x25.png" crc="488873359" seo="true" ref="index">
+    <file name="ig25x25.png" crc="488873359" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
@@ -462,10 +461,28 @@
     <file name="bslv19-2221x145_2x.jpg" crc="219062063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sponsor-logos4-mobile.jpg" crc="3892604496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sponsor-logos4-mobile_2x.jpg" crc="3965245778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="collage2568x128.jpg" crc="3828529807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage2568x128_2x.jpg" crc="4170042755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020568x344.jpg" crc="298137969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage2020568x344_2x.jpg" crc="4188786500" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19384x256.jpg" crc="72026594" seo="true" ref="index">
@@ -482,11 +499,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2381x157.png" crc="3920884447" seo="true" ref="index">
+    <file name="bslv-logo2020381x157.png" crc="4266193056" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2381x157_2x.png" crc="3876312779" seo="true" ref="index">
+    <file name="bslv-logo2020381x157_2x.png" crc="398659567" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -519,6 +536,9 @@
     <file name="collage2mobile_2x.jpg" crc="424438465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="collage-mobile2020.jpg" crc="4065194963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="mirage19326x217.jpg" crc="522407215" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -537,11 +557,11 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2335x138.png" crc="3887771450" seo="true" ref="index">
+    <file name="bslv-logo2020335x138.png" crc="3896497897" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2335x138_2x.png" crc="3866453801" seo="true" ref="index">
+    <file name="bslv-logo2020335x138_2x.png" crc="147634883" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -578,17 +598,20 @@
     <file name="collage2mobile376x289_2x.jpg" crc="3904730114" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="collage-mobile2020375x1057.jpg" crc="4288455777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="mirage19321x214.jpg" crc="3777837461" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mirage19321x214_2x.jpg" crc="299523949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bslv-logo2280x115.png" crc="3927834637" seo="true" ref="index">
+    <file name="bslv-logo2020280x115.png" crc="4199305889" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
-    <file name="bslv-logo2280x115_2x.png" crc="210212054" seo="true" ref="index">
+    <file name="bslv-logo2020280x115_2x.png" crc="3799444782" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
     </file>
@@ -613,6 +636,9 @@
     <file name="collage2mobile321x246_2x.jpg" crc="76205016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="collage-mobile2020320x902.jpg" crc="4254219611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="mirage19258x172.jpg" crc="468451083" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -620,91 +646,67 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:agenda"/>
-    <file name="sponsor-logos5.jpg" crc="4253854792" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008.png" crc="191406729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos5868x361.jpg" crc="4099517666" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x.png" crc="3872327392" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos5814x338.jpg" crc="451350707" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410082.png" crc="348293605" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos5721x299.jpg" crc="10677790" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x2.png" crc="4012126405" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos5651x271.jpg" crc="4227553222" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410083.png" crc="511526218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos5566x235.jpg" crc="4132162234" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x3.png" crc="4233020740" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos4-mobile.jpg" crc="3892604496" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="sign-up_2020-crop-u410084.png" crc="3814593948" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sponsor-logos4-mobile_2x.jpg" crc="3965245778" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="sign-up_2020-crop-u41008_2x4.png" crc="4258308926" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so.jpg" crc="455962952" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410085.png" crc="4265244635" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so_2x.jpg" crc="4058513078" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x5.png" crc="3916530249" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage21024x230_2x.jpg" crc="284429049" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410086.png" crc="4219692426" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so1024x620.jpg" crc="3982534723" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x6.png" crc="303841341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so1024x620_2x.jpg" crc="408318252" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410087.png" crc="34023275" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so960x581.jpg" crc="4062725029" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x7.png" crc="3787267753" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so960x581_2x.jpg" crc="4019357576" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410088.png" crc="103918796" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so850x515.jpg" crc="3970199805" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x8.png" crc="73886544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so850x515_2x.jpg" crc="524765538" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410089.png" crc="170227444" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so768x465.jpg" crc="3873055079" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u41008_2x9.png" crc="3893156703" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so768x465_2x.jpg" crc="4062708735" seo="true" ref="index">
+    <file name="sign-up_202077x75.png" crc="3778410754" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage-so667x404.jpg" crc="3893540884" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-so667x404_2x.jpg" crc="333884098" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-so568x344.jpg" crc="4216151006" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-so568x344_2x.jpg" crc="4122022598" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-mobile-so.jpg" crc="3829106706" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-mobile-so375x1057.jpg" crc="3829106706" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage-mobile-so320x902.jpg" crc="488495648" seo="true" ref="index">
+    <file name="sign-up_202077x75_2x.png" crc="4087376917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4190204764" seo="true" mt="1573848900350" redirect="true"/>
-  <file name="agenda.html" crc="505733328" seo="true" mt="1573847134811" redirect="true"/>
+  <file name="index.html" crc="461859688" seo="true" mt="1574698718641" redirect="true"/>
+  <file name="agenda.html" crc="3773287993" seo="true" mt="1574694567358" redirect="true"/>
 </manifest>
