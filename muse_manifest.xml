@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1574698750805">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1591387049479">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="248556681" ref="agenda:index"/>
+    <file name="master_a-master.css" crc="4065957161" ref="agenda:index"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="agenda:index"/>
     <file name="agenda.css" crc="3920005165" ref="agenda"/>
     <file name="nomq_agenda.css" crc="4274392790" ref="agenda"/>
-    <file name="index.css" crc="4033006122" ref="index"/>
-    <file name="nomq_index.css" crc="239119297" ref="index"/>
+    <file name="index.css" crc="32541173" ref="index"/>
+    <file name="nomq_index.css" crc="4149120594" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -682,7 +682,7 @@
     <file name="sign-up_2020-crop-u41008_2x6.png" crc="303841341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up_2020-crop-u410087.png" crc="34023275" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410087.png" crc="164196386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="sign-up_2020-crop-u41008_2x7.png" crc="3787267753" seo="true" ref="index">
@@ -694,7 +694,7 @@
     <file name="sign-up_2020-crop-u41008_2x8.png" crc="73886544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up_2020-crop-u410089.png" crc="170227444" seo="true" ref="index">
+    <file name="sign-up_2020-crop-u410089.png" crc="4089744779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="sign-up_2020-crop-u41008_2x9.png" crc="3893156703" seo="true" ref="index">
@@ -707,6 +707,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="461859688" seo="true" mt="1574698718641" redirect="true"/>
+  <file name="index.html" crc="201095070" seo="true" mt="1591387015718" redirect="true"/>
   <file name="agenda.html" crc="3773287993" seo="true" mt="1574694567358" redirect="true"/>
 </manifest>
