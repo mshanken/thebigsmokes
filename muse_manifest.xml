@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1597155803366">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1597854382986">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3981151564" ref="agenda:index:home---tickets-on-sale"/>
+    <file name="master_a-master.css" crc="4103497873" ref="agenda:index:home---tickets-on-sale"/>
     <file name="nomq_preview_master_a-master.css" crc="440620702" ref="agenda:index:home---tickets-on-sale"/>
     <file name="agenda.css" crc="157728105" ref="agenda"/>
     <file name="nomq_agenda.css" crc="3830113003" ref="agenda"/>
-    <file name="index.css" crc="22015495" ref="index"/>
-    <file name="nomq_index.css" crc="42437188" ref="index"/>
+    <file name="index.css" crc="389017501" ref="index"/>
+    <file name="nomq_index.css" crc="4973418" ref="index"/>
     <file name="home---tickets-on-sale.css" crc="315338052" ref="home---tickets-on-sale"/>
     <file name="nomq_home---tickets-on-sale.css" crc="68781563" ref="home---tickets-on-sale"/>
   </folder>
@@ -1329,7 +1329,7 @@
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4034917641" seo="true" mt="1597155779016" redirect="true"/>
+  <file name="index.html" crc="482047210" seo="true" mt="1597854367087" redirect="true"/>
   <file name="agenda.html" crc="346157273" seo="true" mt="1592501809322" redirect="true"/>
   <file name="home---tickets-on-sale.html" crc="3824290673" seo="true" mt="1597154696493" redirect="true"/>
 </manifest>
