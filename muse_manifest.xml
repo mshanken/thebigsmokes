@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebigsmokes.com" resolutions="1x" timestamp="1606158044132">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebigsmokes.com" resolutions="1x" timestamp="1610660010915">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
+    <file name="site_global.css" crc="54365048"/>
     <file name="master_a-master.css" crc="4041230594" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3956427444" ref="index"/>
-    <file name="index.css" crc="298407520" ref="index"/>
+    <file name="index.css" crc="316583009" ref="index"/>
     <file name="nomq_index.css" crc="116199793" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -34,7 +34,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf.png" crc="3864650516" seo="true" ref="index">
+    <file name="bsmwf.png" crc="95117091" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="big-smoke.png" crc="475058306" seo="true" ref="index">
@@ -54,16 +54,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf481x216.png" crc="125819935" seo="true" ref="index">
+    <file name="bsmwf481x216.png" crc="3972694151" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf451x203.png" crc="4119386466" seo="true" ref="index">
+    <file name="bsmwf451x203.png" crc="199247364" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="glass850x766.jpg" crc="3765595194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf399x179.png" crc="85497754" seo="true" ref="index">
+    <file name="bsmwf399x179.png" crc="3913250257" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header850x192.jpg" crc="500427764" seo="true" ref="index">
@@ -72,7 +72,7 @@
     <file name="glass768x692.jpg" crc="268764454" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf361x162.png" crc="98400644" seo="true" ref="index">
+    <file name="bsmwf361x162.png" crc="4277694989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header768x173.jpg" crc="4293933800" seo="true" ref="index">
@@ -81,7 +81,7 @@
     <file name="glass667x601.jpg" crc="4269005748" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf313x141.png" crc="419368317" seo="true" ref="index">
+    <file name="bsmwf313x141.png" crc="48215615" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header667x151.jpg" crc="4252441941" seo="true" ref="index">
@@ -90,7 +90,7 @@
     <file name="glass568x512.jpg" crc="444606843" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf267x120.png" crc="4142862248" seo="true" ref="index">
+    <file name="bsmwf267x120.png" crc="4226410457" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header568x128.jpg" crc="41696838" seo="true" ref="index">
@@ -106,13 +106,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf351x158.png" crc="4115243278" seo="true" ref="index">
+    <file name="bsmwf351x158.png" crc="67833644" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf320x144.png" crc="262879467" seo="true" ref="index">
+    <file name="bsmwf320x144.png" crc="490776867" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf262x118.png" crc="89235543" seo="true" ref="index">
+    <file name="bsmwf262x118.png" crc="4160808520" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -151,5 +151,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="424327145" seo="true" mt="1606158012298" redirect="true"/>
+  <file name="index.html" crc="3938380121" seo="true" mt="1610659964567" redirect="true"/>
 </manifest>
