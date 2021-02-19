@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thebigsmokes.com/index.html</loc>
-    <lastmod>2021-01-14</lastmod>
+    <lastmod>2021-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,9 +13,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/bsmwf.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebigsmokes.com/images/big-smoke.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/header.jpg</image:loc>
@@ -97,6 +94,9 @@
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/image-bar-mobile2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bslv21.png</image:loc>
     </image:image>
   </url>
 </urlset>
