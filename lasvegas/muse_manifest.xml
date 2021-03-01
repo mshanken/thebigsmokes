@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1614013246004">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1614614295292">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="4059219121" ref="agenda:index:home---tickets-on-sale:home--ticket-descriptions"/>
+    <file name="master_a-master.css" crc="170989403" ref="agenda:index:home---tickets-on-sale:home--ticket-descriptions"/>
     <file name="nomq_preview_master_a-master.css" crc="490215181" ref="agenda:index:home---tickets-on-sale:home--ticket-descriptions"/>
-    <file name="agenda.css" crc="3875959396" ref="agenda"/>
-    <file name="nomq_agenda.css" crc="355476492" ref="agenda"/>
-    <file name="index.css" crc="133749087" ref="index"/>
-    <file name="nomq_index.css" crc="253482692" ref="index"/>
-    <file name="home---tickets-on-sale.css" crc="309009029" ref="home---tickets-on-sale"/>
-    <file name="nomq_home---tickets-on-sale.css" crc="50075791" ref="home---tickets-on-sale"/>
-    <file name="home--ticket-descriptions.css" crc="3854008692" ref="home--ticket-descriptions"/>
-    <file name="nomq_home--ticket-descriptions.css" crc="4188745988" ref="home--ticket-descriptions"/>
+    <file name="agenda.css" crc="3915580210" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="448558875" ref="agenda"/>
+    <file name="index.css" crc="3966848459" ref="index"/>
+    <file name="nomq_index.css" crc="434718613" ref="index"/>
+    <file name="home---tickets-on-sale.css" crc="3955230659" ref="home---tickets-on-sale"/>
+    <file name="nomq_home---tickets-on-sale.css" crc="3015398" ref="home---tickets-on-sale"/>
+    <file name="home--ticket-descriptions.css" crc="4267201069" ref="home--ticket-descriptions"/>
+    <file name="nomq_home--ticket-descriptions.css" crc="3860793212" ref="home--ticket-descriptions"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -1845,8 +1845,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3777353413" seo="true" mt="1614013219938" redirect="true"/>
-  <file name="agenda.html" crc="197257636" seo="true" mt="1614013219936" redirect="true"/>
-  <file name="home---tickets-on-sale.html" crc="63109106" seo="true" mt="1614013219941" redirect="true"/>
-  <file name="home--ticket-descriptions.html" crc="73802533" seo="true" mt="1614013219940" redirect="true"/>
+  <file name="index.html" crc="3942254086" seo="true" mt="1614614268764" redirect="true"/>
+  <file name="agenda.html" crc="247790969" seo="true" mt="1614614268760" redirect="true"/>
+  <file name="home---tickets-on-sale.html" crc="4128792903" seo="true" mt="1614614268763" redirect="true"/>
+  <file name="home--ticket-descriptions.html" crc="3802541124" seo="true" mt="1614614268762" redirect="true"/>
 </manifest>
