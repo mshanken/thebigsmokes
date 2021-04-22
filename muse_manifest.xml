@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebigsmokes.com" resolutions="1x" timestamp="1605813281444">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebigsmokes.com" resolutions="1x" timestamp="1619115029844">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="398845130" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4291601796" ref="index"/>
-    <file name="index.css" crc="4117448868" ref="index"/>
-    <file name="nomq_index.css" crc="4088684514" ref="index"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_a-master.css" crc="4041230594" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3956427444" ref="index"/>
+    <file name="index.css" crc="198241006" ref="index"/>
+    <file name="nomq_index.css" crc="116199793" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -34,75 +34,59 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header.jpg" crc="87466966" seo="true" ref="index">
+    <file name="bsmwf.png" crc="4276545424" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header.jpg" crc="338646854" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image-bar.jpg" crc="91427249" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="bsmwf481x216.png" crc="209324097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf.png" crc="3864650516" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="big-smoke.png" crc="475058306" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bsmwf481x216.png" crc="125819935" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bsmwf451x203.png" crc="4119386466" seo="true" ref="index">
+    <file name="bsmwf451x203.png" crc="3826443817" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="glass850x766.jpg" crc="3765595194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image-bar850x202.jpg" crc="72320775" seo="true" ref="index">
+    <file name="bsmwf399x179.png" crc="4111743735" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf399x179.png" crc="85497754" seo="true" ref="index">
+    <file name="header850x192.jpg" crc="500427764" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="glass768x692.jpg" crc="268764454" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image-bar768x182.jpg" crc="4082019881" seo="true" ref="index">
+    <file name="bsmwf361x162.png" crc="4112656542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf361x162.png" crc="98400644" seo="true" ref="index">
+    <file name="header768x173.jpg" crc="4293933800" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="glass667x601.jpg" crc="4269005748" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image-bar667x158.jpg" crc="3964827068" seo="true" ref="index">
+    <file name="bsmwf313x141.png" crc="293065386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf313x141.png" crc="419368317" seo="true" ref="index">
+    <file name="header667x151.jpg" crc="4252441941" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="glass568x512.jpg" crc="444606843" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image-bar568x135.jpg" crc="4005263266" seo="true" ref="index">
+    <file name="bsmwf267x120.png" crc="4039766224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf267x120.png" crc="4142862248" seo="true" ref="index">
+    <file name="header568x128.jpg" crc="41696838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-mobile.jpg" crc="3857851467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="glass-mobile.jpg" crc="3834523099" seo="true" ref="index">
@@ -110,26 +94,62 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bsmwf351x158.png" crc="4115243278" seo="true" ref="index">
+    <file name="bsmwf351x158.png" crc="84601863" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="header-mobile.jpg" crc="4082606670" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="bsmwf320x144.png" crc="429880540" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image-bar-mobile.jpg" crc="58686809" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bsmwf320x144.png" crc="262879467" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bsmwf280x126.png" crc="3765157088" seo="true" ref="index">
+    <file name="bsmwf262x118.png" crc="4271806754" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="image-bar2.jpg" crc="354690541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig.png" crc="4140947797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-bar2850x241.jpg" crc="4235477524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-bar2768x218.jpg" crc="142371381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-bar2667x189.jpg" crc="142006022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-bar2568x161.jpg" crc="216591001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image-bar-mobile2.jpg" crc="4245985014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bslv21.png" crc="4139828297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4108797248" seo="true" mt="1605813267622" redirect="true"/>
+  <file name="index.html" crc="247883008" seo="true" mt="1619115003893" redirect="true"/>
 </manifest>
