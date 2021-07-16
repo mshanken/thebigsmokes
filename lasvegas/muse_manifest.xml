@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1626276599470">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1626466863553">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="416183597" ref="agenda:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="346235775" ref="agenda:index"/>
+    <file name="master_a-master.css" crc="353927102" ref="agenda:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="299370406" ref="agenda:index"/>
     <file name="agenda.css" crc="4233047085" ref="agenda"/>
     <file name="nomq_agenda.css" crc="421932877" ref="agenda"/>
-    <file name="index.css" crc="4004431282" ref="index"/>
-    <file name="nomq_index.css" crc="404373589" ref="index"/>
+    <file name="index.css" crc="4106938241" ref="index"/>
+    <file name="nomq_index.css" crc="489030252" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -37,18 +37,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
@@ -63,18 +63,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
@@ -89,18 +89,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
@@ -319,14 +319,14 @@
     </file>
     <file name="header-vegas-mobile-2021.jpg" crc="4084661780" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="header-vegas-mobile-2021_2x.jpg" crc="3994033082" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="collage2mobile-2021.jpg" crc="4238412871" seo="true" ref="index">
@@ -367,26 +367,26 @@
     </file>
     <file name="header-vegas-2021a.jpg" crc="3983065751" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="header-vegas-2021a_2x.jpg" crc="467972953" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="bslv-logo2021backa.png" crc="199043193" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="bslv-logo2021backa_2x.png" crc="3972872798" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="section21a.jpg" crc="4021231681" ref="index:agenda"/>
@@ -470,14 +470,14 @@
     </file>
     <file name="menu-mobile21a.jpg" crc="511212489" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="menu-mobile21a_2x.jpg" crc="4084870603" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="header-vegas-mobile-2021375x375.jpg" crc="3989507326" seo="true" ref="index">
@@ -495,20 +495,20 @@
     <file name="menu-mobile21a-crop-u37485.jpg" crc="117087760" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="menu-mobile21a-crop-u37485_2x.jpg" crc="485533684" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="agenda" alt=""/>
+      <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
@@ -908,126 +908,6 @@
     <file name="all-access2021-buttonsowl244x284_2x.jpg" crc="3899357449" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-so253x225.jpg" crc="4120372942" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so253x225_2x.jpg" crc="4238402173" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so216x192.jpg" crc="4180113259" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so216x192_2x.jpg" crc="364331096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so203x180.jpg" crc="268469962" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so203x180_2x.jpg" crc="3766200179" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so180x160.jpg" crc="3921187751" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so180x160_2x.jpg" crc="140776742" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so162x144.jpg" crc="3875232651" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so162x144_2x.jpg" crc="4121759795" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so141x125.jpg" crc="241526814" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so141x125_2x.jpg" crc="3866420633" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so120x107.jpg" crc="4128936375" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so120x107_2x.jpg" crc="101954986" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so246x219.jpg" crc="465506634" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so246x219_2x.jpg" crc="4281100767" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so.jpg" crc="145181591" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so_2x.jpg" crc="3867174992" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so244x217.jpg" crc="3813493793" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="satvip2021-so244x217_2x.jpg" crc="4136121990" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more253x225.jpg" crc="3975234603" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more253x225_2x.jpg" crc="432458969" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more216x192.jpg" crc="6735582" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more216x192_2x.jpg" crc="521362595" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more203x180.jpg" crc="4277646750" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more203x180_2x.jpg" crc="4186580926" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more180x160.jpg" crc="59465744" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more180x160_2x.jpg" crc="317362130" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more162x144.jpg" crc="207414925" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more162x144_2x.jpg" crc="100827215" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more141x125.jpg" crc="3981821191" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more141x125_2x.jpg" crc="330369305" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more120x107.jpg" crc="3994904855" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more120x107_2x.jpg" crc="8329878" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more246x219.jpg" crc="4226850449" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more246x219_2x.jpg" crc="180611276" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more.jpg" crc="459990201" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more_2x.jpg" crc="60281487" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more244x217.jpg" crc="4038906783" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frivip2021-more244x217_2x.jpg" crc="401779449" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="friweekend2021-buttonsowl550.jpg" crc="3804119080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -1148,7 +1028,127 @@
     <file name="satweekend2021-buttonsowl550244x284_2x.jpg" crc="219574311" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="frivip2021-wl253x225.jpg" crc="12111460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl253x225_2x.jpg" crc="446501267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl253x225.jpg" crc="399095470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl253x225_2x.jpg" crc="4089525183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl216x192.jpg" crc="399316732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl216x192_2x.jpg" crc="4081898419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl216x192.jpg" crc="459101461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl216x192_2x.jpg" crc="4055092699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl203x180.jpg" crc="319579106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl203x180_2x.jpg" crc="31351088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl203x180.jpg" crc="4092792870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl203x180_2x.jpg" crc="11583358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl180x160.jpg" crc="216804711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl180x160_2x.jpg" crc="393853792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl180x160.jpg" crc="4267021547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl180x160_2x.jpg" crc="3950332305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl162x144.jpg" crc="272240459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl162x144_2x.jpg" crc="225908325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl162x144.jpg" crc="235646030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl162x144_2x.jpg" crc="4103726951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl141x125.jpg" crc="120539876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl141x125_2x.jpg" crc="401071127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl141x125.jpg" crc="213468706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl141x125_2x.jpg" crc="4277707722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl120x107.jpg" crc="3961044780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl120x107_2x.jpg" crc="419204696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl120x107.jpg" crc="352455615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl120x107_2x.jpg" crc="398567135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl246x219.jpg" crc="12159494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl246x219_2x.jpg" crc="158303238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl246x219.jpg" crc="279062658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl246x219_2x.jpg" crc="232782164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl.jpg" crc="4008948820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl_2x.jpg" crc="4213959384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl.jpg" crc="413495375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl_2x.jpg" crc="334249839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl244x217.jpg" crc="3992905923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-wl244x217_2x.jpg" crc="4154849834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl244x217.jpg" crc="244960794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-wl244x217_2x.jpg" crc="398992912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="138414884" seo="true" mt="1626276567752" redirect="true"/>
+  <file name="index.html" crc="524573349" seo="true" mt="1626466829799" redirect="true"/>
   <file name="agenda.html" crc="312059669" seo="true" mt="1618858343699" redirect="true"/>
 </manifest>
