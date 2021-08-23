@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1629308212124">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1629744126546">
   <folder name="css">
-    <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="504352181" ref="agenda:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3826666904" ref="agenda:index"/>
+    <file name="site_global.css" crc="54365048"/>
+    <file name="master_a-master.css" crc="270328850" ref="agenda:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3763204069" ref="agenda:index"/>
     <file name="agenda.css" crc="534665420" ref="agenda"/>
     <file name="nomq_agenda.css" crc="3976936332" ref="agenda"/>
-    <file name="index.css" crc="295592112" ref="index"/>
-    <file name="nomq_index.css" crc="157528535" ref="index"/>
+    <file name="index.css" crc="430564581" ref="index"/>
+    <file name="nomq_index.css" crc="465808494" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -110,13 +110,13 @@
     </file>
     <file name="mirage19.jpg" crc="440987186" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="mirage19_2x.jpg" crc="388870595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="mirage19437x292.jpg" crc="528739021" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1149,6 +1149,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4138741523" seo="true" mt="1629308171690" redirect="true"/>
+  <file name="index.html" crc="4111844293" seo="true" mt="1629744089015" redirect="true"/>
   <file name="agenda.html" crc="200638977" seo="true" mt="1629308152523" redirect="true"/>
 </manifest>
