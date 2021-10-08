@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1633119665555">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1633706685622">
   <folder name="css">
     <file name="site_global.css" crc="54365048"/>
-    <file name="master_a-master.css" crc="4000066080" ref="agenda:index"/>
+    <file name="master_a-master.css" crc="130286566" ref="agenda:index"/>
     <file name="nomq_preview_master_a-master.css" crc="249459539" ref="agenda:index"/>
     <file name="agenda.css" crc="3984955912" ref="agenda"/>
     <file name="nomq_agenda.css" crc="145581668" ref="agenda"/>
-    <file name="index.css" crc="3861053184" ref="index"/>
-    <file name="nomq_index.css" crc="4186789406" ref="index"/>
+    <file name="index.css" crc="3912723967" ref="index"/>
+    <file name="nomq_index.css" crc="424649853" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -1149,6 +1149,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="326581295" seo="true" mt="1633119637244" redirect="true"/>
+  <file name="index.html" crc="3774552675" seo="true" mt="1633706645161" redirect="true"/>
   <file name="agenda.html" crc="30513629" seo="true" mt="1632159745861" redirect="true"/>
 </manifest>
