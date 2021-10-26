@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1633706685622">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1634828428816">
   <folder name="css">
-    <file name="site_global.css" crc="54365048"/>
-    <file name="master_a-master.css" crc="130286566" ref="agenda:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="249459539" ref="agenda:index"/>
-    <file name="agenda.css" crc="3984955912" ref="agenda"/>
-    <file name="nomq_agenda.css" crc="145581668" ref="agenda"/>
-    <file name="index.css" crc="3912723967" ref="index"/>
-    <file name="nomq_index.css" crc="424649853" ref="index"/>
+    <file name="site_global.css" crc="91036504"/>
+    <file name="master_a-master.css" crc="3894627707" ref="agenda:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4288199628" ref="agenda:index"/>
+    <file name="agenda.css" crc="4023156901" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="4101002611" ref="agenda"/>
+    <file name="index.css" crc="182179893" ref="index"/>
+    <file name="nomq_index.css" crc="70293753" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -377,29 +377,11 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
-    <file name="bslv-logo2021backa.png" crc="199043193" seo="true" ref="index:agenda">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home--ticket-descriptions" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa_2x.png" crc="3972872798" seo="true" ref="index:agenda">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home--ticket-descriptions" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-    </file>
     <file name="section21a.jpg" crc="4021231681" ref="index:agenda"/>
     <file name="header-vegas-2021a1024x555.jpg" crc="469190833" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header-vegas-2021a1024x555_2x.jpg" crc="3995549557" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa615x253.png" crc="4058326744" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa615x253_2x.png" crc="3972872798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header-vegas-2021a960x520.jpg" crc="326647003" seo="true" ref="index">
@@ -408,22 +390,10 @@
     <file name="header-vegas-2021a960x520_2x.jpg" crc="493569488" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bslv-logo2021backa577x237.png" crc="4291043789" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa577x237_2x.png" crc="4156927299" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="header-vegas-2021a851x461.jpg" crc="253753041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header-vegas-2021a851x461_2x.jpg" crc="3859243820" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa507x209.png" crc="88642504" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa507x209_2x.png" crc="4084992409" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header-vegas-2021a768x416.jpg" crc="3956611007" seo="true" ref="index">
@@ -432,40 +402,16 @@
     <file name="header-vegas-2021a768x416_2x.jpg" crc="359257347" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bslv-logo2021backa475x196.png" crc="273014481" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa475x196_2x.png" crc="4027142609" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="header-vegas-2021a667x362.jpg" crc="3977434766" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header-vegas-2021a667x362_2x.jpg" crc="4004131080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bslv-logo2021backa416x171.png" crc="3953502743" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa416x171_2x.png" crc="11758650" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="header-vegas-2021a568x308.jpg" crc="128490951" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="header-vegas-2021a568x308_2x.jpg" crc="488912209" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa343x141.png" crc="151307102" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa343x141_2x.png" crc="4136918087" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa409x168.png" crc="480253101" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa409x168_2x.png" crc="3887860650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="menu-mobile21a.jpg" crc="511212489" seo="true" ref="index:agenda">
@@ -484,12 +430,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="header-vegas-mobile-2021375x375_2x.jpg" crc="3859292867" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa369x152.png" crc="45118719" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa369x152_2x.png" crc="239340266" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="menu-mobile21a-crop-u37485.jpg" crc="117087760" seo="true" ref="index:agenda">
@@ -511,12 +451,6 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home---tickets-on-sale" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa310x128.png" crc="314118117" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bslv-logo2021backa310x128_2x.png" crc="4092850348" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="sign-up_2021r.jpg" crc="226105480" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -728,427 +662,481 @@
     <file name="bslv20-2a170x112_2x.jpg" crc="139740896" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos254x225.jpg" crc="4048595494" seo="true" ref="index">
+    <file name="friga2021-so254x225.jpg" crc="4125806591" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos254x225_2x.jpg" crc="526370817" seo="true" ref="index">
+    <file name="friga2021-so254x225_2x.jpg" crc="184219403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos254x225.jpg" crc="4258112224" seo="true" ref="index">
+    <file name="satga2021-so254x225.jpg" crc="4125425949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos254x225_2x.jpg" crc="4047579168" seo="true" ref="index">
+    <file name="satga2021-so254x225_2x.jpg" crc="4288721659" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos216x192.jpg" crc="3888554095" seo="true" ref="index">
+    <file name="frivip2021-so253x225.jpg" crc="3901528126" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos216x192_2x.jpg" crc="3932363144" seo="true" ref="index">
+    <file name="frivip2021-so253x225_2x.jpg" crc="4265202347" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos216x192.jpg" crc="4239888420" seo="true" ref="index">
+    <file name="satvip2021-so253x225.jpg" crc="4120372942" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos216x192_2x.jpg" crc="265317160" seo="true" ref="index">
+    <file name="satvip2021-so253x225_2x.jpg" crc="4238402173" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos203x180.jpg" crc="4199390092" seo="true" ref="index">
+    <file name="friweekend2021-buttonso.jpg" crc="3972662313" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos203x180_2x.jpg" crc="172823862" seo="true" ref="index">
+    <file name="friweekend2021-buttonso_2x.jpg" crc="4155990199" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos203x180.jpg" crc="401711231" seo="true" ref="index">
+    <file name="satweekend2021-buttonso.jpg" crc="4193321196" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos203x180_2x.jpg" crc="3764584536" seo="true" ref="index">
+    <file name="satweekend2021-buttonso_2x.jpg" crc="3834153221" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos180x160.jpg" crc="3844367609" seo="true" ref="index">
+    <file name="friga2021-so216x192.jpg" crc="3765302841" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos180x160_2x.jpg" crc="4119816428" seo="true" ref="index">
+    <file name="friga2021-so216x192_2x.jpg" crc="482553115" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos180x160.jpg" crc="124921094" seo="true" ref="index">
+    <file name="satga2021-so216x192.jpg" crc="3889765515" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos180x160_2x.jpg" crc="3783664902" seo="true" ref="index">
+    <file name="satga2021-so216x192_2x.jpg" crc="95173083" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos162x144.jpg" crc="327677365" seo="true" ref="index">
+    <file name="frivip2021-so216x192.jpg" crc="319535287" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos162x144_2x.jpg" crc="381842166" seo="true" ref="index">
+    <file name="frivip2021-so216x192_2x.jpg" crc="417377146" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos162x144.jpg" crc="4091333497" seo="true" ref="index">
+    <file name="satvip2021-so216x192.jpg" crc="4180113259" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos162x144_2x.jpg" crc="3940974952" seo="true" ref="index">
+    <file name="satvip2021-so216x192_2x.jpg" crc="364331096" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos141x126.jpg" crc="258676704" seo="true" ref="index">
+    <file name="friweekend2021-buttonso294x342.jpg" crc="4272234557" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos141x126_2x.jpg" crc="410797234" seo="true" ref="index">
+    <file name="friweekend2021-buttonso294x342_2x.jpg" crc="155933631" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos141x126.jpg" crc="76711265" seo="true" ref="index">
+    <file name="satweekend2021-buttonso294x342.jpg" crc="67898957" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos141x126_2x.jpg" crc="318169565" seo="true" ref="index">
+    <file name="satweekend2021-buttonso294x342_2x.jpg" crc="413711340" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos120x107.jpg" crc="3786800727" seo="true" ref="index">
+    <file name="friga2021-so203x180.jpg" crc="4282899058" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos120x107_2x.jpg" crc="4192843478" seo="true" ref="index">
+    <file name="friga2021-so203x180_2x.jpg" crc="222704693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos120x107.jpg" crc="399395020" seo="true" ref="index">
+    <file name="satga2021-so203x180.jpg" crc="445155094" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos120x107_2x.jpg" crc="4081162739" seo="true" ref="index">
+    <file name="satga2021-so203x180_2x.jpg" crc="318275950" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos247x219.jpg" crc="356932006" seo="true" ref="index">
+    <file name="frivip2021-so203x180.jpg" crc="32988875" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos247x219_2x.jpg" crc="4255708266" seo="true" ref="index">
+    <file name="frivip2021-so203x180_2x.jpg" crc="3795965116" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos247x219.jpg" crc="4065428677" seo="true" ref="index">
+    <file name="satvip2021-so203x180.jpg" crc="268469962" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos247x219_2x.jpg" crc="481964412" seo="true" ref="index">
+    <file name="satvip2021-so203x180_2x.jpg" crc="3766200179" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos.jpg" crc="211189789" seo="true" ref="index">
+    <file name="friweekend2021-buttonso276x320.jpg" crc="206301424" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos_2x.jpg" crc="290818194" seo="true" ref="index">
+    <file name="friweekend2021-buttonso276x320_2x.jpg" crc="4096817633" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos.jpg" crc="3978822140" seo="true" ref="index">
+    <file name="satweekend2021-buttonso276x320.jpg" crc="334795121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos_2x.jpg" crc="139943948" seo="true" ref="index">
+    <file name="satweekend2021-buttonso276x320_2x.jpg" crc="526141024" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos244x217.jpg" crc="258842253" seo="true" ref="index">
+    <file name="friga2021-so180x160.jpg" crc="162431865" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friga2021-buttonos244x217_2x.jpg" crc="403555046" seo="true" ref="index">
+    <file name="friga2021-so180x160_2x.jpg" crc="507115850" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos244x217.jpg" crc="285929781" seo="true" ref="index">
+    <file name="satga2021-so180x160.jpg" crc="4044393746" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satga2021-buttonos244x217_2x.jpg" crc="229973259" seo="true" ref="index">
+    <file name="satga2021-so180x160_2x.jpg" crc="4054163856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more253x225.jpg" crc="3814998827" seo="true" ref="index">
+    <file name="frivip2021-so180x160.jpg" crc="3801988997" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more253x225_2x.jpg" crc="4287091191" seo="true" ref="index">
+    <file name="frivip2021-so180x160_2x.jpg" crc="3801064210" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more253x225.jpg" crc="4068180038" seo="true" ref="index">
+    <file name="satvip2021-so180x160.jpg" crc="3921187751" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more253x225_2x.jpg" crc="4092541170" seo="true" ref="index">
+    <file name="satvip2021-so180x160_2x.jpg" crc="140776742" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore.jpg" crc="206496192" seo="true" ref="index">
+    <file name="friweekend2021-buttonso244x284.jpg" crc="3988418235" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="friweekend2021-buttonso244x284_2x.jpg" crc="3778228402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satweekend2021-buttonso244x284.jpg" crc="4071796427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satweekend2021-buttonso244x284_2x.jpg" crc="4279489252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="friga2021-so162x144.jpg" crc="229758965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="friga2021-so162x144_2x.jpg" crc="367995533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satga2021-so162x144.jpg" crc="45489184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satga2021-so162x144_2x.jpg" crc="356802293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-so162x144.jpg" crc="318025571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frivip2021-so162x144_2x.jpg" crc="4127158214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-so162x144.jpg" crc="3875232651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satvip2021-so162x144_2x.jpg" crc="4121759795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="friweekend2021-buttonso221x256.jpg" crc="3786730837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="friweekend2021-buttonso221x256_2x.jpg" crc="373320407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satweekend2021-buttonso221x256.jpg" crc="4292487748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satweekend2021-buttonso221x256_2x.jpg" crc="3928415200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="friga2021-so141x126.jpg" crc="248330427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore_2x.jpg" crc="4239042049" seo="true" ref="index">
+    <file name="friga2021-so141x126_2x.jpg" crc="352018290" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore.jpg" crc="4040532124" seo="true" ref="index">
+    <file name="satga2021-so141x126.jpg" crc="4237252003" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore_2x.jpg" crc="4136185768" seo="true" ref="index">
+    <file name="satga2021-so141x126_2x.jpg" crc="423533783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore.jpg" crc="75848382" seo="true" ref="index">
+    <file name="frivip2021-so141x125.jpg" crc="3781825960" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore_2x.jpg" crc="4011843570" seo="true" ref="index">
+    <file name="frivip2021-so141x125_2x.jpg" crc="4043105272" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more216x192.jpg" crc="3941691409" seo="true" ref="index">
+    <file name="satvip2021-so141x125.jpg" crc="241526814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more216x192_2x.jpg" crc="398017086" seo="true" ref="index">
+    <file name="satvip2021-so141x125_2x.jpg" crc="3866420633" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more216x192.jpg" crc="231068560" seo="true" ref="index">
+    <file name="friweekend2021-buttonso192x223.jpg" crc="4027080498" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more216x192_2x.jpg" crc="312286595" seo="true" ref="index">
+    <file name="friweekend2021-buttonso192x223_2x.jpg" crc="4041392877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore295x342.jpg" crc="321280556" seo="true" ref="index">
+    <file name="satweekend2021-buttonso192x223.jpg" crc="3810230265" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore295x342_2x.jpg" crc="364994095" seo="true" ref="index">
+    <file name="satweekend2021-buttonso192x223_2x.jpg" crc="3763117689" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore295x342.jpg" crc="433774738" seo="true" ref="index">
+    <file name="friga2021-so120x107.jpg" crc="184862404" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore295x342_2x.jpg" crc="17363030" seo="true" ref="index">
+    <file name="friga2021-so120x107_2x.jpg" crc="4238933897" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore295x342.jpg" crc="139250059" seo="true" ref="index">
+    <file name="satga2021-so120x107.jpg" crc="3868483728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore295x342_2x.jpg" crc="4294427959" seo="true" ref="index">
+    <file name="satga2021-so120x107_2x.jpg" crc="296565638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more203x180.jpg" crc="4110895530" seo="true" ref="index">
+    <file name="frivip2021-so120x107.jpg" crc="403251681" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more203x180_2x.jpg" crc="534042419" seo="true" ref="index">
+    <file name="frivip2021-so120x107_2x.jpg" crc="3871335799" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more203x180.jpg" crc="4289830625" seo="true" ref="index">
+    <file name="satvip2021-so120x107.jpg" crc="4128936375" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more203x180_2x.jpg" crc="307804603" seo="true" ref="index">
+    <file name="satvip2021-so120x107_2x.jpg" crc="101954986" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore276x320.jpg" crc="3803303093" seo="true" ref="index">
+    <file name="friweekend2021-buttonso164x190.jpg" crc="3781952874" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore276x320_2x.jpg" crc="239398540" seo="true" ref="index">
+    <file name="friweekend2021-buttonso164x190_2x.jpg" crc="4169595679" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore276x320.jpg" crc="3853493061" seo="true" ref="index">
+    <file name="satweekend2021-buttonso164x190.jpg" crc="3946547192" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore276x320_2x.jpg" crc="4168181188" seo="true" ref="index">
+    <file name="satweekend2021-buttonso164x190_2x.jpg" crc="116784993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore276x320.jpg" crc="3960795356" seo="true" ref="index">
+    <file name="friga2021-so247x219.jpg" crc="292239601" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore276x320_2x.jpg" crc="3909150045" seo="true" ref="index">
+    <file name="friga2021-so247x219_2x.jpg" crc="344235382" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more180x160.jpg" crc="388268776" seo="true" ref="index">
+    <file name="satga2021-so247x219.jpg" crc="302824120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more180x160_2x.jpg" crc="4158853422" seo="true" ref="index">
+    <file name="satga2021-so247x219_2x.jpg" crc="3985686787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more180x160.jpg" crc="468774868" seo="true" ref="index">
+    <file name="frivip2021-so246x219.jpg" crc="362748426" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more180x160_2x.jpg" crc="524424379" seo="true" ref="index">
+    <file name="frivip2021-so246x219_2x.jpg" crc="334993742" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore245x284.jpg" crc="397446412" seo="true" ref="index">
+    <file name="satvip2021-so246x219.jpg" crc="465506634" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore245x284_2x.jpg" crc="434111313" seo="true" ref="index">
+    <file name="satvip2021-so246x219_2x.jpg" crc="4281100767" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore245x284.jpg" crc="4198259752" seo="true" ref="index">
+    <file name="friweekend2021-buttonso249x289.jpg" crc="3849301299" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore245x284_2x.jpg" crc="60877628" seo="true" ref="index">
+    <file name="friweekend2021-buttonso249x289_2x.jpg" crc="4260399568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore245x284.jpg" crc="496345455" seo="true" ref="index">
+    <file name="satweekend2021-buttonso249x289.jpg" crc="4153265937" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore245x284_2x.jpg" crc="3785564304" seo="true" ref="index">
+    <file name="satweekend2021-buttonso249x289_2x.jpg" crc="4029708829" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more162x144.jpg" crc="3967681713" seo="true" ref="index">
+    <file name="friga2021-so.jpg" crc="196718375" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more162x144_2x.jpg" crc="396763425" seo="true" ref="index">
+    <file name="friga2021-so_2x.jpg" crc="189382853" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more162x144.jpg" crc="3788316645" seo="true" ref="index">
+    <file name="satga2021-so.jpg" crc="444280561" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more162x144_2x.jpg" crc="186321393" seo="true" ref="index">
+    <file name="satga2021-so_2x.jpg" crc="3760435285" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore221x256.jpg" crc="162270169" seo="true" ref="index">
+    <file name="frivip2021-so.jpg" crc="3914161470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore221x256_2x.jpg" crc="4199035063" seo="true" ref="index">
+    <file name="frivip2021-so_2x.jpg" crc="64380032" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore221x256.jpg" crc="4223558203" seo="true" ref="index">
+    <file name="satvip2021-so.jpg" crc="145181591" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore221x256_2x.jpg" crc="353548665" seo="true" ref="index">
+    <file name="satvip2021-so_2x.jpg" crc="3867174992" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore221x256.jpg" crc="499927617" seo="true" ref="index">
+    <file name="friweekend2021-buttonso290x337.jpg" crc="3989113214" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore221x256_2x.jpg" crc="92009489" seo="true" ref="index">
+    <file name="friweekend2021-buttonso290x337_2x.jpg" crc="385629080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more141x125.jpg" crc="22001327" seo="true" ref="index">
+    <file name="satweekend2021-buttonso290x337.jpg" crc="241005777" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more141x125_2x.jpg" crc="4034061001" seo="true" ref="index">
+    <file name="satweekend2021-buttonso290x337_2x.jpg" crc="5141709" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more141x125.jpg" crc="4146701605" seo="true" ref="index">
+    <file name="friga2021-so244x217.jpg" crc="3856699888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more141x125_2x.jpg" crc="4009791591" seo="true" ref="index">
+    <file name="friga2021-so244x217_2x.jpg" crc="4053899063" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore192x223.jpg" crc="194282538" seo="true" ref="index">
+    <file name="satga2021-so244x217.jpg" crc="3794756122" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore192x223_2x.jpg" crc="3969852974" seo="true" ref="index">
+    <file name="satga2021-so244x217_2x.jpg" crc="270176130" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore192x223.jpg" crc="259753151" seo="true" ref="index">
+    <file name="frivip2021-so244x217.jpg" crc="35868195" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore192x223_2x.jpg" crc="391459399" seo="true" ref="index">
+    <file name="frivip2021-so244x217_2x.jpg" crc="145921351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore192x223.jpg" crc="291881856" seo="true" ref="index">
+    <file name="satvip2021-so244x217.jpg" crc="3813493793" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore192x223_2x.jpg" crc="3761799524" seo="true" ref="index">
+    <file name="satvip2021-so244x217_2x.jpg" crc="4136121990" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more120x107.jpg" crc="3909329175" seo="true" ref="index">
+    <file name="bslv-logo2021so.png" crc="4202966336" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
+      <caption webpage="agenda" alt=""/>
     </file>
-    <file name="frivip2021-more120x107_2x.jpg" crc="528657677" seo="true" ref="index">
+    <file name="bslv-logo2021so_2x.png" crc="4120566799" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
+      <caption webpage="agenda" alt=""/>
     </file>
-    <file name="satvip2021-more120x107.jpg" crc="3908526226" seo="true" ref="index">
+    <file name="all-access2021-buttonso.jpg" crc="4130158164" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more120x107_2x.jpg" crc="4078886685" seo="true" ref="index">
+    <file name="all-access2021-buttonso_2x.jpg" crc="4088101687" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore164x190.jpg" crc="3899892520" seo="true" ref="index">
+    <file name="bslv-logo2021so615x253.png" crc="3861497019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore164x190_2x.jpg" crc="368065213" seo="true" ref="index">
+    <file name="bslv-logo2021so615x253_2x.png" crc="4120566799" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore164x190.jpg" crc="527108522" seo="true" ref="index">
+    <file name="all-access2021-buttonso295x342.jpg" crc="3833720841" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore164x190_2x.jpg" crc="418141847" seo="true" ref="index">
+    <file name="all-access2021-buttonso295x342_2x.jpg" crc="1423173" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore164x190.jpg" crc="3805889310" seo="true" ref="index">
+    <file name="bslv-logo2021so577x237.png" crc="532175160" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore164x190_2x.jpg" crc="4120626418" seo="true" ref="index">
+    <file name="bslv-logo2021so577x237_2x.png" crc="156216893" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more246x219.jpg" crc="4176021459" seo="true" ref="index">
+    <file name="all-access2021-buttonso276x320.jpg" crc="3964712406" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more246x219_2x.jpg" crc="228868630" seo="true" ref="index">
+    <file name="all-access2021-buttonso276x320_2x.jpg" crc="4063050883" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more246x219.jpg" crc="3945560166" seo="true" ref="index">
+    <file name="bslv-logo2021so507x209.png" crc="3904146352" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more246x219_2x.jpg" crc="604023" seo="true" ref="index">
+    <file name="bslv-logo2021so507x209_2x.png" crc="4205868959" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore249x289.jpg" crc="77336126" seo="true" ref="index">
+    <file name="all-access2021-buttonso245x284.jpg" crc="319372234" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore249x289_2x.jpg" crc="4188237841" seo="true" ref="index">
+    <file name="all-access2021-buttonso245x284_2x.jpg" crc="4137740597" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore249x289.jpg" crc="197725504" seo="true" ref="index">
+    <file name="bslv-logo2021so475x196.png" crc="3763028891" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore249x289_2x.jpg" crc="4137484118" seo="true" ref="index">
+    <file name="bslv-logo2021so475x196_2x.png" crc="3776621315" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore249x289.jpg" crc="455556219" seo="true" ref="index">
+    <file name="all-access2021-buttonso221x256.jpg" crc="4058224597" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore249x289_2x.jpg" crc="116621690" seo="true" ref="index">
+    <file name="all-access2021-buttonso221x256_2x.jpg" crc="4286740185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more.jpg" crc="3997190442" seo="true" ref="index">
+    <file name="bslv-logo2021so416x171.png" crc="196248568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more_2x.jpg" crc="30108525" seo="true" ref="index">
+    <file name="bslv-logo2021so416x171_2x.png" crc="4163016341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more.jpg" crc="3787346688" seo="true" ref="index">
+    <file name="all-access2021-buttonso192x223.jpg" crc="171613647" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more_2x.jpg" crc="4051114345" seo="true" ref="index">
+    <file name="all-access2021-buttonso192x223_2x.jpg" crc="3897270922" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore291x337.jpg" crc="400956864" seo="true" ref="index">
+    <file name="bslv-logo2021so343x141.png" crc="240087035" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore291x337_2x.jpg" crc="209666549" seo="true" ref="index">
+    <file name="bslv-logo2021so343x141_2x.png" crc="492172246" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore291x337.jpg" crc="4292481964" seo="true" ref="index">
+    <file name="all-access2021-buttonso164x190.jpg" crc="406702866" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore291x337_2x.jpg" crc="48737077" seo="true" ref="index">
+    <file name="all-access2021-buttonso164x190_2x.jpg" crc="373620799" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore291x337.jpg" crc="4096650298" seo="true" ref="index">
+    <file name="bslv-logo2021so409x168.png" crc="4142238825" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore291x337_2x.jpg" crc="210002145" seo="true" ref="index">
+    <file name="bslv-logo2021so409x168_2x.png" crc="145529105" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more244x217.jpg" crc="4278202091" seo="true" ref="index">
+    <file name="all-access2021-buttonso249x289.jpg" crc="4003461846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frivip2021-more244x217_2x.jpg" crc="4041197038" seo="true" ref="index">
+    <file name="all-access2021-buttonso249x289_2x.jpg" crc="4253749587" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more244x217.jpg" crc="320333231" seo="true" ref="index">
+    <file name="bslv-logo2021so369x152.png" crc="493233644" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satvip2021-more244x217_2x.jpg" crc="4120427189" seo="true" ref="index">
+    <file name="bslv-logo2021so369x152_2x.png" crc="170838561" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore244x284.jpg" crc="397446412" seo="true" ref="index">
+    <file name="all-access2021-buttonso291x337.jpg" crc="479284392" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="friweekend2021-buttonmore244x284_2x.jpg" crc="508488573" seo="true" ref="index">
+    <file name="all-access2021-buttonso291x337_2x.jpg" crc="4052059851" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore244x284.jpg" crc="4198259752" seo="true" ref="index">
+    <file name="bslv-logo2021so310x128.png" crc="328371273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satweekend2021-buttonmore244x284_2x.jpg" crc="304039070" seo="true" ref="index">
+    <file name="bslv-logo2021so310x128_2x.png" crc="155522955" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore244x284.jpg" crc="496345455" seo="true" ref="index">
+    <file name="all-access2021-buttonso244x284.jpg" crc="319372234" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="all-access2021-buttonmore244x284_2x.jpg" crc="171352307" seo="true" ref="index">
+    <file name="all-access2021-buttonso244x284_2x.jpg" crc="41045138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3774552675" seo="true" mt="1633706645161" redirect="true"/>
-  <file name="agenda.html" crc="30513629" seo="true" mt="1632159745861" redirect="true"/>
+  <file name="index.html" crc="335602854" seo="true" mt="1634828403760" redirect="true"/>
+  <file name="agenda.html" crc="4262582459" seo="true" mt="1634828219862" redirect="true"/>
 </manifest>
