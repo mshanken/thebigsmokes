@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1634828428816">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1635789018437">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3894627707" ref="agenda:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4288199628" ref="agenda:index"/>
-    <file name="agenda.css" crc="4023156901" ref="agenda"/>
-    <file name="nomq_agenda.css" crc="4101002611" ref="agenda"/>
-    <file name="index.css" crc="182179893" ref="index"/>
-    <file name="nomq_index.css" crc="70293753" ref="index"/>
+    <file name="master_a-master.css" crc="222400571" ref="agenda:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="249459539" ref="agenda:index"/>
+    <file name="agenda.css" crc="361310797" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="209675048" ref="agenda"/>
+    <file name="index.css" crc="452865508" ref="index"/>
+    <file name="nomq_index.css" crc="3894289709" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -363,7 +363,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="menu21a.jpg" crc="282777059" ref="index">
-      <caption webpage="index" alt="Tickets EVENINGS CIGARS SEMINARS FAQ"/>
+      <caption webpage="index" alt="Tickets EVENINGS CIGARS SEMINARS AGENDA HOTEL FAQ"/>
     </file>
     <file name="header-vegas-2021a.jpg" crc="3983065751" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
@@ -1137,6 +1137,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="335602854" seo="true" mt="1634828403760" redirect="true"/>
-  <file name="agenda.html" crc="4262582459" seo="true" mt="1634828219862" redirect="true"/>
+  <file name="index.html" crc="4104464371" seo="true" mt="1635788992643" redirect="true"/>
+  <file name="agenda.html" crc="4117901732" seo="true" mt="1635788572217" redirect="true"/>
 </manifest>
