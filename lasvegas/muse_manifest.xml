@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1635966969350">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1636059600696">
   <folder name="assets">
     <file name="bslv21_floorplan.pdf" crc="3779814306" seo="true" mt="1635959157000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="54365048"/>
-    <file name="master_a-master.css" crc="3941650853" ref="agenda:index"/>
+    <file name="site_global.css" crc="91036504"/>
+    <file name="master_a-master.css" crc="3940298925" ref="agenda:index"/>
     <file name="nomq_preview_master_a-master.css" crc="4288199628" ref="agenda:index"/>
-    <file name="agenda.css" crc="4115205107" ref="agenda"/>
-    <file name="nomq_agenda.css" crc="209675048" ref="agenda"/>
-    <file name="index.css" crc="332271507" ref="index"/>
+    <file name="agenda.css" crc="170953127" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="496395518" ref="agenda"/>
+    <file name="index.css" crc="353764319" ref="index"/>
     <file name="nomq_index.css" crc="4034501858" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -46,18 +46,18 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="tw.png" crc="215941531" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
@@ -72,18 +72,18 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="ig.png" crc="406638953" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
@@ -98,28 +98,28 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="mirage19.jpg" crc="440987186" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="mirage19_2x.jpg" crc="388870595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="mirage19437x292.jpg" crc="528739021" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -323,14 +323,14 @@
     <file name="header-vegas-mobile-2021.jpg" crc="4084661780" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="header-vegas-mobile-2021_2x.jpg" crc="3994033082" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="collage2mobile-2021.jpg" crc="4238412871" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -371,14 +371,14 @@
     <file name="header-vegas-2021a.jpg" crc="3983065751" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="header-vegas-2021a_2x.jpg" crc="467972953" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="section21a.jpg" crc="4021231681" ref="index:agenda"/>
     <file name="header-vegas-2021a1024x555.jpg" crc="469190833" seo="true" ref="index">
@@ -420,14 +420,14 @@
     <file name="menu-mobile21a.jpg" crc="511212489" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="menu-mobile21a_2x.jpg" crc="4084870603" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="header-vegas-mobile-2021375x375.jpg" crc="3989507326" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -440,20 +440,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="menu-mobile21a-crop-u37485_2x.jpg" crc="485533684" seo="true" ref="index:agenda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
-      <caption webpage="home---tickets-on-sale" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
       <caption webpage="home--ticket-descriptions" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
+      <caption webpage="home---tickets-on-sale" alt=""/>
     </file>
     <file name="sign-up_2021r.jpg" crc="226105480" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1140,6 +1140,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="100488372" seo="true" mt="1635966939251" redirect="true"/>
-  <file name="agenda.html" crc="387856474" seo="true" mt="1635800179191" redirect="true"/>
+  <file name="index.html" crc="363654295" seo="true" mt="1636059511511" redirect="true"/>
+  <file name="agenda.html" crc="3873258880" seo="true" mt="1636059558834" redirect="true"/>
 </manifest>
