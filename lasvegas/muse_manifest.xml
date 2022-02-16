@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1644851317703">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1645047412988">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="402143892" ref="index"/>
+    <file name="master_a-master.css" crc="3916518911" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3948575334" ref="index"/>
-    <file name="index.css" crc="355665880" ref="index"/>
-    <file name="nomq_index.css" crc="446289828" ref="index"/>
+    <file name="index.css" crc="3898526043" ref="index"/>
+    <file name="nomq_index.css" crc="320267477" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -971,5 +971,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3912680037" seo="true" mt="1644851269014" redirect="true"/>
+  <file name="index.html" crc="4192058012" seo="true" mt="1645047354059" redirect="true"/>
 </manifest>
