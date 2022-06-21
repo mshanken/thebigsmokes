@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thebigsmokes.com/index.html</loc>
-    <lastmod>2022-02-14</lastmod>
+    <lastmod>2022-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,9 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/hotspot.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/bslv22.png</image:loc>
@@ -27,16 +24,7 @@
       <image:loc>http://thebigsmokes.com/images/ig.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf481x216.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf451x203.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thebigsmokes.com/images/glass850x766.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf399x179.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/header850x192.jpg</image:loc>
@@ -48,9 +36,6 @@
       <image:loc>http://thebigsmokes.com/images/glass768x692.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf361x162.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thebigsmokes.com/images/header768x173.jpg</image:loc>
     </image:image>
     <image:image>
@@ -60,9 +45,6 @@
       <image:loc>http://thebigsmokes.com/images/glass667x601.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf313x141.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thebigsmokes.com/images/header667x151.jpg</image:loc>
     </image:image>
     <image:image>
@@ -70,9 +52,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/glass568x512.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf267x120.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thebigsmokes.com/images/header568x128.jpg</image:loc>
@@ -87,16 +66,37 @@
       <image:loc>http://thebigsmokes.com/images/glass-mobile.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf351x158.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thebigsmokes.com/images/image-bar-mobile2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf320x144.png</image:loc>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thebigsmokes.com/images/bsmwf262x118.png</image:loc>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23481x216.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23451x203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23399x179.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23361x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23313x141.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23267x120.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23351x158.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23320x144.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thebigsmokes.com/images/bsmwf23262x118.png</image:loc>
     </image:image>
   </url>
 </urlset>
