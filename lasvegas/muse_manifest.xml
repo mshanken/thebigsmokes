@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1645047412988">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1659628236010">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="3916518911" ref="index"/>
+    <file name="master_a-master.css" crc="4182398512" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3948575334" ref="index"/>
-    <file name="index.css" crc="3898526043" ref="index"/>
-    <file name="nomq_index.css" crc="320267477" ref="index"/>
+    <file name="index.css" crc="483519827" ref="index"/>
+    <file name="nomq_index.css" crc="145462976" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -430,12 +430,6 @@
     <file name="ig16x16.png" crc="4184856993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1.jpg" crc="3977187285" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1_2x.jpg" crc="3837883845" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022-button-wp-fri1.jpg" crc="3934569345" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -470,12 +464,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-ga-sat1260x163_2x.jpg" crc="210560677" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1274x171.jpg" crc="4291911043" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1274x171_2x.jpg" crc="4044975949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-wp-fri1274x171.jpg" crc="164170963" seo="true" ref="index">
@@ -514,12 +502,6 @@
     <file name="2022-button-ga-sat1222x139_2x.jpg" crc="508360495" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1256x161.jpg" crc="3852809518" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1256x161_2x.jpg" crc="4223220826" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022-button-wp-fri1256x161.jpg" crc="4287174945" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -554,12 +536,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-ga-sat1208x131_2x.jpg" crc="485955149" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1227x142.jpg" crc="4033751750" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1227x142_2x.jpg" crc="169020112" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-wp-fri1227x142.jpg" crc="4103839906" seo="true" ref="index">
@@ -598,12 +574,6 @@
     <file name="2022-button-ga-sat1185x116_2x.jpg" crc="404430934" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1205x129.jpg" crc="57603090" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1205x129_2x.jpg" crc="458929610" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022-button-wp-fri1205x129.jpg" crc="299985422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -638,12 +608,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-ga-sat1167x105_2x.jpg" crc="324994851" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1178x112.jpg" crc="371968125" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1178x112_2x.jpg" crc="78560090" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-wp-fri1178x112.jpg" crc="379763525" seo="true" ref="index">
@@ -682,12 +646,6 @@
     <file name="2022-button-ga-sat1145x91_2x.jpg" crc="149813459" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1152x95.jpg" crc="4034646061" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1152x95_2x.jpg" crc="3825687225" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022-button-wp-fri1152x95.jpg" crc="82978000" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -722,12 +680,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-ga-sat1124x77_2x.jpg" crc="469468396" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1300x188.jpg" crc="3994261447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1300x188_2x.jpg" crc="63392973" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-wp-fri1300x188.jpg" crc="339611564" seo="true" ref="index">
@@ -766,12 +718,6 @@
     <file name="2022-button-ga-sat1_2x.jpg" crc="256104194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1280x176.jpg" crc="467280247" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1280x176_2x.jpg" crc="188931876" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2022-button-wp-fri1280x176.jpg" crc="315018734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -806,12 +752,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-ga-sat1280x176_2x.jpg" crc="3800959106" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1250x157.jpg" crc="320941403" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2022-button-aa1250x157_2x.jpg" crc="93251338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2022-button-wp-fri1250x157.jpg" crc="4107316115" seo="true" ref="index">
@@ -970,6 +910,66 @@
     <file name="collage2mobile-2022b321x246_2x.jpg" crc="134099804" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="2022-button-aa-so_2x.jpg" crc="4285878171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x_2x.jpg" crc="491808287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x274x171.jpg" crc="4151894896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x274x171_2x.jpg" crc="4187576857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x256x160.jpg" crc="3835048935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x256x160_2x.jpg" crc="200697008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x227x142.jpg" crc="3864109839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x227x142_2x.jpg" crc="4083163316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x205x129.jpg" crc="3889079386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x205x129_2x.jpg" crc="4146351634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x178x112.jpg" crc="3855277703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x178x112_2x.jpg" crc="3974294724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x152x95.jpg" crc="81476326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x152x95_2x.jpg" crc="4240453017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x300x188.jpg" crc="483914390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x300x188_2x.jpg" crc="3953586397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x280x175.jpg" crc="3859009994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x280x175_2x.jpg" crc="4199054516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x250x157.jpg" crc="246092306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-button-aa-so_2x250x157_2x.jpg" crc="434196764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4192058012" seo="true" mt="1645047354059" redirect="true"/>
+  <file name="index.html" crc="364064007" seo="true" mt="1659628208544" redirect="true"/>
 </manifest>
