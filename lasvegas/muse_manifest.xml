@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1660058958178">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigsmokelasvegas.com" resolutions="1x,2x" timestamp="1660248731920">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
-    <file name="master_a-master.css" crc="4144637431" ref="index"/>
+    <file name="master_a-master.css" crc="3870258596" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3948575334" ref="index"/>
-    <file name="index.css" crc="4126659166" ref="index"/>
-    <file name="nomq_index.css" crc="253463274" ref="index"/>
+    <file name="index.css" crc="509233131" ref="index"/>
+    <file name="nomq_index.css" crc="3890285043" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -910,66 +910,66 @@
     <file name="collage2mobile-2022b321x246_2x.jpg" crc="134099804" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1.jpg" crc="4037959005" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x.jpg" crc="4285878171" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1_2x.jpg" crc="231475343" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x_2x.jpg" crc="174972182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1273x171.jpg" crc="87243782" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x273x171.jpg" crc="4151894896" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1273x171_2x.jpg" crc="293428869" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x273x171_2x.jpg" crc="4187576857" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1256x160.jpg" crc="4090920910" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x256x160.jpg" crc="3835048935" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1256x160_2x.jpg" crc="3881141683" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x256x160_2x.jpg" crc="200697008" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1227x142.jpg" crc="101150778" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x227x142.jpg" crc="3798203651" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1227x142_2x.jpg" crc="3909826343" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x227x142_2x.jpg" crc="4083163316" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1205x129.jpg" crc="161660387" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x205x128.jpg" crc="3889079386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1205x129_2x.jpg" crc="16533221" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x205x128_2x.jpg" crc="4126922089" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1178x112.jpg" crc="477217559" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x178x112.jpg" crc="3855277703" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1178x112_2x.jpg" crc="268547997" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x178x112_2x.jpg" crc="32558999" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1152x95.jpg" crc="393285650" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x152x95.jpg" crc="81476326" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1152x95_2x.jpg" crc="104163426" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x152x95_2x.jpg" crc="4240453017" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1300x188.jpg" crc="3993318297" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x300x188.jpg" crc="3844819112" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1300x188_2x.jpg" crc="250014319" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x300x188_2x.jpg" crc="260547820" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1280x175.jpg" crc="386038223" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x280x175.jpg" crc="3859009994" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1280x175_2x.jpg" crc="530048157" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x280x175_2x.jpg" crc="180688341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1250x157.jpg" crc="4072087487" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x250x157.jpg" crc="246092306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2022-button-aa1250x157_2x.jpg" crc="4216472655" seo="true" ref="index">
+    <file name="2022-button-aa-so_2x250x157_2x.jpg" crc="468488887" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3972173247" seo="true" mt="1660058926770" redirect="true"/>
+  <file name="index.html" crc="3804015973" seo="true" mt="1660248710427" redirect="true"/>
 </manifest>
