@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebigsmokes.com" resolutions="1x" timestamp="1668545849146">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebigsmokes.com" resolutions="1x" timestamp="1669217536708">
   <folder name="css">
     <file name="site_global.css" crc="91036504"/>
     <file name="master_a-master.css" crc="4041230594" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3956427444" ref="index"/>
-    <file name="index.css" crc="265043670" ref="index"/>
+    <file name="index.css" crc="30783335" ref="index"/>
     <file name="nomq_index.css" crc="4200393286" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -151,5 +151,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="154136889" seo="true" mt="1668545833416" redirect="true"/>
+  <file name="index.html" crc="3789499372" seo="true" mt="1669217494362" redirect="true"/>
 </manifest>
